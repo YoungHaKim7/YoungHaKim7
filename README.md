@@ -10,5 +10,5 @@ https://economiceco.tistory.com/
 GlobalYoung - Youtube
 https://www.youtube.com/channel/UCxFbmi4TjYxvFhnHulX1v-Q
 
- <a href="https://www.youtube.com/channel/UCxFbmi4TjYxvFhnHulX1v-Q"><img alt="Youtube" src="https://img.shields.io/badge/Dash-GlobalYoung-red"></a>
+ <a href="https://www.youtube.com/channel/UCxFbmi4TjYxvFhnHulX1v-Q" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/Dash-GlobalYoung-red"></a>
 
