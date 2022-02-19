@@ -6,6 +6,7 @@
  <a href="https://www.youtube.com/channel/UCxFbmi4TjYxvFhnHulX1v-Q" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/YouTube-GlobalYoung-red"></a>
 
 ### Languages and Tools:
+<a href="https://www.vim.org/" target="_blank"><img align="left" alt="vim" width="26px" src="https://user-images.githubusercontent.com/67513038/154793161-089985a0-db1d-457b-8dfd-26386af89158.png"></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img align="left" alt="vscode" width="26px" src="https://user-images.githubusercontent.com/67513038/146175156-e71067f9-3fb7-4dc9-b1c6-058552b972d6.jpg"></a>
 <a href="https://www.rust-lang.org/"><img align="left" alt="rust" width="26px" src="https://user-images.githubusercontent.com/67513038/146173748-cbfea7c9-3af7-49cb-8a22-1eebebe41ff6.jpg" /></a>
 <a href="https://www.python.org/"><img align="left" alt="python" width="26px" src="https://user-images.githubusercontent.com/67513038/146173763-af249b79-1838-4c27-943e-12c59be7eace.jpg"></a>
