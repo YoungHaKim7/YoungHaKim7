@@ -16,6 +16,7 @@
 <a href="https://www.docker.com/"><img align="left" alt="docker" width="32px" src="https://user-images.githubusercontent.com/67513038/152680127-e331659a-db71-41a1-a7d0-77d47f25d55e.png"></a>
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <br>
 ### Most Lang :
