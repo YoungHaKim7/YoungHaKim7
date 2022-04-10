@@ -14,3 +14,7 @@
 <a href="https://en.wikipedia.org/wiki/HTML"><img align="left" alt="html" width="45px" src="https://user-images.githubusercontent.com/67513038/146179458-5e587820-a037-41ee-bf02-2366b3e5aad7.jpg"></a>
 <a href="https://developer.apple.com/swift/"><img align="left" alt="swift" width="26px" src="https://user-images.githubusercontent.com/67513038/147562713-d5032edd-0595-4825-973c-6aab413d83de.jpg"></a>
 <a href="https://www.docker.com/"><img align="left" alt="docker" width="32px" src="https://user-images.githubusercontent.com/67513038/152680127-e331659a-db71-41a1-a7d0-77d47f25d55e.png"></a>
+
+
+## Most Lang
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
