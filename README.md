@@ -12,13 +12,11 @@
 <a href="https://www.python.org/"><img align="left" alt="python" width="26px" src="https://user-images.githubusercontent.com/67513038/146173763-af249b79-1838-4c27-943e-12c59be7eace.jpg"></a>
 <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img align="left" alt="cpp" width="26px" src="https://user-images.githubusercontent.com/67513038/146173770-368394e9-4ba4-40f3-922d-e534ee73f11b.jpg"></a>
 <a href="https://en.wikipedia.org/wiki/HTML"><img align="left" alt="html" width="45px" src="https://user-images.githubusercontent.com/67513038/146179458-5e587820-a037-41ee-bf02-2366b3e5aad7.jpg"></a>
-
-[//]: <a href="https://developer.apple.com/swift/"><img align="left" alt="swift" width="26px" src="https://user-images.githubusercontent.com/67513038/147562713-d5032edd-0595-4825-973c-6aab413d83de.jpg"></a>
-
+<!-- <a href="https://developer.apple.com/swift/"><img align="left" alt="swift" width="26px" src="https://user-images.githubusercontent.com/67513038/147562713-d5032edd-0595-4825-973c-6aab413d83de.jpg"></a> !-->
 <a href="https://www.docker.com/"><img align="left" alt="docker" width="32px" src="https://user-images.githubusercontent.com/67513038/152680127-e331659a-db71-41a1-a7d0-77d47f25d55e.png"></a>
 
 
--
+<!-- !-->
 ### Most Used Languages :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=younghakim7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Young's GitHub stats](https://github-readme-stats.vercel.app/api?username=younghakim7)](https://github.com/anuraghazra/github-readme-stats)
