@@ -7,7 +7,7 @@
 
 ### Languages and Tools:
 <a href="https://www.vim.org/" target="_blank"><img align="left" alt="vim" width="26px" src="https://user-images.githubusercontent.com/67513038/154793161-089985a0-db1d-457b-8dfd-26386af89158.png"></a>
-<a href="https://www.gnu.org/software/emacs/" target="_blank"><img align="left" alt="emacs" width="26px" src="https://user-images.githubusercontent.com/67513038/186932417-2d7daa6b-ff9b-4d4e-a366-e61e1fc0929c.png"></a>
+<a href="https://www.gnu.org/software/emacs/" target="_blank"><img align="left" alt="emacs" width="30px" src="https://user-images.githubusercontent.com/67513038/186932417-2d7daa6b-ff9b-4d4e-a366-e61e1fc0929c.png"></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img align="left" alt="vscode" width="26px" src="https://user-images.githubusercontent.com/67513038/146175156-e71067f9-3fb7-4dc9-b1c6-058552b972d6.jpg"></a>
 <a href="https://www.rust-lang.org/"><img align="left" alt="rust" width="26px" src="https://user-images.githubusercontent.com/67513038/146173748-cbfea7c9-3af7-49cb-8a22-1eebebe41ff6.jpg" /></a>
 <a href="https://ziglang.org/"><img align="left" alt="zig" width="26px" src="https://user-images.githubusercontent.com/67513038/178751011-806395c2-c3dc-4094-80da-5a9dc82f0782.png"></a>
