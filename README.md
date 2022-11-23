@@ -4,6 +4,8 @@
 - 📫 How to reach me ...
 <a href="https://economiceco.tistory.com/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-GlobalYoung-Green"></a>
  <a href="https://www.youtube.com/c/GlobalYoung7" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/YouTube-GlobalYoung-red"></a>
+ 
+ ![younghakim7’s GitHub image](https://crd.so/i/younghakim7)
 
 ### Languages and Tools:
 <a href="https://www.vim.org/" target="_blank"><img align="left" alt="vim" width="26px" src="https://user-images.githubusercontent.com/67513038/154793161-089985a0-db1d-457b-8dfd-26386af89158.png"></a>
