@@ -17,6 +17,7 @@
 <a href="https://ziglang.org/"><img align="left" alt="zig" width="26px" src="https://user-images.githubusercontent.com/67513038/178751011-806395c2-c3dc-4094-80da-5a9dc82f0782.png"></a>
 <a href="https://www.adaic.org/"><img align="left" alt="ada" width="26px" src="https://user-images.githubusercontent.com/67513038/204034555-9eee7448-992b-486a-8ad5-d1c7c4701bf6.png"></a>
 <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img align="left" alt="cpp" width="26px" src="https://user-images.githubusercontent.com/67513038/146173770-368394e9-4ba4-40f3-922d-e534ee73f11b.jpg"></a>
+<a href="[https://en.wikipedia.org/wiki/C%2B%2B](https://docs.oracle.com/javase/8/docs/technotes/guides/language/index.html)"><img align="left" alt="java" width="26px" src="https://user-images.githubusercontent.com/67513038/206882104-49ccf213-46e9-4a1f-ae84-d674f12cebc1.png"></a>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img align="left" alt="csharp" width="30px" src="https://user-images.githubusercontent.com/67513038/206488978-ab94802f-9f34-45b6-a456-876f900e3047.png"></a>
 <a href="https://learn.microsoft.com/en-us/dotnet/fsharp/"><img align="left" alt="fsharp" width="26px" src="https://user-images.githubusercontent.com/67513038/206490935-5bdcfb65-f097-41d3-b35b-0d85f5e115f9.png"></a>
 <a href="https://en.wikipedia.org/wiki/HTML"><img align="left" alt="html" width="45px" src="https://user-images.githubusercontent.com/67513038/146179458-5e587820-a037-41ee-bf02-2366b3e5aad7.jpg"></a>
