@@ -41,7 +41,9 @@
     <tr align="center">
         <td>Etc</td>
         <td>test<a href="https://www.haskell.org/"><img align="left" alt="haskell" width="26px" src="https://user-images.githubusercontent.com/67513038/204034727-e2a992fc-6392-4dc4-8846-843f0c1a31c9.png"></a>
-     <a href="https://www.adaic.org/"><img align="left" alt="ada" width="26px" src="https://user-images.githubusercontent.com/67513038/204034555-9eee7448-992b-486a-8ad5-d1c7c4701bf6.png"></a></td>
+     <a href="https://www.adaic.org/"><img align="left" alt="ada" width="26px" src="https://user-images.githubusercontent.com/67513038/204034555-9eee7448-992b-486a-8ad5-d1c7c4701bf6.png"></a>
+     <a href="https://docs.oracle.com/javase/8/docs/technotes/guides/language/index.html"><img align="left" alt="java" width="26px" src="https://user-images.githubusercontent.com/67513038/206882104-49ccf213-46e9-4a1f-ae84-d674f12cebc1.png"></a>
+     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img align="left" alt="csharp" width="30px" src="https://user-images.githubusercontent.com/67513038/206488978-ab94802f-9f34-45b6-a456-876f900e3047.png"></a></td>
     </tr>
 </table>
 
@@ -50,8 +52,8 @@
 
 
 
-<a href="https://docs.oracle.com/javase/8/docs/technotes/guides/language/index.html"><img align="left" alt="java" width="26px" src="https://user-images.githubusercontent.com/67513038/206882104-49ccf213-46e9-4a1f-ae84-d674f12cebc1.png"></a>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img align="left" alt="csharp" width="30px" src="https://user-images.githubusercontent.com/67513038/206488978-ab94802f-9f34-45b6-a456-876f900e3047.png"></a>
+
+
 <a href="https://learn.microsoft.com/en-us/dotnet/fsharp/"><img align="left" alt="fsharp" width="26px" src="https://user-images.githubusercontent.com/67513038/206490935-5bdcfb65-f097-41d3-b35b-0d85f5e115f9.png"></a>
 <a href="https://en.wikipedia.org/wiki/HTML"><img align="left" alt="html" width="45px" src="https://user-images.githubusercontent.com/67513038/146179458-5e587820-a037-41ee-bf02-2366b3e5aad7.jpg"></a>
 <a href="https://kotlinlang.org/"><img align="left" alt="python" width="26px" src="https://user-images.githubusercontent.com/67513038/207230971-6f785c6f-77c7-499d-9e90-16543505ef4d.svg"></a>
