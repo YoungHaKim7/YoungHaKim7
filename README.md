@@ -7,7 +7,8 @@
  
  ![younghakim7’s GitHub image](https://crd.so/i/younghakim7)
 
-### Languages and Tools:
+<!-- ### Languages and Tools:  !-->
+
 <table border="1">
     <tr>
     <td colspan="2" align="center">Languages and Tools</td>
@@ -19,6 +20,10 @@
     <tr align="center">
         <td>Editor</td>
         <td>Vim<a href="https://www.vim.org/" target="_blank"><img align="left" alt="vim" width="26px" src="https://user-images.githubusercontent.com/67513038/154793161-089985a0-db1d-457b-8dfd-26386af89158.png"></a>
+         <a href="https://helix-editor.com/"><img align="left" alt="helix" width="20px" src="https://user-images.githubusercontent.com/67513038/191502155-cd8fce5e-53de-48c0-8716-ded2f1e38fb8.png" /></a>
+         <a href="https://www.gnu.org/software/emacs/" target="_blank"><img align="left" alt="emacs" width="30px" src="https://user-images.githubusercontent.com/67513038/186932417-2d7daa6b-ff9b-4d4e-a366-e61e1fc0929c.png"></a>
+         <a href="https://code.visualstudio.com/" target="_blank"><img align="left" alt="vscode" width="26px" src="https://user-images.githubusercontent.com/67513038/146175156-e71067f9-3fb7-4dc9-b1c6-058552b972d6.jpg"></a>
+         
     </td>
     <tr align="center">
         <td>Low<br>Level</td>
@@ -38,9 +43,9 @@
         <td>. </td>
     </tr>
 </table>
-<a href="https://www.gnu.org/software/emacs/" target="_blank"><img align="left" alt="emacs" width="30px" src="https://user-images.githubusercontent.com/67513038/186932417-2d7daa6b-ff9b-4d4e-a366-e61e1fc0929c.png"></a>
-<a href="https://code.visualstudio.com/" target="_blank"><img align="left" alt="vscode" width="26px" src="https://user-images.githubusercontent.com/67513038/146175156-e71067f9-3fb7-4dc9-b1c6-058552b972d6.jpg"></a>
-<a href="https://helix-editor.com/"><img align="left" alt="helix" width="20px" src="https://user-images.githubusercontent.com/67513038/191502155-cd8fce5e-53de-48c0-8716-ded2f1e38fb8.png" /></a>
+
+
+
 <a href="https://www.rust-lang.org/"><img align="left" alt="rust" width="26px" src="https://user-images.githubusercontent.com/67513038/146173748-cbfea7c9-3af7-49cb-8a22-1eebebe41ff6.jpg" /></a>
 <a href="https://www.haskell.org/"><img align="left" alt="haskell" width="26px" src="https://user-images.githubusercontent.com/67513038/204034727-e2a992fc-6392-4dc4-8846-843f0c1a31c9.png"></a>
 <a href="https://ziglang.org/"><img align="left" alt="zig" width="26px" src="https://user-images.githubusercontent.com/67513038/178751011-806395c2-c3dc-4094-80da-5a9dc82f0782.png"></a>
