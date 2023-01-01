@@ -30,8 +30,7 @@
     </tr>
     <tr align="center">
         <td>OS</td>
-        <td>Windows</td>
-    </tr>
+        <td>Windows<a href="https://www.linux.org/pages/download/"><img align="left" alt="linux" width="26px" src="https://user-images.githubusercontent.com/67513038/210177859-6623064c-7344-46ce-a0d3-b6dcf21410e2.png"></a></td></tr>
     <tr align="center">
         <td>Quantum<br>Coding</td>
         <td>Silq</td>
@@ -61,7 +60,7 @@
 <a href="https://kotlinlang.org/"><img align="left" alt="python" width="26px" src="https://user-images.githubusercontent.com/67513038/207230971-6f785c6f-77c7-499d-9e90-16543505ef4d.svg"></a>
 <a href="https://julialang.org/"><img align="left" alt="julia" width="26px" src="https://user-images.githubusercontent.com/67513038/208703412-02258d30-101a-4192-8c12-d387f3c6c163.png"></a>
 <a href="https://www.python.org/"><img align="left" alt="python" width="26px" src="https://user-images.githubusercontent.com/67513038/146173763-af249b79-1838-4c27-943e-12c59be7eace.jpg"></a>
-<a href="https://www.linux.org/pages/download/"><img align="left" alt="linux" width="26px" src="https://user-images.githubusercontent.com/67513038/210177859-6623064c-7344-46ce-a0d3-b6dcf21410e2.png"></a>
+
 
 <!-- <a href="https://developer.apple.com/swift/"><img align="left" alt="swift" width="26px" src="https://user-images.githubusercontent.com/67513038/147562713-d5032edd-0595-4825-973c-6aab413d83de.jpg"></a> !-->
 <a href="https://www.docker.com/"><img align="left" alt="docker" width="32px" src="https://user-images.githubusercontent.com/67513038/152680127-e331659a-db71-41a1-a7d0-77d47f25d55e.png"></a>
