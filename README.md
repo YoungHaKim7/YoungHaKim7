@@ -33,8 +33,7 @@
         <td>Windows<a href="https://www.linux.org/pages/download/"><img align="left" alt="linux" width="26px" src="https://user-images.githubusercontent.com/67513038/210177859-6623064c-7344-46ce-a0d3-b6dcf21410e2.png"></a></td></tr>
     <tr align="center">
         <td>Quantum<br>Coding</td>
-        <td>Silq</td>
-    </tr>
+        <td>Silq<a href="https://silq.ethz.ch/"><img align="left" alt="quantum" width="45px" src="https://user-images.githubusercontent.com/67513038/206940366-acf03b4a-f277-4f8d-aed3-11e3b14ded26.svg"></a></td></tr>
     <tr align="center">
         <td>cloud</td>
         <td>Doker</td>
@@ -56,7 +55,7 @@
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img align="left" alt="csharp" width="30px" src="https://user-images.githubusercontent.com/67513038/206488978-ab94802f-9f34-45b6-a456-876f900e3047.png"></a>
 <a href="https://learn.microsoft.com/en-us/dotnet/fsharp/"><img align="left" alt="fsharp" width="26px" src="https://user-images.githubusercontent.com/67513038/206490935-5bdcfb65-f097-41d3-b35b-0d85f5e115f9.png"></a>
 <a href="https://en.wikipedia.org/wiki/HTML"><img align="left" alt="html" width="45px" src="https://user-images.githubusercontent.com/67513038/146179458-5e587820-a037-41ee-bf02-2366b3e5aad7.jpg"></a>
-<a href="https://silq.ethz.ch/"><img align="left" alt="quantum" width="45px" src="https://user-images.githubusercontent.com/67513038/206940366-acf03b4a-f277-4f8d-aed3-11e3b14ded26.svg"></a>
+
 <a href="https://kotlinlang.org/"><img align="left" alt="python" width="26px" src="https://user-images.githubusercontent.com/67513038/207230971-6f785c6f-77c7-499d-9e90-16543505ef4d.svg"></a>
 <a href="https://julialang.org/"><img align="left" alt="julia" width="26px" src="https://user-images.githubusercontent.com/67513038/208703412-02258d30-101a-4192-8c12-d387f3c6c163.png"></a>
 <a href="https://www.python.org/"><img align="left" alt="python" width="26px" src="https://user-images.githubusercontent.com/67513038/146173763-af249b79-1838-4c27-943e-12c59be7eace.jpg"></a>
