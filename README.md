@@ -34,7 +34,7 @@
         <td>Windows<a href="https://www.linux.org/pages/download/"><img align="left" alt="linux" width="26px" src="https://user-images.githubusercontent.com/67513038/210177859-6623064c-7344-46ce-a0d3-b6dcf21410e2.png"></a></td></tr>
     <tr align="center">
         <td>Quantum<br>Coding</td>
-        <td>[Silq](https://github.com/YoungHaKim7/silq_project)<a href="https://silq.ethz.ch/"><img align="left" alt="quantum" width="45px" src="https://user-images.githubusercontent.com/67513038/206940366-acf03b4a-f277-4f8d-aed3-11e3b14ded26.svg"></a></td></tr>
+        <td>[Silq](https://github.com/YoungHaKim7/silq_project)<a href="https://silq.ethz.ch/"><img align="left" alt="quantum" width="45px" src="https://user-images.githubusercontent.com/67513038/206940366-acf03b4a-f277-4f8d-aed3-11e3b14ded26.svg"></a><a href="https://www.w3schools.com">Visit W3Schools</a></td></tr>
     <tr align="center">
         <td>cloud</td>
         <td>Docker<a href="https://www.docker.com/"><img align="left" alt="docker" width="32px" src="https://user-images.githubusercontent.com/67513038/152680127-e331659a-db71-41a1-a7d0-77d47f25d55e.png"></a></td></tr>
