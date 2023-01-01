@@ -37,6 +37,10 @@
         <td>Silq</td>
     </tr>
     <tr align="center">
+        <td>cloud</td>
+        <td>Doker</td>
+    </tr>
+    <tr align="center">
         <td>Etc</td>
         <td>. </td>
     </tr>
