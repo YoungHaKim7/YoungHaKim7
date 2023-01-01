@@ -44,19 +44,10 @@
      <a href="https://www.adaic.org/"><img align="left" alt="ada" width="26px" src="https://user-images.githubusercontent.com/67513038/204034555-9eee7448-992b-486a-8ad5-d1c7c4701bf6.png"></a>
      <a href="https://docs.oracle.com/javase/8/docs/technotes/guides/language/index.html"><img align="left" alt="java" width="26px" src="https://user-images.githubusercontent.com/67513038/206882104-49ccf213-46e9-4a1f-ae84-d674f12cebc1.png"></a>
      <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img align="left" alt="csharp" width="30px" src="https://user-images.githubusercontent.com/67513038/206488978-ab94802f-9f34-45b6-a456-876f900e3047.png"></a>
-     <a href="https://learn.microsoft.com/en-us/dotnet/fsharp/"><img align="left" alt="fsharp" width="26px" src="https://user-images.githubusercontent.com/67513038/206490935-5bdcfb65-f097-41d3-b35b-0d85f5e115f9.png"></a><br>
+     <a href="https://learn.microsoft.com/en-us/dotnet/fsharp/"><img align="left" alt="fsharp" width="26px" src="https://user-images.githubusercontent.com/67513038/206490935-5bdcfb65-f097-41d3-b35b-0d85f5e115f9.png"></a>
      <a href="https://en.wikipedia.org/wiki/HTML"><img align="left" alt="html" width="45px" src="https://user-images.githubusercontent.com/67513038/146179458-5e587820-a037-41ee-bf02-2366b3e5aad7.jpg"></a></td>
     </tr>
 </table>
-
-
-
-
-
-
-
-
-
 
 <a href="https://kotlinlang.org/"><img align="left" alt="python" width="26px" src="https://user-images.githubusercontent.com/67513038/207230971-6f785c6f-77c7-499d-9e90-16543505ef4d.svg"></a>
 <a href="https://julialang.org/"><img align="left" alt="julia" width="26px" src="https://user-images.githubusercontent.com/67513038/208703412-02258d30-101a-4192-8c12-d387f3c6c163.png"></a>
