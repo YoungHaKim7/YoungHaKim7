@@ -8,7 +8,36 @@
  ![younghakim7’s GitHub image](https://crd.so/i/younghakim7)
 
 ### Languages and Tools:
-<a href="https://www.vim.org/" target="_blank"><img align="left" alt="vim" width="26px" src="https://user-images.githubusercontent.com/67513038/154793161-089985a0-db1d-457b-8dfd-26386af89158.png"></a>
+<table border="1">
+    <tr>
+    <td colspan="2" align="center">Languages and Tools</td>
+    </tr>
+    <tr align="center">
+        <td>⭐️</td>
+        <td>Title</td>
+    </tr>
+    <tr align="center">
+        <td>Editor</td>
+        <td>Vim<a href="https://www.vim.org/" target="_blank"><img align="left" alt="vim" width="26px" src="https://user-images.githubusercontent.com/67513038/154793161-089985a0-db1d-457b-8dfd-26386af89158.png"></a>
+    </td>
+    <tr align="center">
+        <td>Low<br>Level</td>
+        <td>C
+    </td>
+    </tr>
+    <tr align="center">
+        <td>OS</td>
+        <td>Windows</td>
+    </tr>
+    <tr align="center">
+        <td>Quantum<br>Coding</td>
+        <td>Silq</td>
+    </tr>
+    <tr align="center">
+        <td>Etc</td>
+        <td>. </td>
+    </tr>
+</table>
 <a href="https://www.gnu.org/software/emacs/" target="_blank"><img align="left" alt="emacs" width="30px" src="https://user-images.githubusercontent.com/67513038/186932417-2d7daa6b-ff9b-4d4e-a366-e61e1fc0929c.png"></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img align="left" alt="vscode" width="26px" src="https://user-images.githubusercontent.com/67513038/146175156-e71067f9-3fb7-4dc9-b1c6-058552b972d6.jpg"></a>
 <a href="https://helix-editor.com/"><img align="left" alt="helix" width="20px" src="https://user-images.githubusercontent.com/67513038/191502155-cd8fce5e-53de-48c0-8716-ded2f1e38fb8.png" /></a>
