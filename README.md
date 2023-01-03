@@ -31,7 +31,7 @@
     </tr>
  <tr align="center">
     <td>Assembly<br>X86 & Arm</td>
-    <a href="https://developer.apple.com/swift/"><img align="left" alt="assembly" width="26px" src="https://user-images.githubusercontent.com/67513038/210325356-f21c646d-6ef1-4736-ac42-53f0b5e149ca.png"></a></td>
+    <td><a href="https://developer.apple.com/swift/"><img align="left" alt="assembly" width="26px" src="https://user-images.githubusercontent.com/67513038/210325356-f21c646d-6ef1-4736-ac42-53f0b5e149ca.png"></a></td>
     </tr>
     <tr align="center">
         <td>OS</td>
