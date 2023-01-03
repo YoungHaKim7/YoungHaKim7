@@ -30,8 +30,8 @@
      <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img align="left" alt="cpp" width="26px" src="https://user-images.githubusercontent.com/67513038/146173770-368394e9-4ba4-40f3-922d-e534ee73f11b.jpg"></a></td>
     </tr>
  <tr align="center">
-        <td>Assembly<br>X86 & Arm</td>
-  <a href="https://developer.apple.com/swift/"><img align="left" alt="assembly" width="26px" src="https://user-images.githubusercontent.com/67513038/210325356-f21c646d-6ef1-4736-ac42-53f0b5e149ca.png"></a></td>
+    <td>Assembly<br>X86 & Arm</td>
+    <a href="https://developer.apple.com/swift/"><img align="left" alt="assembly" width="26px" src="https://user-images.githubusercontent.com/67513038/210325356-f21c646d-6ef1-4736-ac42-53f0b5e149ca.png"></a></td>
     </tr>
     <tr align="center">
         <td>OS</td>
