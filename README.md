@@ -54,6 +54,9 @@
      <a href="https://julialang.org/"><img align="left" alt="julia" width="26px" src="https://user-images.githubusercontent.com/67513038/208703412-02258d30-101a-4192-8c12-d387f3c6c163.png"></a>
      <a href="https://www.python.org/"><img align="left" alt="python" width="26px" src="https://user-images.githubusercontent.com/67513038/146173763-af249b79-1838-4c27-943e-12c59be7eace.jpg"></a></td>
     </tr>
+    <tr align="center">
+        <td>Terminal<br>emulator</td>
+        <td>Warp<a href="https://www.linux.org/pages/download/"><img align="left" alt="linux" width="26px" src="https://user-images.githubusercontent.com/67513038/210177859-6623064c-7344-46ce-a0d3-b6dcf21410e2.png"></a></td></tr>
 </table>
 
 
