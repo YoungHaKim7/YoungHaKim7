@@ -56,8 +56,8 @@
     </tr>
     <tr align="center">
         <td>Terminal<br>emulator</td>
-        <td>Warp & Alacritty<a href="https://www.warp.dev/"><img align="left" alt="warp" width="26px" src="https://user-images.githubusercontent.com/67513038/210915840-5306318c-7564-4deb-b423-c46847b0a286.png"></a></td>
- <td>Warp & Alacritty<a href="https://alacritty.org/"><img align="left" alt="alacritty" width="26px" src="https://user-images.githubusercontent.com/67513038/210916659-2bcbc6a5-1d10-4f9d-8541-a567f4ec59f0.png"></a></td></tr>
+        <td>Warp & Alacritty<a href="https://www.warp.dev/"><img align="left" alt="warp" width="26px" src="https://user-images.githubusercontent.com/67513038/210915840-5306318c-7564-4deb-b423-c46847b0a286.png"></a>
+ Warp & Alacritty<a href="https://alacritty.org/"><img align="left" alt="alacritty" width="26px" src="https://user-images.githubusercontent.com/67513038/210916659-2bcbc6a5-1d10-4f9d-8541-a567f4ec59f0.png"></a></td></tr>
 </table>
 
 
