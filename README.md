@@ -56,7 +56,7 @@
     </tr>
     <tr align="center">
         <td>Terminal<br>emulator</td>
-        <td>Warp<a href="https://www.linux.org/pages/download/"><img align="left" alt="linux" width="26px" src="https://user-images.githubusercontent.com/67513038/210177859-6623064c-7344-46ce-a0d3-b6dcf21410e2.png"></a></td></tr>
+        <td>Warp<a href="https://www.linux.org/pages/download/"><img align="left" alt="warp" width="26px" src="https://user-images.githubusercontent.com/67513038/210915840-5306318c-7564-4deb-b423-c46847b0a286.png)"></a></td></tr>
 </table>
 
 
