@@ -59,7 +59,7 @@
         <td><a href="https://www.haskell.org/"><img align="left" alt="haskell" width="26px" src="https://user-images.githubusercontent.com/67513038/204034727-e2a992fc-6392-4dc4-8846-843f0c1a31c9.png"></a></td></tr>
      <tr align="center">
         <td>Classical<br>Concurrency<br>Programming</td>
-        <td><a href="https://www.adaic.org/"><img align="left" alt="erlang" width="26px" src="https://user-images.githubusercontent.com/67513038/211135244-d5435285-1128-4020-98d3-23c63f751e0c.png"></a></td></tr>
+        <td><a href="https://www.erlang.org/"><img align="left" alt="erlang" width="26px" src="https://user-images.githubusercontent.com/67513038/211135244-d5435285-1128-4020-98d3-23c63f751e0c.png"></a></td></tr>
      <tr align="center">
         <td>Etc</td>
         <td><a href="https://www.adaic.org/"><img align="left" alt="ada" width="26px" src="https://user-images.githubusercontent.com/67513038/204034555-9eee7448-992b-486a-8ad5-d1c7c4701bf6.png"></a>
