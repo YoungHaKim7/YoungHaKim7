@@ -57,7 +57,6 @@
         <td>Etc</td>
         <td><a href="https://www.haskell.org/"><img align="left" alt="haskell" width="26px" src="https://user-images.githubusercontent.com/67513038/204034727-e2a992fc-6392-4dc4-8846-843f0c1a31c9.png"></a>
      <a href="https://www.adaic.org/"><img align="left" alt="ada" width="26px" src="https://user-images.githubusercontent.com/67513038/204034555-9eee7448-992b-486a-8ad5-d1c7c4701bf6.png"></a>
-     
      <a href="https://en.wikipedia.org/wiki/HTML"><img align="left" alt="html" width="45px" src="https://user-images.githubusercontent.com/67513038/146179458-5e587820-a037-41ee-bf02-2366b3e5aad7.jpg"></a>
      <a href="https://kotlinlang.org/"><img align="left" alt="python" width="26px" src="https://user-images.githubusercontent.com/67513038/207230971-6f785c6f-77c7-499d-9e90-16543505ef4d.svg"></a>
      <a href="https://julialang.org/"><img align="left" alt="julia" width="26px" src="https://user-images.githubusercontent.com/67513038/208703412-02258d30-101a-4192-8c12-d387f3c6c163.png"></a>
