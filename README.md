@@ -61,8 +61,8 @@
         <td>Classical<br>Concurrency<br>Programming</td>
         <td><a href="https://www.erlang.org/"><img align="left" alt="erlang" width="26px" src="https://user-images.githubusercontent.com/67513038/211135244-d5435285-1128-4020-98d3-23c63f751e0c.png"></a></td></tr>
     <tr align="center">
-        <td>Classical<br>FFinancial<br>Programming</td>
-        <td>CommonBusiness<br>OrientedLanguage<a href="https://www.docker.com/"><img align="left" alt="cobol" width="32px" src="https://user-images.githubusercontent.com/67513038/211202750-03343c85-8fdb-4ed7-bd5e-0a50929f48c6.png"></a></td></tr>    
+        <td>Classical<br>Financial<br>Programming</td>
+        <td>CommonBusiness<br>OrientedLanguage<a href="https://en.wikipedia.org/wiki/COBOL"><img align="left" alt="cobol" width="32px" src="https://user-images.githubusercontent.com/67513038/211202750-03343c85-8fdb-4ed7-bd5e-0a50929f48c6.png"></a></td></tr>    
  <tr align="center">
         <td>Etc</td>
         <td><a href="https://www.adaic.org/"><img align="left" alt="ada" width="26px" src="https://user-images.githubusercontent.com/67513038/204034555-9eee7448-992b-486a-8ad5-d1c7c4701bf6.png"></a>
