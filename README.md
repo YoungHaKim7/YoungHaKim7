@@ -68,7 +68,11 @@
         <td>Classical<br>Financial<br>Programming</td>
         <td>CommonBusiness<br>OrientedLanguage<a href="https://en.wikipedia.org/wiki/COBOL"><img align="left" alt="cobol" width="32px" src="https://user-images.githubusercontent.com/67513038/211202750-03343c85-8fdb-4ed7-bd5e-0a50929f48c6.png"></a></td></tr>    
  <tr align="center">
-        <td>Etc</td>
+        <td>Ada a <br>"safety critical"<br> language</td>
+        <td><a href="https://www.adaic.org/"><img align="left" alt="ada" width="26px" src="https://user-images.githubusercontent.com/67513038/204034555-9eee7448-992b-486a-8ad5-d1c7c4701bf6.png"></a>
+        </td>
+    </tr>
+    <td>Etc</td>
         <td><a href="https://www.adaic.org/"><img align="left" alt="ada" width="26px" src="https://user-images.githubusercontent.com/67513038/204034555-9eee7448-992b-486a-8ad5-d1c7c4701bf6.png"></a>
         <a href="https://en.wikipedia.org/wiki/HTML"><img align="left" alt="html" width="45px" src="https://user-images.githubusercontent.com/67513038/146179458-5e587820-a037-41ee-bf02-2366b3e5aad7.jpg"></a>
         <a href="https://julialang.org/"><img align="left" alt="julia" width="26px" src="https://user-images.githubusercontent.com/67513038/208703412-02258d30-101a-4192-8c12-d387f3c6c163.png"></a>
