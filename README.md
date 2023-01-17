@@ -55,7 +55,7 @@
         <td><a href="https://docs.oracle.com/javase/8/docs/technotes/guides/language/index.html"><img align="left" alt="java" width="26px" src="https://user-images.githubusercontent.com/67513038/206882104-49ccf213-46e9-4a1f-ae84-d674f12cebc1.png"></a>
         <a href="https://kotlinlang.org/"><img align="left" alt="python" width="26px" src="https://user-images.githubusercontent.com/67513038/207230971-6f785c6f-77c7-499d-9e90-16543505ef4d.svg"></a></td></tr>
      <tr align="center">
-        <td>TypeScript = 😎<br>The next generation of JavaScript</td>
+        <td>TypeScript = 💪<br>The next generation of JavaScript</td>
         <td><a href="https://en.wikipedia.org/wiki/HTML"><img align="left" alt="html" width="45px" src="https://user-images.githubusercontent.com/67513038/146179458-5e587820-a037-41ee-bf02-2366b3e5aad7.jpg"></a>
         <a href="https://julialang.org/"><img align="left" alt="typescript" width="26px" src="https://user-images.githubusercontent.com/67513038/212785634-76fbb5ab-6897-46a1-9a32-90c9d10bdf97.svg"></a>
         </td>
