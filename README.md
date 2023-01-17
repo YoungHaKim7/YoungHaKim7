@@ -68,7 +68,7 @@
         <td>Classical<br>Financial<br>Programming</td>
         <td>CommonBusiness<br>OrientedLanguage<a href="https://en.wikipedia.org/wiki/COBOL"><img align="left" alt="cobol" width="32px" src="https://user-images.githubusercontent.com/67513038/211202750-03343c85-8fdb-4ed7-bd5e-0a50929f48c6.png"></a></td></tr>    
  <tr align="center">
-        <td>Ada a <br>"safety critical"<br> language</td>
+        <td>Ada a ⛑<br>"safety critical"<br> language</td>
         <td><a href="https://www.adaic.org/"><img align="left" alt="ada" width="26px" src="https://user-images.githubusercontent.com/67513038/204034555-9eee7448-992b-486a-8ad5-d1c7c4701bf6.png"></a><a href="https://stackoverflow.com/questions/7814869/how-is-ada-a-safety-critical-language">Safe reasons</a>
         </td>
     </tr>
