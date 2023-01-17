@@ -30,7 +30,7 @@
      <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img align="left" alt="cpp" width="26px" src="https://user-images.githubusercontent.com/67513038/146173770-368394e9-4ba4-40f3-922d-e534ee73f11b.jpg"></a></td>
     </tr>
  <tr align="center">
-    <td>Assembly<br>X86 & Arm</td>
+    <td>Assembly<br>X86_64 & Arm</td>
     <td><a href="https://en.wikipedia.org/wiki/Assembly_language"><img align="left" alt="assembly" width="26px" src="https://user-images.githubusercontent.com/67513038/210325356-f21c646d-6ef1-4736-ac42-53f0b5e149ca.png"></a><a href="https://github.com/YoungHaKim7/Arm64_Assembly_Language">Arm64_Assembly_my_project</a></td>
     </tr>
     <tr align="center">
@@ -69,7 +69,7 @@
         <td>CommonBusiness<br>OrientedLanguage<a href="https://en.wikipedia.org/wiki/COBOL"><img align="left" alt="cobol" width="32px" src="https://user-images.githubusercontent.com/67513038/211202750-03343c85-8fdb-4ed7-bd5e-0a50929f48c6.png"></a></td></tr>    
  <tr align="center">
         <td>Ada a <br>"safety critical"<br> language</td>
-        <td><a href="https://www.adaic.org/"><img align="left" alt="ada" width="26px" src="https://user-images.githubusercontent.com/67513038/204034555-9eee7448-992b-486a-8ad5-d1c7c4701bf6.png"></a>
+        <td><a href="https://www.adaic.org/"><img align="left" alt="ada" width="26px" src="https://user-images.githubusercontent.com/67513038/204034555-9eee7448-992b-486a-8ad5-d1c7c4701bf6.png"></a><a href="https://stackoverflow.com/questions/7814869/how-is-ada-a-safety-critical-language">Safe reasons</a>
         </td>
     </tr>
  <tr align="center">
