@@ -32,7 +32,9 @@
      <tr align="center">
         <td>Rust<br>MachineLearning</td>
         <td><a href="https://github.com/rust-ml/linfa"><img align="left" alt="rustmascot" width="26px" src="https://user-images.githubusercontent.com/67513038/213403213-1b1b3efc-ce53-4825-9dfc-e9bf2956a7f4.svg" /></a>
-     </td>
+        </td>
+      <td><a href="https://www.rust-lang.org/"><img align="left" alt="rust1" width="26px" src="https://user-images.githubusercontent.com/67513038/213436632-820a1675-98d9-4626-979d-be63c60cdcb7.png" /></a>
+        </td>
     </tr>
  <tr align="center">
     <td>Assembly<br>X86_64 & Arm</td>
