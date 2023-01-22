@@ -38,7 +38,7 @@
  <tr align="center">
     <td>Assembly<br>X86_64 & Arm</td>
     <td><a href="https://en.wikipedia.org/wiki/Assembly_language"><img align="left" alt="assembly" width="26px" src="https://user-images.githubusercontent.com/67513038/210325356-f21c646d-6ef1-4736-ac42-53f0b5e149ca.png"></a><a href="https://github.com/YoungHaKim7/Arm64_Assembly_Language">Arm64_Assembly_my_project</a>
-  <a href="https://github.com/YoungHaKim7/x86_64_Assembly_my_project">x86_64_Assembly_my_project</a></td>
+  <br><a href="https://github.com/YoungHaKim7/x86_64_Assembly_my_project">x86_64_Assembly_my_project</a></td>
     </tr>
     <tr align="center">
         <td>OS</td>
