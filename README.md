@@ -105,8 +105,8 @@
        </tr>
     <tr align="center">
        <td>Polyglot<br>MyYouTubeContents</td>
-       <a href="https://alacritty.org/"><img align="left" alt="myyoutubechannel" width="26px" src="https://user-images.githubusercontent.com/67513038/214269633-026239ec-b47e-4743-8556-3e644b0f20b2.png"></a><td>
-       <td><a href="https://github.com/EbookFoundation/free-programming-books">My YouTube Contents</a></td>
+       <a href="https://alacritty.org/"><img align="left" alt="myyoutubechannel" width="26px" src="https://user-images.githubusercontent.com/67513038/214269633-026239ec-b47e-4743-8556-3e644b0f20b2.png"></a>
+       <a href="https://github.com/EbookFoundation/free-programming-books">My YouTube Contents</a></td>
        </tr>
 </table>
 
