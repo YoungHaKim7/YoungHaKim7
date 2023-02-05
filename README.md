@@ -33,7 +33,8 @@
          <br><a href="https://github.com/YoungHaKim7/rust_release">Rust_Release</a>
          <br><a href="https://github.com/YoungHaKim7/zig_lang_exercises">Zig_my_project</a>
          <br><a href="https://github.com/YoungHaKim7/c_project">C_my_project</a>
-         <br><a href="https://github.com/YoungHaKim7/Cpp_Training">C++_Training</a></td>
+         <br><a href="https://github.com/YoungHaKim7/Cpp_Training">C++_Training</a>
+         <br><a href="https://github.com/YoungHaKim7/cpp23_project">C++23_Training</a></td>
     </tr>
      <tr align="center">
         <td>Rust<br>MachineLearning</td>
