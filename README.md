@@ -30,6 +30,7 @@
      <a href="https://ziglang.org/"><img align="left" alt="zig" width="26px" src="https://user-images.githubusercontent.com/67513038/178751011-806395c2-c3dc-4094-80da-5a9dc82f0782.png"></a>
      <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img align="left" alt="cpp" width="26px" src="https://user-images.githubusercontent.com/67513038/146173770-368394e9-4ba4-40f3-922d-e534ee73f11b.jpg"></a>
          <a href="https://github.com/YoungHaKim7/my_rust_project">Rust_my_project</a>
+         <br><a href="https://github.com/YoungHaKim7/rust_release">Rust_Release</a>
          <br><a href="https://github.com/YoungHaKim7/zig_lang_exercises">Zig_my_project</a>
          <br><a href="https://github.com/YoungHaKim7/c_project">C_my_project</a></td>
     </tr>
