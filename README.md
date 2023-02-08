@@ -74,7 +74,7 @@
          <a href="https://www.php.net/"><img align="left" alt="php" width="45px" src="https://user-images.githubusercontent.com/67513038/215450246-cc87207e-cad5-4cf9-bd80-5cece81c7513.png"></a><a href="https://github.com/YoungHaKim7/Php_Lang">PHP_my_project</a>
       </td></tr>
  <tr align="center">
-        <td>Generation of diagrams like<br>flowcharts or sequence diagrams</td>
+        <td>Diagramming and<br>charting tool</td>
         <td><a href="https://mermaid.js.org/"><img align="left" alt="mermaid" width="26px" src="https://user-images.githubusercontent.com/67513038/217426277-7a86a400-8749-4e59-a46b-161e25c7bdc3.png"></a>
       </td></tr>
    <tr align="center">
