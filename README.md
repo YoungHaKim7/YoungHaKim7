@@ -73,11 +73,6 @@
         <td><a href="https://en.wikipedia.org/wiki/HTML"><img align="left" alt="html" width="45px" src="https://user-images.githubusercontent.com/67513038/146179458-5e587820-a037-41ee-bf02-2366b3e5aad7.jpg"></a>
          <a href="https://www.php.net/"><img align="left" alt="php" width="45px" src="https://user-images.githubusercontent.com/67513038/215450246-cc87207e-cad5-4cf9-bd80-5cece81c7513.png"></a><a href="https://github.com/YoungHaKim7/Php_Lang">PHP_my_project</a>
       </td></tr>
- <tr align="center">
-        <td>Diagramming and<br>charting tool</td>
-        <td><a href="https://mermaid.js.org/"><img align="left" alt="mermaid" width="26px" src="https://user-images.githubusercontent.com/67513038/217426277-7a86a400-8749-4e59-a46b-161e25c7bdc3.png"></a>
-         <a href="https://github.com/YoungHaKim7/mermaid_project">mermaid_project</a>
-      </td></tr>
    <tr align="center">
         <td>Web<br>Dev.__Elixir_API</td>
         <td><a href="https://elixir-lang.org/"><img align="left" alt="elixir" width="26px" src="https://user-images.githubusercontent.com/67513038/215451916-20c7c6a8-3d11-4260-8f4c-17979d0c5a40.png"></a>
@@ -89,6 +84,16 @@
         <a href="https://www.typescriptlang.org/"><img align="left" alt="typescript" width="26px" src="https://user-images.githubusercontent.com/67513038/212785634-76fbb5ab-6897-46a1-9a32-90c9d10bdf97.svg"></a>
         </td>
     </tr>
+   <tr align="center">
+        <td>Diagramming and<br>charting tool</td>
+        <td><a href="https://mermaid.js.org/"><img align="left" alt="mermaid" width="26px" src="https://user-images.githubusercontent.com/67513038/217426277-7a86a400-8749-4e59-a46b-161e25c7bdc3.png"></a>
+         <a href="https://github.com/YoungHaKim7/mermaid_project">mermaid_project</a>
+      </td></tr>
+   <tr align="center">
+        <td>Markdown slide deck<br> framework</td>
+        <td><a href="https://mermaid.js.org/"><img align="left" alt="mermaid" width="26px" src="https://user-images.githubusercontent.com/67513038/217426277-7a86a400-8749-4e59-a46b-161e25c7bdc3.png"></a>
+         <a href="https://github.com/YoungHaKim7/mermaid_project">mermaid_project</a>
+      </td></tr>
      <tr align="center">
         <td>Multi-paradigm<br>& long history</td>
         <td>
