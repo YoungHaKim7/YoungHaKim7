@@ -85,7 +85,7 @@
         </td>
     </tr>
    <tr align="center">
-        <td>Diagramming and<br>charting tool</td>
+        <td>Diagramming and<br>charting tool📊</td>
         <td><a href="https://mermaid.js.org/"><img align="left" alt="mermaid" width="26px" src="https://user-images.githubusercontent.com/67513038/217426277-7a86a400-8749-4e59-a46b-161e25c7bdc3.png"></a>
          <a href="https://github.com/YoungHaKim7/mermaid_project">mermaid_project</a>
       </td></tr>
