@@ -91,7 +91,7 @@
       </td></tr>
    <tr align="center">
         <td>Markdown slide deck<br> framework</td>
-        <td><a href="https://mermaid.js.org/"><img align="left" alt="mermaid" width="26px" src="https://user-images.githubusercontent.com/67513038/217426277-7a86a400-8749-4e59-a46b-161e25c7bdc3.png"></a>
+        <td><a href="https://mermaid.js.org/"><img align="left" alt="mermaid" width="26px" src="https://user-images.githubusercontent.com/67513038/218300085-f9db764f-511e-43d6-b88d-c713cc3d2667.png"></a>
          <a href="https://github.com/YoungHaKim7/mermaid_project">mermaid_project</a>
       </td></tr>
      <tr align="center">
