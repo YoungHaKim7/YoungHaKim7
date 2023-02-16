@@ -82,10 +82,7 @@
         <td>
          <a href="https://en.wikipedia.org/wiki/JavaScript"><img align="left" alt="javascript" width="26px" src="https://user-images.githubusercontent.com/67513038/215448983-97327d43-4c12-4e83-b529-e994d7614a21.png"></a>
         <a href="https://www.typescriptlang.org/"><img align="left" alt="typescript" width="26px" src="https://user-images.githubusercontent.com/67513038/212785634-76fbb5ab-6897-46a1-9a32-90c9d10bdf97.svg"></a>
-         </a><a href="https://github.com/YoungHaKim7/my_typescript_project">TypeScript_my_project</a>
-         
-        </td>
-    </tr>
+         </a><a href="https://github.com/YoungHaKim7/my_typescript_project">TypeScript_my_project</a></td></tr>
    <tr align="center">
         <td>Diagramming and<br>charting tool📊</td>
         <td><a href="https://mermaid.js.org/"><img align="left" alt="mermaid" width="26px" src="https://user-images.githubusercontent.com/67513038/217426277-7a86a400-8749-4e59-a46b-161e25c7bdc3.png"></a>
