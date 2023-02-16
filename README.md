@@ -99,7 +99,8 @@
          <a href="https://en.wikipedia.org/wiki/Lisp_(programming_language)"><img align="left" alt="lisp" width="26px" src="https://user-images.githubusercontent.com/67513038/211204241-5dc903b7-606e-496c-9898-3cd093204b76.png"></a><a href="https://github.com/YoungHaKim7/lisp_language">Lisp_my_project</a></td></tr>
      <tr align="center">
         <td>Functional<br>Programming</td>
-        <td><a href="https://www.haskell.org/"><img align="left" alt="haskell" width="26px" src="https://user-images.githubusercontent.com/67513038/204034727-e2a992fc-6392-4dc4-8846-843f0c1a31c9.png"></a></td></tr>
+        <td><a href="https://www.haskell.org/"><img align="left" alt="haskell" width="26px" src="https://user-images.githubusercontent.com/67513038/204034727-e2a992fc-6392-4dc4-8846-843f0c1a31c9.png"></a>
+         </a><a href="https://github.com/YoungHaKim7/Haskell_Lang">Haskell_my_project</a></td></tr>
      <tr align="center">
         <td>Classical<br>Concurrency<br>Programming</td>
         <td><a href="https://www.erlang.org/"><img align="left" alt="erlang" width="26px" src="https://user-images.githubusercontent.com/67513038/211135244-d5435285-1128-4020-98d3-23c63f751e0c.png"></a></td></tr>
