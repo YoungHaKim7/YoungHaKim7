@@ -123,7 +123,7 @@
      <tr align="center">
     <td>statistical<br>computing and graphics</td>
         <td>
-        <a href="https://julialang.org/"><img align="left" alt="julia" width="26px" src="https://user-images.githubusercontent.com/67513038/208703412-02258d30-101a-4192-8c12-d387f3c6c163.png"></a>
+        <a href="https://www.r-project.org/"><img align="left" alt="rlang" width="26px" src="https://user-images.githubusercontent.com/67513038/220263144-a024b0a0-e9d3-49b9-a512-c4a37e61488a.png"></a>
     </tr>
     <tr align="center">
         <td>Terminal<br>emulator</td>
