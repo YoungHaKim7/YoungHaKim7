@@ -120,6 +120,11 @@
         <a href="https://julialang.org/"><img align="left" alt="julia" width="26px" src="https://user-images.githubusercontent.com/67513038/208703412-02258d30-101a-4192-8c12-d387f3c6c163.png"></a>
         <a href="https://www.python.org/"><img align="left" alt="python" width="26px" src="https://user-images.githubusercontent.com/67513038/146173763-af249b79-1838-4c27-943e-12c59be7eace.jpg"></a></td>
     </tr>
+     <tr align="center">
+    <td>statistical<br>computing and graphics</td>
+        <td>
+        <a href="https://julialang.org/"><img align="left" alt="julia" width="26px" src="https://user-images.githubusercontent.com/67513038/208703412-02258d30-101a-4192-8c12-d387f3c6c163.png"></a>
+    </tr>
     <tr align="center">
         <td>Terminal<br>emulator</td>
         <td>Warp & Alacritty<a href="https://www.warp.dev/"><img align="left" alt="warp" width="26px" src="https://user-images.githubusercontent.com/67513038/210915840-5306318c-7564-4deb-b423-c46847b0a286.png"></a>
