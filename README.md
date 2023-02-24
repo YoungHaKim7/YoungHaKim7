@@ -53,7 +53,8 @@
         <td><a href="https://www.linux.org/pages/download/"><img align="left" alt="linux" width="26px" src="https://user-images.githubusercontent.com/67513038/210177859-6623064c-7344-46ce-a0d3-b6dcf21410e2.png"></a>
         <a href="https://developer.apple.com/"><img align="left" alt="apple" width="26px" src="https://user-images.githubusercontent.com/67513038/210920737-91c0c09a-e8b1-4343-92d5-17db686c2373.png"></a>
         <a href="https://developer.microsoft.com/en-us/windows/"><img align="left" alt="windows" width="26px" src="https://user-images.githubusercontent.com/67513038/210921131-627bcc59-266f-4228-b6ee-37018b5004b7.png"></a>
-     </td><a href="https://github.com/YoungHaKim7/Shell_Script">Shell_Script</a></td></tr>
+        <a href="https://github.com/YoungHaKim7/Shell_Script">Shell_Script</a>
+     </td></td></tr>
     <tr align="center">
         <td>Quantum<br>Coding</td>
         <td><a href="https://silq.ethz.ch/"><img align="left" alt="quantum" width="45px" src="https://user-images.githubusercontent.com/67513038/206940366-acf03b4a-f277-4f8d-aed3-11e3b14ded26.svg"></a><a href="https://github.com/YoungHaKim7/silq_project">Silq_my_project</a></td></tr>
