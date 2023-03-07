@@ -54,7 +54,7 @@
         <a href="https://developer.apple.com/"><img align="left" alt="apple" width="26px" src="https://user-images.githubusercontent.com/67513038/210920737-91c0c09a-e8b1-4343-92d5-17db686c2373.png"></a>
         <a href="https://developer.microsoft.com/en-us/windows/"><img align="left" alt="windows" width="26px" src="https://user-images.githubusercontent.com/67513038/210921131-627bcc59-266f-4228-b6ee-37018b5004b7.png"></a>
         <a href="https://github.com/YoungHaKim7/Shell_Script">Shell_Script</a>
-        <a href="https://github.com/YoungHaKim7/PowerShell_pwsh_WinOS">PowerSehll_pwsh_WinOS</a>
+        <br><a href="https://github.com/YoungHaKim7/PowerShell_pwsh_WinOS">PowerSehll_pwsh_WinOS</a>
      </td></td></tr>
     <tr align="center">
         <td>Quantum<br>Coding</td>
