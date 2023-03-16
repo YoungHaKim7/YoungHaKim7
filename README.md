@@ -7,9 +7,15 @@
  
 ![younghakim7’s GitHub image](https://crd.so/i/younghakim7)
 
+<hr>
+
+# Rust Magazine
+
 ![ferris-sunshine](https://user-images.githubusercontent.com/67513038/225548333-767e08f3-2232-4aca-aa1f-7bcff9b41df8.png)
 
 https://rustmagazine.org/
+
+<hr>
 
 <!-- ### Languages and Tools:  !-->
 
