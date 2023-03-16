@@ -5,8 +5,9 @@
 <a href="https://economiceco.tistory.com/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-GlobalYoung-Green"></a>
  <a href="https://www.youtube.com/c/GlobalYoung7" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/YouTube-GlobalYoung-red"></a>
  
- ![younghakim7’s GitHub image](https://crd.so/i/younghakim7)
+![younghakim7’s GitHub image](https://crd.so/i/younghakim7)
 
+![ferris-sunshine](https://user-images.githubusercontent.com/67513038/225548333-767e08f3-2232-4aca-aa1f-7bcff9b41df8.png)
 
 https://rustmagazine.org/
 
