@@ -9,7 +9,9 @@
 
 <hr>
 
-# Rust Magazine
+# Rust Magazine<a href="https://www.rust-lang.org/"><img alt="rust" width="26px" src="https://user-images.githubusercontent.com/67513038/146173748-cbfea7c9-3af7-49cb-8a22-1eebebe41ff6.jpg" /></a>
+
+https://rustmagazine.org/
 
 ![ferris-sunshine](https://user-images.githubusercontent.com/67513038/225548333-767e08f3-2232-4aca-aa1f-7bcff9b41df8.png)
 
