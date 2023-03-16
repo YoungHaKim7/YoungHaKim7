@@ -124,8 +124,9 @@
     <td>Etc</td>
         <td>
         <a href="https://julialang.org/"><img align="left" alt="julia" width="26px" src="https://user-images.githubusercontent.com/67513038/208703412-02258d30-101a-4192-8c12-d387f3c6c163.png"></a>
-        <a href="https://www.python.org/"><img align="left" alt="python" width="26px" src="https://user-images.githubusercontent.com/67513038/146173763-af249b79-1838-4c27-943e-12c59be7eace.jpg"></a></td>
-    </tr>
+        <a href="https://www.python.org/"><img align="left" alt="python" width="26px" src="https://user-images.githubusercontent.com/67513038/146173763-af249b79-1838-4c27-943e-12c59be7eace.jpg"></a>
+         <a href="https://github.com/YoungHaKim7/Machine_learning_py_tensorflow_deep">Python_Machine_Learning</a>
+ </td></tr>
      <tr align="center">
     <td>statistical<br>computing and graphics</td>
         <td>
