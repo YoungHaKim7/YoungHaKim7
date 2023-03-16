@@ -7,6 +7,9 @@
  
  ![younghakim7’s GitHub image](https://crd.so/i/younghakim7)
 
+
+https://rustmagazine.org/
+
 <!-- ### Languages and Tools:  !-->
 
 <table border="1">
