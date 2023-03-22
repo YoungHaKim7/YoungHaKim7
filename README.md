@@ -64,6 +64,12 @@ https://rustmagazine.org/
      <br><a href="https://github.com/YoungHaKim7/rust-tauri-intro">Rust_Tauri_my_project</a></td>
      </td>
     </tr>
+    <tr align="center">
+    <td>Rust<br>SurrealDB</td>
+     <td><a href="https://dioxuslabs.com/"><img align="left" alt="rustdioxus" width="22px" src="https://user-images.githubusercontent.com/67513038/226819436-5312fcca-cb21-47bc-ad88-09d179fdeffd.png" /></a>
+      <a href="https://github.com/YoungHaKim7/rust_dioxus">Rust_SurrealDB_my_project</a>
+     </td>
+    </tr>
  <tr align="center">
     <td>Assembly<br>X86_64 & Arm</td>
     <td><a href="https://en.wikipedia.org/wiki/Assembly_language"><img align="left" alt="assembly" width="39px" src="https://user-images.githubusercontent.com/67513038/210325356-f21c646d-6ef1-4736-ac42-53f0b5e149ca.png"></a><a href="https://github.com/YoungHaKim7/Arm64_Assembly_Language">Arm64_Assembly_my_project</a>
