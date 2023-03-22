@@ -67,7 +67,8 @@ https://rustmagazine.org/
     <tr align="center">
     <td>Rust<br>SurrealDB</td>
      <td><a href="https://surrealdb.com/"><img align="left" alt="rustsurrealdb" width="26px" src="https://user-images.githubusercontent.com/67513038/226838520-87c704be-e1a6-4a3b-8d86-6300e3903282.png" /></a>
-      <a href="https://github.com/YoungHaKim7/rust_dioxus">Rust_SurrealDB_my_project</a>
+      <a href="https://www.rust-lang.org/"><img align="left" alt="rust1" width="26px" src="https://user-images.githubusercontent.com/67513038/213436632-820a1675-98d9-4626-979d-be63c60cdcb7.png" /></a>
+      <a href="https://github.com/YoungHaKim7/Rust_SurrealDB_project">Rust_SurrealDB_my_project</a>
      </td>
     </tr>
  <tr align="center">
