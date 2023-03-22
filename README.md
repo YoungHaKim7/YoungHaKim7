@@ -55,6 +55,11 @@ https://rustmagazine.org/
         <a href="https://www.rust-lang.org/"><img align="left" alt="rust1" width="26px" src="https://user-images.githubusercontent.com/67513038/213436632-820a1675-98d9-4626-979d-be63c60cdcb7.png" /></a>
         <a href="https://github.com/YoungHaKim7/Machine_Learning_Rust">Rust_Machine_Learning<br>my_project</a></td>
     </tr>
+    <tr align="center">
+    <td>Rust<br>Frontend</td>
+    <td><a href="https://www.rust-lang.org/"><img align="left" alt="rust1" width="26px" src="https://user-images.githubusercontent.com/67513038/213436632-820a1675-98d9-4626-979d-be63c60cdcb7.png" /></a><a href="https://github.com/YoungHaKim7/Arm64_Assembly_Language">Arm64_Assembly_my_project</a>
+  <br><a href="https://github.com/YoungHaKim7/x86_64_Assembly_my_project">x86_64_Assembly_my_project</a></td>
+    </tr>
  <tr align="center">
     <td>Assembly<br>X86_64 & Arm</td>
     <td><a href="https://en.wikipedia.org/wiki/Assembly_language"><img align="left" alt="assembly" width="39px" src="https://user-images.githubusercontent.com/67513038/210325356-f21c646d-6ef1-4736-ac42-53f0b5e149ca.png"></a><a href="https://github.com/YoungHaKim7/Arm64_Assembly_Language">Arm64_Assembly_my_project</a>
