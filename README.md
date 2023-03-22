@@ -66,7 +66,7 @@ https://rustmagazine.org/
     </tr>
     <tr align="center">
     <td>Rust<br>SurrealDB</td>
-     <td><a href="https://dioxuslabs.com/"><img align="left" alt="rustdioxus" width="22px" src="https://user-images.githubusercontent.com/67513038/226819436-5312fcca-cb21-47bc-ad88-09d179fdeffd.png" /></a>
+     <td><a href="https://surrealdb.com/"><img align="left" alt="rustsurrealdb" width="22px" src="https://user-images.githubusercontent.com/67513038/226838520-87c704be-e1a6-4a3b-8d86-6300e3903282.png" /></a>
       <a href="https://github.com/YoungHaKim7/rust_dioxus">Rust_SurrealDB_my_project</a>
      </td>
     </tr>
