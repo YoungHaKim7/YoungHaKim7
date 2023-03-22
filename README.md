@@ -58,7 +58,9 @@ https://rustmagazine.org/
     <tr align="center">
     <td>Rust<br>Frontend</td>
      <td><a href="https://dioxuslabs.com/"><img align="left" alt="rustdioxus" width="22px" src="https://user-images.githubusercontent.com/67513038/226819436-5312fcca-cb21-47bc-ad88-09d179fdeffd.png" /></a>
-    <a href="https://www.rust-lang.org/"><img align="left" alt="rust1" width="26px" src="https://user-images.githubusercontent.com/67513038/213436632-820a1675-98d9-4626-979d-be63c60cdcb7.png" /></a><a href="https://github.com/YoungHaKim7/rust_dioxus">Rust_Dioxus_my_project</a></td>
+    <a href="https://www.rust-lang.org/"><img align="left" alt="rust1" width="26px" src="https://user-images.githubusercontent.com/67513038/213436632-820a1675-98d9-4626-979d-be63c60cdcb7.png" /></a>
+      <a href="https://www.rust-lang.org/"><img align="left" alt="rusttauri" width="26px" src="https://user-images.githubusercontent.com/67513038/226820587-c3c3e1d0-2e17-4bd3-a83e-a634f268dcbe.png" /></a>
+      <a href="https://github.com/YoungHaKim7/rust_dioxus">Rust_Dioxus_my_project</a></td>
     </tr>
  <tr align="center">
     <td>Assembly<br>X86_64 & Arm</td>
