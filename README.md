@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YoungHaKim
-- 🌱 I’m currently learning The Rust
+- 🌱 I’m currently learning The Rust(Rustacean)
 - 💞️ The final goal is to create an automatic trading U.S. futures program.
 - 📫 How to reach me ...
 <a href="https://economiceco.tistory.com/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-GlobalYoung-Green"></a>
