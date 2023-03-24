@@ -56,7 +56,7 @@ https://rustmagazine.org/
         <a href="https://github.com/YoungHaKim7/Machine_Learning_Rust">Rust_Machine_Learning<br>my_project</a></td>
     </tr>
     <tr align="center">
-    <td>Rust<br>Frontend</td>
+    <td>Rust<br>Frontend<br>& Backend</td>
      <td>
       <a href="https://yew.rs/"><img align="left" alt="rustyew" width="26px" src="https://user-images.githubusercontent.com/67513038/227089073-47d3e238-107f-4545-bf41-9d6c24951f35.png" /></a>
       <a href="https://tauri.app/"><img align="left" alt="rusttauri" width="26px" src="https://user-images.githubusercontent.com/67513038/226820587-c3c3e1d0-2e17-4bd3-a83e-a634f268dcbe.png" /></a>
