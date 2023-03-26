@@ -86,8 +86,9 @@ https://rustmagazine.org/
     </tr>
     <tr align="center">
     <td>EdgeDB</td>
-     <td><a href="https://surrealdb.com/"><img align="left" alt="rustsurrealdb" width="26px" src="https://user-images.githubusercontent.com/67513038/227748847-2fa16aa4-e855-41da-97e4-a667e549e3cd.png" /></a>
+     <td><a href="https://www.edgedb.com/"><img align="left" alt="rustsurrealdb" width="26px" src="https://user-images.githubusercontent.com/67513038/227748847-2fa16aa4-e855-41da-97e4-a667e549e3cd.png" /></a>
       <a href="https://github.com/YoungHaKim7/Rust_SurrealDB_project">Rust_SurrealDB_my_project</a>
+      <br><a href="https://www.edgedb.com/easy-edgedb">EdgeDB_tutorial_easy-edgeDB</a>
      </td>
     </tr>
  <tr align="center">
