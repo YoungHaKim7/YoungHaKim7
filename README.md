@@ -18,6 +18,16 @@ https://rustmagazine.org/
 
 https://rustmagazine.org/
 
+<br>
+
+<hr>
+
+https://blog.rust-lang.org/inside-rust/
+
+https://blog.rust-lang.org/index.html
+
+https://www.whatrustisit.com/
+
 <hr>
 
 <!-- ### Languages and Tools:  !-->
