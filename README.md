@@ -18,8 +18,6 @@ https://rustmagazine.org/
 
 https://rustmagazine.org/
 
-<br>
-
 <hr>
 
 https://blog.rust-lang.org/inside-rust/
