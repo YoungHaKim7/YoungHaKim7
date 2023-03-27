@@ -26,6 +26,8 @@ https://blog.rust-lang.org/index.html
 
 https://www.whatrustisit.com/
 
+https://www.rust-lang.org/
+
 <hr>
 
 <!-- ### Languages and Tools:  !-->
