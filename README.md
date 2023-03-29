@@ -42,16 +42,16 @@ https://www.rust-lang.org/
     </tr>
     <tr align="center">
         <td>Editor</td>
-        <td><a href="https://www.vim.org/" target="_blank"><img align="center" alt="vim" width="26px" src="https://user-images.githubusercontent.com/67513038/154793161-089985a0-db1d-457b-8dfd-26386af89158.png"></a>
-         <a href="https://helix-editor.com/"><img align="center" alt="helix" width="20px" src="https://user-images.githubusercontent.com/67513038/214281307-c7bd5adf-eba9-4f13-9247-7700fb1deff9.png" /></a>
-         <a href="https://www.gnu.org/software/emacs/" target="_blank"><img align="center" alt="emacs" width="30px" src="https://user-images.githubusercontent.com/67513038/186932417-2d7daa6b-ff9b-4d4e-a366-e61e1fc0929c.png"></a>
+        <td><a href="https://www.vim.org/" target="_blank"><img align="left" alt="vim" width="26px" src="https://user-images.githubusercontent.com/67513038/154793161-089985a0-db1d-457b-8dfd-26386af89158.png"></a>
+         <a href="https://helix-editor.com/"><img align="left" alt="helix" width="20px" src="https://user-images.githubusercontent.com/67513038/214281307-c7bd5adf-eba9-4f13-9247-7700fb1deff9.png" /></a>
+         <a href="https://www.gnu.org/software/emacs/" target="_blank"><img align="left" alt="emacs" width="30px" src="https://user-images.githubusercontent.com/67513038/186932417-2d7daa6b-ff9b-4d4e-a366-e61e1fc0929c.png"></a>
          <a href="https://code.visualstudio.com/" target="_blank"><img align="left" alt="vscode" width="26px" src="https://user-images.githubusercontent.com/67513038/146175156-e71067f9-3fb7-4dc9-b1c6-058552b972d6.jpg"></a>
      <a href="https://github.com/YoungHaKim7/rust_vim_setting">vim&etc_rust_my_setting</a></td>
     <tr align="center">
         <td>Low<br>Level</td>
-        <td><a href="https://www.rust-lang.org/"><img align="left" alt="rust" width="26px" src="https://user-images.githubusercontent.com/67513038/146173748-cbfea7c9-3af7-49cb-8a22-1eebebe41ff6.jpg" /></a>
-     <a href="https://ziglang.org/"><img align="left" alt="zig" width="26px" src="https://user-images.githubusercontent.com/67513038/178751011-806395c2-c3dc-4094-80da-5a9dc82f0782.png"></a>
-     <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img align="left" alt="cpp" width="26px" src="https://user-images.githubusercontent.com/67513038/146173770-368394e9-4ba4-40f3-922d-e534ee73f11b.jpg"></a>
+        <td><a href="https://www.rust-lang.org/"><img align="center" alt="rust" width="26px" src="https://user-images.githubusercontent.com/67513038/146173748-cbfea7c9-3af7-49cb-8a22-1eebebe41ff6.jpg" /></a>
+     <a href="https://ziglang.org/"><img align="center" alt="zig" width="26px" src="https://user-images.githubusercontent.com/67513038/178751011-806395c2-c3dc-4094-80da-5a9dc82f0782.png"></a>
+     <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img align="center" alt="cpp" width="26px" src="https://user-images.githubusercontent.com/67513038/146173770-368394e9-4ba4-40f3-922d-e534ee73f11b.jpg"></a>
          <br><br><a href="https://github.com/YoungHaKim7/my_rust_project">Rust_my_project</a>
          <br><a href="https://github.com/YoungHaKim7/rust_release">Rust_Release</a>
          <br><a href="https://github.com/YoungHaKim7/Rust_Tutorial_Full_course">Rust_tutorial_Full_Course</a>
