@@ -74,6 +74,7 @@ https://www.rust-lang.org/
       <a href="https://dioxuslabs.com/"><img align="center" alt="rustdioxus" width="22px" src="https://user-images.githubusercontent.com/67513038/226819436-5312fcca-cb21-47bc-ad88-09d179fdeffd.png" /></a>
       <a href="https://tokio.rs/"><img align="center" alt="rusttokio" width="26px" src="https://user-images.githubusercontent.com/67513038/227931280-6bfcbae9-ef54-456a-8fff-8294cab592f8.png" /></a>
     <a href="https://www.rust-lang.org/"><img align="center" alt="rust1" width="26px" src="https://user-images.githubusercontent.com/67513038/213436632-820a1675-98d9-4626-979d-be63c60cdcb7.png" /></a>
+      <a href="https://www.rust-lang.org/"><img align="center" alt="rust1" width="26px"  src="https://upload.wikimedia.org/wikipedia/commons/1/1f/WebAssembly_Logo.svg" /></a>
       <br><a href="https://github.com/YoungHaKim7/Rust_Yew_FrontEnd">Rust_Yew_my_project</a>
       <br><a href="https://github.com/YoungHaKim7/rust-tauri-intro">Rust_Tauri_my_project</a>
       <br><a href="https://github.com/YoungHaKim7/rust_dioxus">Rust_Dioxus_my_project</a>
