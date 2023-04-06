@@ -46,8 +46,12 @@ https://www.rust-lang.org/
          <a href="https://helix-editor.com/"><img align="left" alt="helix" width="20px" src="https://user-images.githubusercontent.com/67513038/214281307-c7bd5adf-eba9-4f13-9247-7700fb1deff9.png" /></a>
          <a href="https://www.gnu.org/software/emacs/" target="_blank"><img align="left" alt="emacs" width="30px" src="https://user-images.githubusercontent.com/67513038/186932417-2d7daa6b-ff9b-4d4e-a366-e61e1fc0929c.png"></a>
          <a href="https://code.visualstudio.com/" target="_blank"><img align="left" alt="vscode" width="26px" src="https://user-images.githubusercontent.com/67513038/146175156-e71067f9-3fb7-4dc9-b1c6-058552b972d6.jpg"></a>
-     <a href="https://github.com/YoungHaKim7/rust_vim_setting">vim&etc_rust_my_setting</a></td>
+        <a href="https://github.com/YoungHaKim7/rust_vim_setting">vim&etc_rust_my_setting</a></td>
     <tr align="center">
+    <td>Assembly<br>X86_64 & Arm</td>
+    <td><a href="https://en.wikipedia.org/wiki/Assembly_language"><img align="left" alt="assembly" width="39px" src="https://user-images.githubusercontent.com/67513038/210325356-f21c646d-6ef1-4736-ac42-53f0b5e149ca.png"></a><a href="https://github.com/YoungHaKim7/Arm64_Assembly_Language">Arm64_Assembly_my_project</a>
+  <br><a href="https://github.com/YoungHaKim7/x86_64_Assembly_my_project">x86_64_Assembly_my_project</a></td></tr>
+     <tr align="center">
         <td>Low<br>Level</td>
         <td><a href="https://www.rust-lang.org/"><img align="space-around" alt="rust" width="26px" src="https://user-images.githubusercontent.com/67513038/146173748-cbfea7c9-3af7-49cb-8a22-1eebebe41ff6.jpg" />   </a>
      <a href="https://ziglang.org/"><img align="space-around" alt="zig" width="26px" src="https://user-images.githubusercontent.com/67513038/178751011-806395c2-c3dc-4094-80da-5a9dc82f0782.png">   </a>
@@ -103,11 +107,6 @@ https://www.rust-lang.org/
       <a href="https://github.com/YoungHaKim7/EdgeDB_my_project">EdgeDB_my_project</a>
       <br><a href="https://www.edgedb.com/easy-edgedb">EdgeDB_tutorial_easy-edgeDB</a>
      </td>
-    </tr>
- <tr align="center">
-    <td>Assembly<br>X86_64 & Arm</td>
-    <td><a href="https://en.wikipedia.org/wiki/Assembly_language"><img align="left" alt="assembly" width="39px" src="https://user-images.githubusercontent.com/67513038/210325356-f21c646d-6ef1-4736-ac42-53f0b5e149ca.png"></a><a href="https://github.com/YoungHaKim7/Arm64_Assembly_Language">Arm64_Assembly_my_project</a>
-  <br><a href="https://github.com/YoungHaKim7/x86_64_Assembly_my_project">x86_64_Assembly_my_project</a></td>
     </tr>
     <tr align="center">
         <td>OS</td>
