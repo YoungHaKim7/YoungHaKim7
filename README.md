@@ -148,7 +148,7 @@ https://www.rust-lang.org/
      <tr align="center">
         <td>Git</td>
         <td><a href="https://en.wikipedia.org/wiki/HTML"><img align="left" alt="git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg"></a>
-         <a href="https://github.com/YoungHaKim7/html_css_js_web_dev">Git_Training</a>
+         <a href="https://github.com/YoungHaKim7/git_training">Git_Training</a>
       </td></tr>
    <tr align="center">
         <td>Web<br>Dev.__Elixir_API</td>
