@@ -194,7 +194,7 @@ https://www.rust-lang.org/
     <td>AI Dev.</td>
         <td>
         <a href="https://www.modular.com/"><img align="left" alt="python" width="26px" src="https://user-images.githubusercontent.com/67513038/236720090-fd0d6b3f-5c81-46f4-9df7-94c458a80622.png"></a>
-         <a href="https://github.com/YoungHaKim7/Machine_learning_py_tensorflow_deep">Mojo_AI_Dev.</a>
+         <a href="https://github.com/YoungHaKim7/Modular_Mojo_AI_Dev">Mojo_AI_Dev.</a>
  </td></tr>
  <tr align="center">
     <td>Etc</td>
