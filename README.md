@@ -22,15 +22,16 @@ https://rustmagazine.org/
 
 <hr>
 
-https://this-week-in-rust.org/blog/2023/05/10/this-week-in-rust-494/
+- This week in rust https://this-week-in-rust.org/blog/archives/index.html
 
-https://this-week-in-rust.org/blog/archives/index.html
+  - https://this-week-in-rust.org/blog/2023/05/10/this-week-in-rust-494/
+
 
 https://blog.rust-lang.org/inside-rust/
 
 https://blog.rust-lang.org/index.html
 
-https://www.whatrustisit.com/
+- Rust Release https://www.whatrustisit.com/
 
 https://www.rust-lang.org/
 
