@@ -6,7 +6,9 @@
 <a href="https://economiceco.tistory.com/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-GlobalYoung-Green"></a>
  <a href="https://www.youtube.com/c/GlobalYoung7" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/YouTube-GlobalYoung-red"></a>
  
-![younghakim7’s GitHub image](https://crd.so/i/younghakim7)
+<!-- ![younghakim7’s GitHub image](https://crd.so/i/younghakim7) ..>
+
+
 
 <hr>
 
@@ -19,6 +21,8 @@ https://rustmagazine.org/
 https://rustmagazine.org/
 
 <hr>
+
+https://this-week-in-rust.org/blog/2023/05/10/this-week-in-rust-494/
 
 https://blog.rust-lang.org/inside-rust/
 
