@@ -24,6 +24,8 @@ https://rustmagazine.org/
 
 https://this-week-in-rust.org/blog/2023/05/10/this-week-in-rust-494/
 
+https://this-week-in-rust.org/blog/archives/index.html
+
 https://blog.rust-lang.org/inside-rust/
 
 https://blog.rust-lang.org/index.html
