@@ -33,11 +33,15 @@ https://blog.rust-lang.org/index.html
 
 - Rust Release https://www.whatrustisit.com/
 
-https://www.rust-lang.org/
+<hr>
+
+# Rust Lang https://www.rust-lang.org/
 
 - Announcing Rust 1.0(Rust Language)
 
   - https://blog.rust-lang.org/2015/05/15/Rust-1.0.html
+
+- This is the main Rust blog. https://blog.rust-lang.org/
 
 <hr>
 
