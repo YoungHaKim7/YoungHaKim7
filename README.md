@@ -43,6 +43,8 @@ https://blog.rust-lang.org/index.html
 
   - https://blog.rust-lang.org/2015/05/15/Rust-1.0.html
 
+- Rust 1.69.0 https://github.com/rust-lang/rust/blob/1.69.0/RELEASES.md
+
 - This is the main Rust blog. https://blog.rust-lang.org/
 
 <hr>
