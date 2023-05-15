@@ -33,7 +33,7 @@ https://blog.rust-lang.org/inside-rust/
 
 https://blog.rust-lang.org/index.html
 
-- Rust Release https://www.whatrustisit.com/
+
 
 <hr>
 
@@ -43,9 +43,14 @@ https://blog.rust-lang.org/index.html
 
   - https://blog.rust-lang.org/2015/05/15/Rust-1.0.html
 
-- Rust 1.69.0 https://github.com/rust-lang/rust/blob/1.69.0/RELEASES.md
+- Version 1.69.0 (2023-04-20) https://github.com/rust-lang/rust/blob/1.69.0/RELEASES.md
+
+- Rust Release https://www.whatrustisit.com/
+
+  - Next release day: 2023-06-01 (in 16 days)
 
 - This is the main Rust blog. https://blog.rust-lang.org/
+
 
 <hr>
 
