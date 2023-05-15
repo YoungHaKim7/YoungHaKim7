@@ -232,6 +232,7 @@ https://blog.rust-lang.org/index.html
     <td>statistical<br>computing and graphics</td>
         <td>
         <a href="https://www.r-project.org/"><img align="left" alt="rlang" width="26px" src="https://user-images.githubusercontent.com/67513038/220263144-a024b0a0-e9d3-49b9-a512-c4a37e61488a.png"></a>
+         <a href="https://github.com/YoungHaKim7/R_Language_my_project">R_Lang_my_project</a>
     </tr>
     <tr align="center">
         <td>Terminal emulator</td>
