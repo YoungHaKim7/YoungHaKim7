@@ -53,6 +53,12 @@ https://blog.rust-lang.org/index.html
 - This is the main Rust blog. https://blog.rust-lang.org/
 
 
+# Rust 한글 Eng설명서
+
+- 한글 https://rinthel.github.io/rust-lang-book-ko/
+
+- Eng. https://doc.rust-lang.org/book/
+
 <hr>
 
 <!-- ### Languages and Tools:  !-->
