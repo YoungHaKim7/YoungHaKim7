@@ -70,9 +70,8 @@ https://blog.rust-lang.org/index.html
         <td><a href="https://www.vim.org/" target="_blank"><img align="left" alt="vim" width="26px" src="https://user-images.githubusercontent.com/67513038/154793161-089985a0-db1d-457b-8dfd-26386af89158.png"></a>
          <a href="https://helix-editor.com/"><img align="left" alt="helix" width="20px" src="https://user-images.githubusercontent.com/67513038/214281307-c7bd5adf-eba9-4f13-9247-7700fb1deff9.png" /></a>
          <a href="https://www.gnu.org/software/emacs/" target="_blank"><img align="left" alt="emacs" width="30px" src="https://user-images.githubusercontent.com/67513038/186932417-2d7daa6b-ff9b-4d4e-a366-e61e1fc0929c.png"></a>
-         <a href="https://code.visualstudio.com/" target="_blank"><img align="left" alt="vscode" width="26px" src="https://user-images.githubusercontent.com/67513038/146175156-e71067f9-3fb7-4dc9-b1c6-058552b972d6.jpg"></a>
-         <a href="https://code.visualstudio.com/" target="_blank"><img align="left" alt="vscode2" width="26px" src="https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/3df9e041-92c0-401e-89a9-5a5b7fe50aba"></a>
-![VSpngwing com](https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/5791187d-f294-4d50-80bb-1c55232e538e)
+         <a href="https://code.visualstudio.com/" target="_blank"><img align="left" alt="vscode" width="26px" src="https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/3df9e041-92c0-401e-89a9-5a5b7fe50aba"></a>
+         <a href="https://visualstudio.microsoft.com/" target="_blank"><img align="left" alt="visualstudio" width="26px" src="https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/5791187d-f294-4d50-80bb-1c55232e538e"></a>
          <a href="https://www.eclipse.org/" target="_blank"><img align="left" alt="eclipse" width="26px" src="https://www.eclipse.org/downloads/assets/public/images/logo-eclipse.png"></a>
         <a href="https://github.com/YoungHaKim7/rust_vim_setting">vim&etc_rust_my_setting</a></td>
     <tr align="center">
