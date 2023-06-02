@@ -48,7 +48,7 @@ https://blog.rust-lang.org/index.html
 
 - Rust Release https://www.whatrustisit.com/
 
-  - Next release day: 2023-06-01 
+  - Next release day: 2023-07-13
 
 - This is the main Rust blog. https://blog.rust-lang.org/
 
