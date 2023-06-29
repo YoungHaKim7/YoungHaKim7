@@ -29,15 +29,27 @@ https://rustmagazine.org/
 
 - This week in rust https://this-week-in-rust.org/blog/archives/index.html
 
-  - https://this-week-in-rust.org/blog/2023/05/31/this-week-in-rust-497/
-
-  - https://this-week-in-rust.org/blog/2023/05/24/this-week-in-rust-496/
+  - 
 
 https://blog.rust-lang.org/inside-rust/
 
 https://blog.rust-lang.org/index.html
 
+- Updates from Rust Community
+  - Official
+    - Improved API tokens for crates.io https://blog.rust-lang.org/2023/06/23/improved-api-tokens-for-crates-io.html
 
+- Project/Tooling Updates
+
+  - GameEngine https://fyrox.rs/blog/post/fyrox-game-engine-0-30/
+
+  - Vim https://zellij.dev/news/new-plugin-system/
+
+  - GraphQL https://exograph.dev/blog/hello-exograph/
+
+- Observations/Thoughts
+
+  - <a href="https://youtu.be/ZZTk-zS4ZCY">[video] Verus - Verified Rust for low-level systems code by Andrea Lattuada </a>
 
 <hr>
 
