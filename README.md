@@ -2,14 +2,14 @@
 - 🌱 I’m currently learning The Rust(<a href="https://rustaceans.org/">I'm Rustacean</a>)
 - I'm focusing on making the homepage(using WASM) only with Rust Languge. https://younghakim7.github.io/
 - Rust Perseus test1 https://port-0-rusthomepage-dihik2mljdovxnx.sel4.cloudtype.app/
-- Rust Perseus(WASM(Public) https://port-0-fastapi-dihik2mljdovxnx.sel4.cloudtype.app/
-- Rust_Rocket test Homepage https://rust-rocket1108-86a2df3e48f2.herokuapp.com/
+<!-- - Rust Perseus(WASM(Public) https://port-0-fastapi-dihik2mljdovxnx.sel4.cloudtype.app/
+- Rust_Rocket test Homepage https://rust-rocket1108-86a2df3e48f2.herokuapp.com/ !-->
 - 💞️ The final goal is to create an automatic trading U.S. futures program.
 - 📫 How to reach me ...
 <a href="https://economiceco.tistory.com/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-GlobalYoung-Green"></a>
  <a href="https://www.youtube.com/c/GlobalYoung7" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/YouTube-GlobalYoung-red"></a>
  
-<!-- ![younghakim7’s GitHub image](https://crd.so/i/younghakim7) -->
+<!-- ![younghakim7’s GitHub image](https://crd.so/i/younghakim7) !-->
 
 
 
