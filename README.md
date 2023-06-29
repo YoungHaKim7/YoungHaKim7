@@ -29,7 +29,7 @@ https://rustmagazine.org/
 
 - This week in rust https://this-week-in-rust.org/blog/archives/index.html
 
-  - 
+  - https://this-week-in-rust.org/blog/2023/06/28/this-week-in-rust-501/
 
 https://blog.rust-lang.org/inside-rust/
 
@@ -50,6 +50,9 @@ https://blog.rust-lang.org/index.html
 - Observations/Thoughts
 
   - <a href="https://youtu.be/ZZTk-zS4ZCY">[video] Verus - Verified Rust for low-level systems code by Andrea Lattuada </a>
+
+- Miscellaneous
+  - <a href="https://dzfrias.dev/blog/deploy-rust-cross-platform-github-actions">How to Deploy Cross-Platform Rust Binaries with GitHub Actions </a>
 
 <hr>
 
