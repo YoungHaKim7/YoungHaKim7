@@ -35,6 +35,9 @@ https://blog.rust-lang.org/inside-rust/
 
 https://blog.rust-lang.org/index.html
 
+- Introducing WAGI: The Easiest Way to Build WebAssembly Microservices
+  - https://deislabs.io/posts/introducing-wagi-easiest-way-to-build-webassembly-microservices/
+
 - Updates from Rust Community
   - Official
     - Improved API tokens for crates.io https://blog.rust-lang.org/2023/06/23/improved-api-tokens-for-crates-io.html
