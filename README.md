@@ -144,7 +144,6 @@ https://blog.rust-lang.org/index.html
       <a href="https://webassembly.org/"><img align="space-around" alt="wasm" width="26px"  src="https://upload.wikimedia.org/wikipedia/commons/1/1f/WebAssembly_Logo.svg" /></a>
       <br><a href="https://github.com/YoungHaKim7/Rust_WASM">Rust_WASM</a>
       <br><a href="https://port-0-rusthomepage-dihik2mljdovxnx.sel4.cloudtype.app/"> Rust Perseus(WASM)</a>
-      <br>
       <br><a href="https://younghakim7.github.io/"> Rust yew(WASM)</a>
      </td>
     </tr>
