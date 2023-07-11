@@ -29,7 +29,7 @@ https://rustmagazine.org/
 
 - This week in rust https://this-week-in-rust.org/blog/archives/index.html
 
--  https://this-week-in-rust.org/blog/2023/07/05/this-week-in-rust-502/
+  - https://this-week-in-rust.org/blog/2023/07/05/this-week-in-rust-502/
 
   - https://this-week-in-rust.org/blog/2023/06/28/this-week-in-rust-501/
 
