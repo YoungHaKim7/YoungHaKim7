@@ -72,11 +72,11 @@ https://blog.rust-lang.org/index.html
 
   - https://blog.rust-lang.org/2015/05/15/Rust-1.0.html
 
-- Version 1.70.0 (2023-07-02) https://github.com/rust-lang/rust/blob/1.70.0/RELEASES.md
+- Version 1.71.0 (2023-07-14) https://github.com/rust-lang/rust/blob/1.71.0/RELEASES.md
 
 - Rust Release https://www.whatrustisit.com/
 
-  - Next release day: 2023-07-13(1.71.0)
+  - Next release day: 2023-08-24(1.72.0)
 
 - This is the main Rust blog. https://blog.rust-lang.org/
 
