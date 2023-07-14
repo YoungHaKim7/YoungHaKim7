@@ -322,7 +322,8 @@ https://blog.rust-lang.org/index.html
     - [ ] The Complete Rust Programming Reference Guide: Design, develop, and deploy effective software systems using the advanced constructs of Rust
   - Web
     - [ ] Zero to Production in Rust 230714
-    - [ ] Rust Web Devlopment(Manning) 
+    - [ ] Rust Web Devlopment(Manning)
+    - [ ] Rust Servers, Servies, and Apps (Manning) 
 
 - Rust Game
 
