@@ -302,9 +302,9 @@ https://blog.rust-lang.org/index.html
 
 # Todo
 
--  Fullstack WASM homepage (Rust Perseus) 230714 ~ 2312까지 완성 예정 
-  - [ ] I'm focusing on making the homepage(using WASM) only with Rust Languge.Rust Perseus https://port-0-rusthomepage-dihik2mljdovxnx.sel4.cloudtype.app/
-  - [x] Test html & Blog
+- Fullstack WASM homepage (Rust Perseus) 230714 ~ 2312까지 완성 예정 
+  - [x] I'm focusing on making the homepage(using WASM) only with Rust Languge.Rust Perseus https://port-0-rusthomepage-dihik2mljdovxnx.sel4.cloudtype.app/
+  - [x] Test html & Blog & link
   - [ ] login
   - [ ] DB
 
