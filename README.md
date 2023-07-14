@@ -311,10 +311,9 @@ https://blog.rust-lang.org/index.html
     - Rust Dioxus Trainning
       - [ ] 1.tu
 
-    - [ ] Zero to Production in Rust 230714
-      - 
+    
+- Concurrency & Parallemlism
     - [ ] Rust Atomics and Locks(Mara Bos) 230714
-      - 
     - [ ] 동시성 프로그래밍 Rust, C, 어셈블리어로 구현하며 배우는 동시성 프로그래밍 A to Z [ PDF ]
 
 - Rust tutorial
@@ -322,6 +321,7 @@ https://blog.rust-lang.org/index.html
     - [ ] Easy Rust (Learn Rust in a Month of Lunches (Manning))
     - [ ] The Complete Rust Programming Reference Guide: Design, develop, and deploy effective software systems using the advanced constructs of Rust
   - Web
+    - [ ] Zero to Production in Rust 230714
     - [ ] Rust Web Devlopment(Manning) 
 
 - Rust Game
