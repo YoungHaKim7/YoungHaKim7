@@ -330,6 +330,9 @@ https://blog.rust-lang.org/index.html
 
   - [ ] Hands on Rust(Game Dev.)
 
+- C tutorial
+  - [ ] Practial C Programming
+
 <hr>
 
 <br>
