@@ -311,8 +311,7 @@ https://blog.rust-lang.org/index.html
 
   - Rust Dioxus Trainning
     - [ ] 1.tu
-   
-  - [ ] FullStack Rust Workshop: Shuttle, Actix Web, SQLx & Diouxus
+    - [ ] FullStack Rust Workshop: Shuttle, Actix Web, SQLx & Diouxus
   
 - Concurrency & Parallemlism
     - [ ] Rust Atomics and Locks(Mara Bos) 230714
