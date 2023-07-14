@@ -300,6 +300,27 @@ https://blog.rust-lang.org/index.html
 
 <br>
 
+# Todo
+
+-  Fullstack WASM homepage (Rust Perseus) 230714 ~ 2312까지 완성 예정 
+  - [ ] I'm focusing on making the homepage(using WASM) only with Rust Languge.Rust Perseus https://port-0-rusthomepage-dihik2mljdovxnx.sel4.cloudtype.app/
+  - [x] Test html & Blog
+  - [ ] login
+  - [ ] DB
+
+- Rust Dioxus Trainning
+  - [ ] 1.tu
+
+- Zeroto 230714
+  - [ ]
+
+- Atomi 230714
+  - [ ]
+
+<hr>
+
+<br>
+
 ### Most Used Languages :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=younghakim7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
