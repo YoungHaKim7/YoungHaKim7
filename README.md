@@ -308,14 +308,25 @@ https://blog.rust-lang.org/index.html
   - [ ] login
   - [ ] DB
 
-- Rust Dioxus Trainning
-  - [ ] 1.tu
+    - Rust Dioxus Trainning
+      - [ ] 1.tu
 
-- Zeroto 230714
-  - [ ]
+    - [ ] Zero to Production in Rust 230714
+      - 
+    - [ ] Rust Atomics and Locks(Mara Bos) 230714
+      - 
+    - [ ] 동시성 프로그래밍 Rust, C, 어셈블리어로 구현하며 배우는 동시성 프로그래밍 A to Z [ PDF ]
 
-- Atomi 230714
-  - [ ]
+- Rust tutorial
+  - Basic
+    - [ ] Easy Rust (Learn Rust in a Month of Lunches (Manning))
+    - [ ] The Complete Rust Programming Reference Guide: Design, develop, and deploy effective software systems using the advanced constructs of Rust
+  - Web
+    - [ ] Rust Web Devlopment(Manning) 
+
+- Rust Game
+
+  - [ ] Hands on Rust(Game Dev.)
 
 <hr>
 
