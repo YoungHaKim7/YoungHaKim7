@@ -302,16 +302,18 @@ https://blog.rust-lang.org/index.html
 
 # Todo
 
-- Fullstack WASM homepage (Rust Perseus) 230714 ~ 2312까지 완성 예정 
-  - [x] I'm focusing on making the homepage(using WASM) only with Rust Languge.Rust Perseus https://port-0-rusthomepage-dihik2mljdovxnx.sel4.cloudtype.app/
-  - [x] Test html & Blog & link
-  - [ ] login
-  - [ ] DB
+- Fullstack WASM homepage (Rust Perseus) 230714 ~ 2312까지 완성 예정
+  - Rust Peseus
+    - [x] I'm focusing on making the homepage(using WASM) only with Rust Languge.Rust Perseus https://port-0-rusthomepage-dihik2mljdovxnx.sel4.cloudtype.app/
+    - [x] Test html & Blog & link
+    - [ ] login
+    - [ ] DB
 
-    - Rust Dioxus Trainning
-      - [ ] 1.tu
-
-    
+  - Rust Dioxus Trainning
+    - [ ] 1.tu
+   
+  - [ ] FullStack Rust Workshop: Shuttle, Actix Web, SQLx & Diouxus
+  
 - Concurrency & Parallemlism
     - [ ] Rust Atomics and Locks(Mara Bos) 230714
     - [ ] 동시성 프로그래밍 Rust, C, 어셈블리어로 구현하며 배우는 동시성 프로그래밍 A to Z [ PDF ]
