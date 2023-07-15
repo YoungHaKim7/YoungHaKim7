@@ -233,8 +233,8 @@ https://blog.rust-lang.org/index.html
         <td>Markdown slide deck<br> framework📽️PPT</td>
         <td><a href="https://mermaid.js.org/"><img alt="mermaid" width="26px" src="https://user-images.githubusercontent.com/67513038/218300085-f9db764f-511e-43d6-b88d-c713cc3d2667.png"></a>
         <a href="https://revealjs.com/"><img alt="revealjs" width="26px" src="https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/2396ee50-8668-4af4-bac9-35750d139858"></a>
-        <a href="https://github.com/YoungHaKim7/marp_project">marp_project</a>
-        <br><a href="https://github.com/YoungHaKim7/marp_project">reveljs_project</a>
+        <br><a href="https://github.com/YoungHaKim7/marp_project">marp_project</a>
+        <br><a href="https://github.com/YoungHaKim7/revealjs_gy">reveljs_project</a>
       </td></tr>
      <tr align="center">
         <td>Multi-paradigm<br>& long history</td>
