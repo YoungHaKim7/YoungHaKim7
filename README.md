@@ -225,7 +225,7 @@ https://blog.rust-lang.org/index.html
          <a href="https://github.com/YoungHaKim7/mermaid_project">mermaid_project</a>
       </td></tr>
   <tr align="center">
-        <td>Coding<br> tool📊</td>
+        <td>🔬 Tools 🧐 <br>to visualize code</td>
         <td><a href="https://nag763.github.io/doteur/"><img align="left" alt="mermaid" width="26px" src="https://raw.githubusercontent.com/nag763/doteur/main/.github/assets/logo.png"></a>
          <a href="https://github.com/nag763/doteur">Tool to automate the visualisation<br> of SQL schemas from a SQL file</a><br>https://nag763.github.io/doteur/
       </td></tr>
