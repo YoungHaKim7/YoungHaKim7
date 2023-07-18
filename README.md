@@ -290,7 +290,7 @@ https://blog.rust-lang.org/index.html
        <a href="https://github.com/YoungHaKim7/YouTubeContents_GlobalYoung">My YouTube Contents</a></td>
        </tr>
     <tr align="center">
-       <td>Polyglot<br>MyYouTubeContents</td>
+       <td>Securities & Futures<br>MyYouTubeContents</td>
        <td><img alt="myyoutubechannel" width="70px" src="https://user-images.githubusercontent.com/67513038/228557546-322d4303-e254-4f00-b8ed-a4b0427edd28.png">
        <br><a href="https://github.com/YoungHaKim7/YouTubeContents_GlobalYoung">Investment<br>My YouTube</a></td>
        </tr>
