@@ -347,7 +347,7 @@ https://blog.rust-lang.org/index.html
   - [ ] Practial C Programming
 
 - Windows PowerShell
-  - [ ] Learn PowerShell in a Month of Lunches, Fourth Edition | Travis Plunk, James Petty, Tyler Leonhardt, Don Jones, Jeffery Hicks
+  - [ ] Learn PowerShell in a Month of Lunches, Fourth Edition(Manning)| Travis Plunk, James Petty, Tyler Leonhardt, Don Jones, Jeffery Hicks
 
 
 <hr>
