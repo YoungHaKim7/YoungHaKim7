@@ -291,7 +291,7 @@ https://blog.rust-lang.org/index.html
        </tr>
     <tr align="center">
        <td>Polyglot<br>MyYouTubeContents</td>
-       <td><a href="https://alacritty.org/"><img align="left" alt="myyoutubechannel" width="26px" src="https://user-images.githubusercontent.com/67513038/228557546-322d4303-e254-4f00-b8ed-a4b0427edd28.png"></a>
+       <td><a href="https://alacritty.org/"><img align="left" alt="myyoutubechannel" width="50px" src="https://user-images.githubusercontent.com/67513038/228557546-322d4303-e254-4f00-b8ed-a4b0427edd28.png"></a>
        <a href="https://github.com/YoungHaKim7/YouTubeContents_GlobalYoung">Investment<br>My YouTube</a></td>
        </tr>
   
