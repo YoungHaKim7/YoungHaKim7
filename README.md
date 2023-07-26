@@ -324,6 +324,10 @@ https://blog.rust-lang.org/index.html
     - Style (.style) 프로그램 : 객체와 관계를 디스플레이하는 방법을 지시
   - https://penrose.cs.cmu.edu/examples
 
+# 알고리즘 관련
+
+- Rust https://github.com/TheAlgorithms/Rust
+
 <hr>
 
 <br>
