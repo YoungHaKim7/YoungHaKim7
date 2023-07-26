@@ -329,6 +329,7 @@ https://blog.rust-lang.org/index.html
 - Rust https://github.com/TheAlgorithms/Rust
 - 알고리즘 (1^8) 1초안에 승부를 보는 알고리즘의 세계 https://news.hada.io/topic?id=9459
   - 1억 = 1초 https://zoosso.tistory.com/883
+  - MIT강의 MIT 6.006 Introduction to Algorithms, Spring 2020 https://youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY
 
 <hr>
 
