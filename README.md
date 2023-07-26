@@ -334,6 +334,7 @@ https://blog.rust-lang.org/index.html
       2. Data Structures and Dynamic Arrays | MIT https://youtu.be/CHhwJjR0mZA
   - 서울대학교  SNUON_컴퓨터과학이 여는 세계_9.2 알고리즘의 예_이광근 https://youtu.be/39sJYroBZLs
   - 그림으로 공부❤️8Data Structures That Power Database https://youtu.be/W_v05d_2RTo
+- 파이썬으로 알고리즘 공부하기 https://academy.cs.cmu.edu/
 
 <hr>
 
