@@ -318,6 +318,7 @@ https://blog.rust-lang.org/index.html
   - https://www.desmos.com/
    
   - GeoGebra 소개 영상 https://youtu.be/X_YT335w8Mc
+    - https://www.geogebra.org/
 
 - 비 전문가들이 고품질의 아름다운 다이어그램을 작성할 수 있게 도와주는 것을 목표로 개발
   - 세가지 프로그램을 이용하여 구성
