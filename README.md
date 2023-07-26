@@ -312,6 +312,20 @@ https://blog.rust-lang.org/index.html
 
 <hr>
 
+# 수학 그래프를 그리는 도구
+
+- Demos
+  - https://www.desmos.com/
+
+- 비 전문가들이 고품질의 아름다운 다이어그램을 작성할 수 있게 도와주는 것을 목표로 개발
+  - 세가지 프로그램을 이용하여 구성
+    - Domain (.domain) 프로그램 : 해당 도메인의 다이어그램을 구성하는 객체, Predicates, 함수의 유형을 설명
+    - Substance (.substance) 프로그램 : 다이어그램의 객체와 관계를 정의
+    - Style (.style) 프로그램 : 객체와 관계를 디스플레이하는 방법을 지시
+  - https://penrose.cs.cmu.edu/examples
+
+<hr>
+
 <br>
 
 # Todo
