@@ -332,6 +332,7 @@ https://blog.rust-lang.org/index.html
   - MIT강의 MIT 6.006 Introduction to Algorithms, Spring 2020 https://youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY
     - 1. Algorithms and Computation | MIT ♡Algorithm♡ https://youtu.be/ZA-tUyM_y7s
       2. Data Structures and Dynamic Arrays | MIT https://youtu.be/CHhwJjR0mZA
+  - 서울대학교  SNUON_컴퓨터과학이 여는 세계_9.2 알고리즘의 예_이광근 https://youtu.be/39sJYroBZLs
 
 <hr>
 
