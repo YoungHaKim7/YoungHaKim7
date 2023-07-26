@@ -324,6 +324,8 @@ https://blog.rust-lang.org/index.html
     - Style (.style) 프로그램 : 객체와 관계를 디스플레이하는 방법을 지시
   - https://penrose.cs.cmu.edu/examples
 
+- ALL of calculus 3 in 8 minutes.수학공식 전부 다 그래프로 그려보기 https://youtu.be/5kwz7ajxfyA
+
 # 알고리즘 관련
 
 - Rust https://github.com/TheAlgorithms/Rust
