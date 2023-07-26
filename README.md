@@ -327,6 +327,7 @@ https://blog.rust-lang.org/index.html
 # 알고리즘 관련
 
 - Rust https://github.com/TheAlgorithms/Rust
+- 알고리즘 (1^8) 1초안에 승부를 보는 알고리즘의 세계 https://news.hada.io/topic?id=9459
 
 <hr>
 
