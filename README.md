@@ -343,6 +343,9 @@ https://blog.rust-lang.org/index.html
 
 <hr>
 
+# Readme.md에 적용되는 마크다운 문법 정리
+https://sirupe.github.io/first-posting/
+
 <br>
 
 # Todo
