@@ -58,6 +58,8 @@ https://blog.rust-lang.org/index.html
 
   - GraphQL https://exograph.dev/blog/hello-exograph/
 
+  - Rust GUI https://areweguiyet.com/
+
 - Observations/Thoughts
 
   - <a href="https://youtu.be/ZZTk-zS4ZCY">[video] Verus - Verified Rust for low-level systems code by Andrea Lattuada </a>
