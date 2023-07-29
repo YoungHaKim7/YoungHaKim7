@@ -59,6 +59,7 @@ https://blog.rust-lang.org/index.html
   - GraphQL https://exograph.dev/blog/hello-exograph/
 
   - Rust GUI https://areweguiyet.com/
+  - Rust Browser Servo in 2023 - Martin Robinson - RustNL 2023 https://youtu.be/IdHvHoAO5oo
 
 - Observations/Thoughts
 
