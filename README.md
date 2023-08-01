@@ -351,6 +351,14 @@ https://sirupe.github.io/first-posting/
 
 <br>
 
+<hr>
+
+# Flutter Course for Beginners
+- Flutter Course for Beginners – 37-hour Cross Platform App Development Tutorial | freeCodeCamp.org
+  - https://youtu.be/VPvVD8t02U8
+
+<hr>
+
 # Todo
 
 - Fullstack WASM homepage (Rust Perseus) 230714 ~ 2312까지 완성 예정
@@ -391,11 +399,6 @@ https://sirupe.github.io/first-posting/
 <hr>
 
 <br>
-
-# Flutter Course for Beginners
-- Flutter Course for Beginners – 37-hour Cross Platform App Development Tutorial | freeCodeCamp.org
-  - https://youtu.be/VPvVD8t02U8
-
 
 
 ### Most Used Languages :
