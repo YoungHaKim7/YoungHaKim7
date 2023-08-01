@@ -392,6 +392,12 @@ https://sirupe.github.io/first-posting/
 
 <br>
 
+# Flutter Course for Beginners
+- Flutter Course for Beginners – 37-hour Cross Platform App Development Tutorial | freeCodeCamp.org
+  - https://youtu.be/VPvVD8t02U8
+
+
+
 ### Most Used Languages :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=younghakim7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
