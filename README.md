@@ -65,6 +65,8 @@ https://blog.rust-lang.org/index.html
       - https://bevyengine.org/news/bevy-0-11/
 
   - Vim https://zellij.dev/news/new-plugin-system/
+    - 소개영상(Zellij)Aram Drevekenin – Zellij - A terminal workspace with batteries included - Rust Vienna June 2023
+      - https://youtu.be/nBL_8KsTA5g
 
   - GraphQL https://exograph.dev/blog/hello-exograph/
 
