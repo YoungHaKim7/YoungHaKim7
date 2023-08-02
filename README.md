@@ -52,7 +52,14 @@ https://blog.rust-lang.org/index.html
 
   - <a href="https://github.com/containers/youki/releases/tag/v0.1.0">Youki v0.1.0 has been released for use with Kubernetes and more </a>
   
-  - GameEngine https://fyrox.rs/blog/post/fyrox-game-engine-0-30/
+  - GameEngine( Fyrox, Bevy)
+    - Fyrox
+      - https://fyrox.rs/blog/post/fyrox-game-engine-0-31/
+      - https://fyrox.rs/blog/post/fyrox-game-engine-0-30/
+      
+    - Bevy
+      - https://bevyengine.org/news/bevy-webgpu/
+      - https://bevyengine.org/news/bevy-0-11/
 
   - Vim https://zellij.dev/news/new-plugin-system/
 
