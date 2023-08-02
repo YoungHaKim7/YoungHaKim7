@@ -31,6 +31,9 @@ https://rustmagazine.org/
 
 https://rustmagazine.org/
 
+- Programming language popularity: Rust
+  - https://szabgab.com/programming-language-popularity-rust
+
 - This week in rust https://this-week-in-rust.org/blog/archives/index.html
 
   - https://this-week-in-rust.org/blog/2023/07/05/this-week-in-rust-502/
