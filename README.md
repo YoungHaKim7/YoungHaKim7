@@ -143,7 +143,7 @@ https://blog.rust-lang.org/index.html
     </tr>
      <tr align="center">
         <td>Algoritms<br>BigPictureOfCalculus</td>
-    <td><a href="https://en.wikipedia.org/wiki/Assembly_language"><img align="left" alt="assembly" width="39px" src="https://user-images.githubusercontent.com/67513038/210325356-f21c646d-6ef1-4736-ac42-53f0b5e149ca.png"></a><a href="https://github.com/YoungHaKim7/Arm64_Assembly_Language">algorithm_training</a>
+    <td><a href="https://en.wikipedia.org/wiki/Algorithm"><img align="left" alt="assembly" width="39px" src="https://user-images.githubusercontent.com/67513038/210325356-f21c646d-6ef1-4736-ac42-53f0b5e149ca.png"></a><a href="https://github.com/YoungHaKim7/Arm64_Assembly_Language">algorithm_training</a>
      <tr align="center">
     <tr align="center">
     <td>Rust<br>Frontend<br>& Backend</td>
