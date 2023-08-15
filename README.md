@@ -331,34 +331,13 @@ https://blog.rust-lang.org/index.html
 
 <hr>
 
-# 수학 그래프를 그리는 도구
+# 수학 그래프를 그리는 도구 & 알고리즘 관련
 
-- Demos & GeoGebra
-  - https://www.desmos.com/
-   
-  - GeoGebra 소개 영상 https://youtu.be/X_YT335w8Mc
-    - https://www.geogebra.org/
+https://github.com/YoungHaKim7/Algorithm_Trainining
 
-- 비 전문가들이 고품질의 아름다운 다이어그램을 작성할 수 있게 도와주는 것을 목표로 개발
-  - 세가지 프로그램을 이용하여 구성
-    - Domain (.domain) 프로그램 : 해당 도메인의 다이어그램을 구성하는 객체, Predicates, 함수의 유형을 설명
-    - Substance (.substance) 프로그램 : 다이어그램의 객체와 관계를 정의
-    - Style (.style) 프로그램 : 객체와 관계를 디스플레이하는 방법을 지시
-  - https://penrose.cs.cmu.edu/examples
+# 영어 말하기 듣기 훈련
 
-- ALL of calculus 3 in 8 minutes.수학공식 전부 다 그래프로 그려보기 https://youtu.be/5kwz7ajxfyA
-
-# 알고리즘 관련
-
-- Rust https://github.com/TheAlgorithms/Rust
-- 알고리즘 (1^8) 1초안에 승부를 보는 알고리즘의 세계 https://news.hada.io/topic?id=9459
-  - 1억 = 1초 https://zoosso.tistory.com/883
-  - MIT강의 MIT 6.006 Introduction to Algorithms, Spring 2020 https://youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY
-    - 1. Algorithms and Computation | MIT ♡Algorithm♡ https://youtu.be/ZA-tUyM_y7s
-      2. Data Structures and Dynamic Arrays | MIT https://youtu.be/CHhwJjR0mZA
-  - 서울대학교  SNUON_컴퓨터과학이 여는 세계_9.2 알고리즘의 예_이광근 https://youtu.be/39sJYroBZLs
-  - 그림으로 공부❤️8Data Structures That Power Database https://youtu.be/W_v05d_2RTo
-- 파이썬으로 알고리즘 공부하기 https://academy.cs.cmu.edu/
+https://github.com/YoungHaKim7/English_Trainining
 
 <hr>
 
