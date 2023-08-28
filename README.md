@@ -371,9 +371,10 @@ https://sirupe.github.io/first-posting/
     - [ ] Rust Atomics and Locks(Mara Bos) 230714
     - [ ] 동시성 프로그래밍 Rust, C, 어셈블리어로 구현하며 배우는 동시성 프로그래밍 A to Z [ PDF ]
 
-- Rust Optimization https://gist.github.com/kvark/f067ba974446f7c5ce5bd544fe370186
-  - [ ] Rust High Performance: Learn to skyrocket the performance of your Rust applications 1st Edition, Kindle Edition
-  - [ ] Mastering Rust: Advanced concurrency, macros, and safe database by Vesa Kaihlavirta (Author)
+- Rust Optimizations https://gist.github.com/kvark/f067ba974446f7c5ce5bd544fe370186
+  - Optimizations | By default, Rust will perform level 3 optimizations in the code.
+    - [ ] Rust High Performance: Learn to skyrocket the performance of your Rust applications 1st Edition, Kindle Edition
+    - [ ] Mastering Rust: Advanced concurrency, macros, and safe database by Vesa Kaihlavirta (Author)
 
 
 - Rust tutorial
