@@ -371,6 +371,9 @@ https://sirupe.github.io/first-posting/
     - [ ] Rust Atomics and Locks(Mara Bos) 230714
     - [ ] 동시성 프로그래밍 Rust, C, 어셈블리어로 구현하며 배우는 동시성 프로그래밍 A to Z [ PDF ]
 
+- [ ] Rust High Performance: Learn to skyrocket the performance of your Rust applications 1st Edition, Kindle Edition  
+
+
 - Rust tutorial
   - Basic
     - [ ] Easy Rust (Learn Rust in a Month of Lunches (Manning))
