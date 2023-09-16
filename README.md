@@ -345,6 +345,9 @@ https://github.com/YoungHaKim7/English_Trainining
 # Readme.md에 적용되는 마크다운 문법 정리
 https://sirupe.github.io/first-posting/
 
+- 마크 다운에서 표 만들기 약간 복잡하게 병합하기
+  - https://stackoverflow.com/questions/46621765/can-i-merge-table-rows-in-markdown
+
 <br>
 
 <hr>
