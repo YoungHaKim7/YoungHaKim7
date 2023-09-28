@@ -343,7 +343,10 @@ https://github.com/YoungHaKim7/English_Trainining
 <hr>
 
 # Readme.md에 적용되는 마크다운 문법 정리
-https://sirupe.github.io/first-posting/
+- Readme꾸미기 이미지 가운데 정렬
+  - https://gist.github.com/DavidWells/7d2e0e1bc78f4ac59a123ddf8b74932d
+
+- https://sirupe.github.io/first-posting/
 
 - 마크 다운에서 표 만들기 약간 복잡하게 병합하기
   - https://stackoverflow.com/questions/46621765/can-i-merge-table-rows-in-markdown
