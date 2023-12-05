@@ -136,7 +136,8 @@ https://blog.rust-lang.org/index.html
          <br><a href="https://github.com/YoungHaKim7/zig_lang_exercises">Zig_my_project</a>
          <br><a href="https://github.com/YoungHaKim7/c_project">C_my_project</a>
          <br><a href="https://github.com/YoungHaKim7/cpp_training2024">C++_Training</a>
-         <br><a href="https://github.com/YoungHaKim7/cpp23_project">C++23_Training</a></td>
+         <br><a href="https://github.com/YoungHaKim7/cpp23_project">C++23_Training</a>
+         <br><a href="https://github.com/YoungHaKim7/cppfront_training">C++front_Training</td>
     </tr>
      <tr align="center">
         <td>Rust<br>MachineLearning</td>
