@@ -404,6 +404,9 @@ https://github.com/YoungHaKim7/English_Trainining
 - C tutorial
   - [ ] Practial C Programming
 
+- Modern C++ Programming Course (C++11/14/17/20) 
+  - [ ] <a href="https://github.com/federico-busato/Modern-CPP-Programming">Modern C++</a>
+
 - Windows PowerShell
   - [ ] Learn PowerShell in a Month of Lunches, Fourth Edition(Manning)| Travis Plunk, James Petty, Tyler Leonhardt, Don Jones, Jeffery Hicks
 
