@@ -2,6 +2,7 @@
 - 🌱 I’m currently learning The Rust(<a href="https://rustaceans.org/">I'm Rustacean</a>)
 - I'm focusing on making the homepage(using WASM) only with Rust Languge.
   - Rust Yew https://younghakim7.github.io/
+  - Plain HTML Homepage https://gitlab.com/Youngha8/gy
 <!--  - Rust Perseus https://port-0-rusthomepage-dihik2mljdovxnx.sel4.cloudtype.app/  !-->
 <!--  - Rust Shuttle Deploy https://gy.shuttleapp.rs/ !-->
 <!-- - Rust Perseus(WASM(Public) https://port-0-fastapi-dihik2mljdovxnx.sel4.cloudtype.app/
