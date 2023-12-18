@@ -356,6 +356,7 @@ https://github.com/YoungHaKim7/English_Trainining
 
 - 마크 다운에서 표 만들기 약간 복잡하게 병합하기
   - https://stackoverflow.com/questions/46621765/can-i-merge-table-rows-in-markdown
+  - 표 아주 편하게 만들기(|) 이걸로 대박 편하네 ㅋ https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables
 
 <br>
 
