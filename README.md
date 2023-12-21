@@ -227,7 +227,7 @@ https://blog.rust-lang.org/index.html
         <td>Web<br>Dev.</td>
         <td><a href="https://en.wikipedia.org/wiki/HTML"><img align="space-around" alt="html" width="45px" src="https://user-images.githubusercontent.com/67513038/146179458-5e587820-a037-41ee-bf02-2366b3e5aad7.jpg"></a>
         <a href="https://www.php.net/"><img align="space-around" alt="php" width="45px" src="https://user-images.githubusercontent.com/67513038/215450246-cc87207e-cad5-4cf9-bd80-5cece81c7513.png"></a>
-        <a href="test"><img align="space-around" width=45px src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_LightBlue.svg" /></a>
+        <a href="https://go.dev/"><img align="space-around" width=45px src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_LightBlue.svg" /></a>
         <br><a href="https://github.com/YoungHaKim7/html_css_js_web_dev">html_css_js_my_project</a> 
         <br><a href="https://github.com/YoungHaKim7/Php_Lang">PHP_my_project</a>
         <br><a href="https://github.com/YoungHaKim7/Go_training">Go_my_project</a>
