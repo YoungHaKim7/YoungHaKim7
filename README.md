@@ -312,7 +312,7 @@ https://blog.rust-lang.org/index.html
    <tr align="center">
         <td>Terminal Multiplexers</td>
         <td><a href="https://github.com/zellij-org/zellij"><img align="left" alt="zellij" width="26px" src="https://raw.githubusercontent.com/zellij-org/zellij/main/assets/logo.png"></a>
-        <a href="https://www.rust-lang.org/"><img align="left" alt="rust1" width="26px" src="https://user-images.githubusercontent.com/67513038/213436632-820a1675-98d9-4626-979d-be63c60cdcb7.png" /></a>Warp & Alacritty<br>The two programs are made in Rust language.</td></tr>
+        <a href="https://www.rust-lang.org/"><img align="left" alt="rust1" width="26px" src="https://user-images.githubusercontent.com/67513038/213436632-820a1675-98d9-4626-979d-be63c60cdcb7.png" /></a>Zellij<br>The programs are made in Rust language.</td></tr>
     <tr align="center">
        <td>Polyglot<br>Programming</td>
        <td><a href="https://github.com/EbookFoundation/free-programming-books">Freely available programming books<br>List of Free Learning Resources In Many Languages</a></td>
