@@ -382,7 +382,17 @@ https://github.com/YoungHaKim7/English_Trainining
 
 # Todo
 
-- Fullstack WASM homepage (Rust Perseus) 230714 ~ 2312까지 완성 예정
+- Rust Fullstack WASM (WebAssebmly)
+  - [ ] Microservices in Action https://livebook.manning.com/book/microservices-in-action/about-this-book/
+  - [ ] WasmEdge https://wasmedge.org/docs/category/develop-wasm-apps-in-rust/
+  - [ ] WasmEdge tutorial https://wasmedge.org/docs/category/getting-started-with-wasmedge/
+  - [ ] WASMtime(rust) https://github.com/bytecodealliance/wasmtime
+  - [ ] Docker in action second edition https://livebook.manning.com/book/docker-in-action-second-edition/
+  - [ ] The Rust Programming Language is the authoritative guide to the Rust language. https://doc.rust-lang.org/book/
+  - [ ] Rust in Action https://livebook.manning.com/book/rust-in-action/rust-in-action/
+  - [ ] Comprehensive Rust by the Google Android team is a set of Rust tutorials and courses geared toward beginners. https://google.github.io/comprehensive-rust/ 
+  - [ ] Rust by Example contains examples of how to write applications and algorithms in Rust. https://doc.rust-lang.org/rust-by-example/
+- Rust Training
   - Rust Peseus
     - [x] I'm focusing on making the homepage(using WASM) only with Rust Languge.Rust Perseus https://port-0-rusthomepage-dihik2mljdovxnx.sel4.cloudtype.app/
     - [x] Test html & Blog & link
