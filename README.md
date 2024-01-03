@@ -392,6 +392,8 @@ https://github.com/YoungHaKim7/English_Trainining
   - [ ] Rust in Action https://livebook.manning.com/book/rust-in-action/rust-in-action/
   - [ ] Comprehensive Rust by the Google Android team is a set of Rust tutorials and courses geared toward beginners. https://google.github.io/comprehensive-rust/ 
   - [ ] Rust by Example contains examples of how to write applications and algorithms in Rust. https://doc.rust-lang.org/rust-by-example/
+  - [ ] Rust Optimization(날아갈까봐 Fork함 밑에가 오리지날) https://gist.github.com/YoungHaKim7/4f1602d7e724ece1c5da965bffb63267
+    - [ ] 오리지날 코드Original Code댓글이 더 주옥같다. Rust Optimization https://gist.github.com/kvark/f067ba974446f7c5ce5bd544fe370186
 - Rust Training
   - Rust Peseus
     - [x] I'm focusing on making the homepage(using WASM) only with Rust Languge.Rust Perseus https://port-0-rusthomepage-dihik2mljdovxnx.sel4.cloudtype.app/
