@@ -382,7 +382,7 @@ https://github.com/YoungHaKim7/English_Trainining
 
 # Todo
 
-- Rust Fullstack WASM (WebAssebmly)
+- Rust Fullstack WASM (WebAssembly)
   - [ ] Microservices in Action https://livebook.manning.com/book/microservices-in-action/about-this-book/
   - [ ] WasmEdge https://wasmedge.org/docs/category/develop-wasm-apps-in-rust/
   - [ ] WasmEdge tutorial https://wasmedge.org/docs/category/getting-started-with-wasmedge/
