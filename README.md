@@ -71,6 +71,10 @@ https://blog.rust-lang.org/index.html
     - https://zellij.dev/news/new-plugin-system/
       - 소개영상(Zellij)Aram Drevekenin – Zellij - A terminal workspace with batteries included - Rust Vienna June 2023
         - https://youtu.be/nBL_8KsTA5g
+  - Text Editor
+    - Helix https://helix-editor.com/
+    - Zed(Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.)
+      - https://zed.dev/
 
   - GraphQL https://exograph.dev/blog/hello-exograph/
 
