@@ -60,12 +60,12 @@ https://blog.rust-lang.org/index.html
   
   - GameEngine( Fyrox, Bevy)
     - Fyrox
+      - Fyrox Game Engine 0.32 https://fyrox.rs/blog/post/fyrox-game-engine-0-32/
       - https://fyrox.rs/blog/post/fyrox-game-engine-0-31/
-      - https://fyrox.rs/blog/post/fyrox-game-engine-0-30/
       
     - Bevy
+      - https://bevyengine.org/news/bevy-0-12/
       - https://bevyengine.org/news/bevy-webgpu/
-      - https://bevyengine.org/news/bevy-0-11/
 
   - Terminal Multiplexer
     - https://zellij.dev/news/new-plugin-system/
