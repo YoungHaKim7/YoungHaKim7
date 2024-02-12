@@ -112,6 +112,7 @@ https://blog.rust-lang.org/index.html
     - (211021) https://blog.rust-lang.org/2021/10/21/Rust-1.56.0.html
       - https://news.hada.io/topic?id=5240
   - Rust2024 Edition (2024년 하반기 출시 예정)
+    - (231215) https://blog.rust-lang.org/2023/12/15/2024-Edition-CFP.html
 
 
 <hr>
