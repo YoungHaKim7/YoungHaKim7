@@ -106,12 +106,12 @@ https://blog.rust-lang.org/index.html
 
 
 - Rust Version
-- rust2015
-- rust2018
-- rust2021
-  - (211021) https://blog.rust-lang.org/2021/10/21/Rust-1.56.0.html
-    - https://news.hada.io/topic?id=5240
-- rust2024 (2024년 하반기 출시 예정)
+  - Rust Edition 2015
+  - Rust Edition 2018
+  - Rust Edition 2021
+    - (211021) https://blog.rust-lang.org/2021/10/21/Rust-1.56.0.html
+      - https://news.hada.io/topic?id=5240
+  - Rust2024 Edition (2024년 하반기 출시 예정)
 
 
 <hr>
