@@ -105,6 +105,15 @@ https://blog.rust-lang.org/index.html
 - This is the main Rust blog. https://blog.rust-lang.org/
 
 
+- Rust Version
+- rust2015
+- rust2018
+- rust2021
+  - (211021) https://blog.rust-lang.org/2021/10/21/Rust-1.56.0.html
+    - https://news.hada.io/topic?id=5240
+- rust2024 (2024년 하반기 출시 예정)
+
+
 <hr>
 
 <!-- ### Languages and Tools:  !-->
