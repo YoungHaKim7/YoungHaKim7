@@ -64,7 +64,8 @@ https://blog.rust-lang.org/index.html
       - https://fyrox.rs/blog/post/fyrox-game-engine-0-31/
       
     - Bevy
-      - https://bevyengine.org/news/bevy-0-12/
+      - https://bevyengine.org/news/bevy-0-13/
+      - SME Announcements https://bevyengine.org/news/sme-announcements/
       - https://bevyengine.org/news/bevy-webgpu/
 
   - Terminal Multiplexer
@@ -274,9 +275,10 @@ https://blog.rust-lang.org/index.html
         <a href="https://www.typescriptlang.org/"><img align="left" alt="typescript" width="26px" src="https://user-images.githubusercontent.com/67513038/212785634-76fbb5ab-6897-46a1-9a32-90c9d10bdf97.svg"></a>
          </a><a href="https://github.com/YoungHaKim7/my_typescript_project">TypeScript_my_project</a></td></tr>
    <tr align="center">
-        <td>Diagramming and<br>charting tool📊</td>
+        <td>Diagramming and<br>charting tool📊<br>draw.io</td>
         <td><a href="https://mermaid.js.org/"><img align="left" alt="mermaid" width="26px" src="https://user-images.githubusercontent.com/67513038/217426277-7a86a400-8749-4e59-a46b-161e25c7bdc3.png"></a>
          <a href="https://github.com/YoungHaKim7/mermaid_project">mermaid_project</a>
+         [Draw.io Integration(VSCode Extension](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio)
       </td></tr>
   <tr align="center">
         <td>🔬 Tools 🧐 <br>to visualize code</td>
