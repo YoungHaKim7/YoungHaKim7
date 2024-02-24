@@ -279,7 +279,7 @@ https://blog.rust-lang.org/index.html
         <td>Diagramming and<br>charting tool📊<br>draw.io</td>
         <td><a href="https://mermaid.js.org/"><img align="left" alt="mermaid" width="26px" src="https://user-images.githubusercontent.com/67513038/217426277-7a86a400-8749-4e59-a46b-161e25c7bdc3.png"></a>
          <a href="https://github.com/YoungHaKim7/mermaid_project">mermaid_project</a>
-         [Draw.io Integration(VSCode Extension](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio)
+         <a href="https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio">Draw.io Integration(VSCode Extension</a>
       </td></tr>
   <tr align="center">
         <td>🔬 Tools 🧐 <br>to visualize code</td>
