@@ -57,6 +57,7 @@ https://blog.rust-lang.org/index.html
 - Project/Tooling Updates
 
   - <a href="https://github.com/containers/youki/releases/tag/v0.1.0">Youki v0.1.0 has been released for use with Kubernetes and more </a>
+    - https://github.com/containers/youki
   
   - GameEngine( Fyrox, Bevy)
     - Fyrox
