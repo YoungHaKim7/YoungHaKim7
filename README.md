@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YoungHaKim
-- 🌱 I’m currently learning The Rust(<a href="https://rustaceans.org/">I'm Rustacean</a>)
+- 🌱 I’m currently learning The Rust(<a href="https://github.com/nrc/rustaceans.org">I'm Rustacean</a>)
 - I'm focusing on making the homepage(using WASM) only with Rust Languge.
   - Rust Yew https://younghakim7.github.io/
 <!--  - Plain HTML Homepage  !-->
