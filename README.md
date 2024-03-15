@@ -91,6 +91,10 @@ https://blog.rust-lang.org/index.html
 - Miscellaneous
   - <a href="https://dzfrias.dev/blog/deploy-rust-cross-platform-github-actions">How to Deploy Cross-Platform Rust Binaries with GitHub Actions </a>
 
+- linux
+  - sudo-rs(sudo에 문제점을 해결하기 위한 러스트sudo)
+    - https://www.memorysafety.org/blog/reducing-dependencies-in-sudo/
+    
 <hr>
 
 # Rust Lang https://www.rust-lang.org/
