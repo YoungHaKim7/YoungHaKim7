@@ -461,14 +461,26 @@ https://github.com/YoungHaKim7/English_Trainining
 
   - [ ] Hands on Rust(Game Dev.)
 
-- C tutorial
-  - [ ] Practial C Programming
+<hr>
 
-- Modern C++ Programming Course (C++11/14/17/20) 
-  - [ ] <a href="https://github.com/federico-busato/Modern-CPP-Programming">Modern C++</a>
+- Computer Science
+  - [ ] [혼자 공부하는 컴퓨터 구조+운영체제 [ PDF ]](https://www.yes24.com/Product/Goods/111727289)
 
-- Windows PowerShell
-  - [ ] Learn PowerShell in a Month of Lunches, Fourth Edition(Manning)| Travis Plunk, James Petty, Tyler Leonhardt, Don Jones, Jeffery Hicks
+- Assembly
+  - [ ] [게임처럼 쉽고 재미있게 배우는 어셈블리 언어 튜토리얼 [ PDF ]](https://www.yes24.com/Product/Goods/102187010)
+
+- C/C++
+
+  - C tutorial
+    - [ ] Practial C Programming
+    - [ ] [혼자 공부하는 C 언어 (개정판) 1:1 과외하듯 배우는 프로그래밍 자습서 [ PDF ]](https://www.yes24.com/Product/Goods/119253463)
+    - [ ]  Smile Han의 C언어 프로그래밍 [ PDF ](https://www.yes24.com/Product/Goods/118336237)
+
+  - Modern C++ Programming Course (C++11/14/17/20) 
+    - [ ] <a href="https://github.com/federico-busato/Modern-CPP-Programming">Modern C++</a>
+
+  - Windows PowerShell
+    - [ ] Learn PowerShell in a Month of Lunches, Fourth Edition(Manning)| Travis Plunk, James Petty, Tyler Leonhardt, Don Jones, Jeffery Hicks
 
 
 <hr>
