@@ -411,12 +411,6 @@ https://github.com/YoungHaKim7/English_Trainining
 
 <hr>
 
-# Flutter Course for Beginners
-- Flutter Course for Beginners – 37-hour Cross Platform App Development Tutorial | freeCodeCamp.org
-  - https://youtu.be/VPvVD8t02U8
-
-<hr>
-
 # Todo
 
 - Rust Fullstack WASM (WebAssembly)
@@ -441,6 +435,8 @@ https://github.com/YoungHaKim7/English_Trainining
   - Rust Dioxus Trainning
     - [ ] 1.tu
     - [ ] FullStack Rust Workshop: Shuttle, Actix Web, SQLx & Diouxus
+  - Rust OS
+    - [ ] [실전! 러스트로 배우는 리눅스 커널 프로그래밍 러스트 기초부터 리눅스 시스템 프로그래밍, 커널 모듈 제작과 디버깅까지 [ PDF ]](https://www.yes24.com/Product/Goods/125216049)
   
 - Concurrency & Parallemlism
     - [ ] Rust Atomics and Locks(Mara Bos) 230714
