@@ -465,6 +465,7 @@ https://github.com/YoungHaKim7/English_Trainining
 
 - Computer Science
   - [ ] [혼자 공부하는 컴퓨터 구조+운영체제 [ PDF ]](https://www.yes24.com/Product/Goods/111727289)
+  - [ ] [디지털 논리회로(4판) 이론, 실습, 시뮬레이션 [ PDF ]임석구, 홍경호 저 | 한빛아카데미](https://www.yes24.com/Product/Goods/106400054)
 
 - Assembly
   - [ ] [게임처럼 쉽고 재미있게 배우는 어셈블리 언어 튜토리얼 [ PDF ]](https://www.yes24.com/Product/Goods/102187010)
@@ -478,6 +479,7 @@ https://github.com/YoungHaKim7/English_Trainining
 
   - Modern C++ Programming Course (C++11/14/17/20) 
     - [ ] <a href="https://github.com/federico-busato/Modern-CPP-Programming">Modern C++</a>
+    - [ ] [필요한 것만 골라 배우는 모던 C++ [ PDF ]](https://www.yes24.com/Product/Goods/114873221)
 
   - Windows PowerShell
     - [ ] Learn PowerShell in a Month of Lunches, Fourth Edition(Manning)| Travis Plunk, James Petty, Tyler Leonhardt, Don Jones, Jeffery Hicks
