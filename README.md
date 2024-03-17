@@ -477,12 +477,18 @@ https://github.com/YoungHaKim7/English_Trainining
     - [ ] [혼자 공부하는 C 언어 (개정판) 1:1 과외하듯 배우는 프로그래밍 자습서 [ PDF ]](https://www.yes24.com/Product/Goods/119253463)
     - [ ] [Smile Han의 C언어 프로그래밍 [ PDF ]](https://www.yes24.com/Product/Goods/118336237)
     - [ ] [뇌를 자극하는 C 프로그래밍 [ PDF ]](https://www.yes24.com/Product/Goods/9470365)
+    - [ ] [모던 C 전문가를 위한 C 작성법 [ EPUB ]](https://www.yes24.com/Product/Goods/106728320)
+    - [ ] [컴파일러 개발자가 들려주는 C 이야기 아무도 알려주지 않던 심오한 C의 비밀 [ PDF ]](https://www.yes24.com/Product/Goods/107464879)
+
+<hr>
 
   - Modern C++ Programming Course (C++11/14/17/20) 
     - [ ] <a href="https://github.com/federico-busato/Modern-CPP-Programming">Modern C++</a>
     - [ ] [포르잔 C++ 바이블 [ PDF ]](https://www.yes24.com/Product/Goods/109144620)
     - [ ] [포르잔 C++ 에센셜 [ PDF ]](https://www.yes24.com/Product/Goods/109144619)
     - [ ] [필요한 것만 골라 배우는 모던 C++ [ PDF ]](https://www.yes24.com/Product/Goods/114873221)
+
+<hr>
 
   - Windows PowerShell
     - [ ] Learn PowerShell in a Month of Lunches, Fourth Edition(Manning)| Travis Plunk, James Petty, Tyler Leonhardt, Don Jones, Jeffery Hicks
