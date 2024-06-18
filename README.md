@@ -66,9 +66,13 @@ https://blog.rust-lang.org/index.html
       - Fyrox Game Engine 0.32 https://fyrox.rs/blog/post/fyrox-game-engine-0-32/
       
     - Bevy
+      - Bevy 0-14-rc.2, Powerglove, and Soup - This Week in Bevy chris biscardi
+        - https://youtu.be/5r90Z7Ec3Pw?si=8MLWedGjtK-x1BFS
       - https://bevyengine.org/news/bevy-0-13/
       - SME Announcements https://bevyengine.org/news/sme-announcements/
       - https://bevyengine.org/news/bevy-webgpu/
+      - This Week in Bevy Engine | chris biscardi
+        - https://youtube.com/playlist?list=PLWtPciJ1UMuAyAER9ASVEDRIz0DUspOeZ&si=T-HJLRn39NKK1Hyp
 
   - Terminal Multiplexer
     - https://zellij.dev/news/new-plugin-system/
