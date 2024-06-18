@@ -62,8 +62,8 @@ https://blog.rust-lang.org/index.html
   
   - GameEngine( Fyrox, Bevy)
     - Fyrox
+      - Fyrox Game Engine 0.34 https://fyrox.rs/blog/post/fyrox-game-engine-0-34/
       - Fyrox Game Engine 0.33 https://fyrox.rs/blog/post/fyrox-game-engine-0-33/
-      - Fyrox Game Engine 0.32 https://fyrox.rs/blog/post/fyrox-game-engine-0-32/
       
     - Bevy
       - Bevy 0-14-rc.2, Powerglove, and Soup - This Week in Bevy chris biscardi
