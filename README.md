@@ -66,6 +66,8 @@ https://blog.rust-lang.org/index.html
       - Fyrox Game Engine 0.33 https://fyrox.rs/blog/post/fyrox-game-engine-0-33/
       
     - Bevy
+      - Bevy최신소식
+        - https://thisweekinbevy.com/
       - Bevy 0-14-rc.2, Powerglove, and Soup - This Week in Bevy chris biscardi
         - https://youtu.be/5r90Z7Ec3Pw?si=8MLWedGjtK-x1BFS
       - https://bevyengine.org/news/bevy-0-13/
