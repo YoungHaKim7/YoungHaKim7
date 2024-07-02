@@ -432,7 +432,8 @@ https://github.com/YoungHaKim7/English_Trainining
     - [ ] 오리지날 코드Original Code댓글이 더 주옥같다. Rust Optimization https://gist.github.com/kvark/f067ba974446f7c5ce5bd544fe370186
 - Rust Training
   - Rust Peseus
-    - [x] I'm focusing on making the homepage(using WASM) only with Rust Languge.Rust Perseus https://port-0-rusthomepage-dihik2mljdovxnx.sel4.cloudtype.app/
+    - [x] I'm focusing on making the homepage(using WASM) only with Rust Languge.
+      - [ ] Rust Perseus https://port-0-rust-discord-homepage-dihik2mljdovxnx.sel4.cloudtype.app/
     - [x] Test html & Blog & link
     - [ ] login
     - [ ] DB
