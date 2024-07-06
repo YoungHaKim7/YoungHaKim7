@@ -365,11 +365,11 @@ https://blog.rust-lang.org/index.html
        <td><a href="https://alacritty.org/"><img align="left" alt="myyoutubechannel" width="26px" src="https://user-images.githubusercontent.com/67513038/214269633-026239ec-b47e-4743-8556-3e644b0f20b2.png"></a>
        <a href="https://github.com/YoungHaKim7/YouTubeContents_GlobalYoung">My YouTube Contents</a></td>
        </tr>
-    <tr align="center">
+   <!-- <tr align="center">
        <td>Securities & Futures<br>MyYouTubeContents</td>
        <td><img alt="myyoutubechannel" width="70px" src="https://user-images.githubusercontent.com/67513038/228557546-322d4303-e254-4f00-b8ed-a4b0427edd28.png">
        <br><a href="https://github.com/YoungHaKim7/GY_Investment_Securities_Futures">Investment<br>My YouTube</a></td>
-       </tr>
+       </tr> !-->
   
 </table>
 
