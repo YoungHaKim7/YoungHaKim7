@@ -496,9 +496,15 @@ https://github.com/YoungHaKim7/English_Trainining
 
 <hr>
 
-  - Windows PowerShell
-    - [ ] Learn PowerShell in a Month of Lunches, Fourth Edition(Manning)| Travis Plunk, James Petty, Tyler Leonhardt, Don Jones, Jeffery Hicks
+# WindowsOS
 
+- Windows PowerShell
+  - [ ] Learn PowerShell in a Month of Lunches, Fourth Edition(Manning)| Travis Plunk, James Petty, Tyler Leonhardt, Don Jones, Jeffery Hicks
+
+# Windows API 공부하기
+- https://github.com/MicrosoftDocs/win32/blob/docs/desktop-src/desktop-programming.md
+
+<hr>
 
 <hr>
 
