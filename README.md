@@ -38,15 +38,12 @@ https://rustmagazine.org/
 - Programming language popularity: Rust
   - https://szabgab.com/programming-language-popularity-rust
 
-- This week in rust https://this-week-in-rust.org/blog/archives/index.html
+- This week in rust
+  - https://this-week-in-rust.org/
+  
+- https://blog.rust-lang.org/inside-rust/
 
-  - https://this-week-in-rust.org/blog/2023/07/05/this-week-in-rust-502/
-
-  - https://this-week-in-rust.org/blog/2023/06/28/this-week-in-rust-501/
-
-https://blog.rust-lang.org/inside-rust/
-
-https://blog.rust-lang.org/index.html
+- https://blog.rust-lang.org/index.html
 
 - Introducing WAGI: The Easiest Way to Build WebAssembly Microservices
   - https://deislabs.io/posts/introducing-wagi-easiest-way-to-build-webassembly-microservices/
