@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @YoungHaKim
 - 🌱 I’m currently learning The Rust(<a href="https://github.com/nrc/rustaceans.org">I'm Rustacean</a>)
 - I'm focusing on making the homepage(using WASM) only with Rust Languge.
-  - Rust Yew https://younghakim7.github.io/
+<!--  - Rust Yew https://younghakim7.github.io/  !-->
 <!--  - Plain HTML Homepage  !-->
-  - Rust Perseus https://port-0-rust-discord-homepage-dihik2mljdovxnx.sel4.cloudtype.app/
+  - Rust Perseus(Test) https://port-0-rust-discord-homepage-dihik2mljdovxnx.sel4.cloudtype.app/
 <!--  - Rust Shuttle Deploy https://gy.shuttleapp.rs/ !-->
 <!-- - Rust Perseus(WASM(Public) https://port-0-fastapi-dihik2mljdovxnx.sel4.cloudtype.app/
 - Rust_Rocket test Homepage https://rust-rocket1108-86a2df3e48f2.herokuapp.com/ !-->
