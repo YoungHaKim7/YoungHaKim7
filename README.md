@@ -25,7 +25,7 @@
 
 <p align="center">
   https://rustmagazine.org/
-  <img width=150px src="https://user-images.githubusercontent.com/67513038/225548333-767e08f3-2232-4aca-aa1f-7bcff9b41df8.png" />  
+  <br /><br /><img width=150px src="https://user-images.githubusercontent.com/67513038/225548333-767e08f3-2232-4aca-aa1f-7bcff9b41df8.png" />  
 </p>
 
 
