@@ -225,6 +225,7 @@ https://rustmagazine.org/
      <td><a href="https://www.edgedb.com/"><img align="left" alt="rustsurrealdb" width="26px" src="https://user-images.githubusercontent.com/67513038/227748847-2fa16aa4-e855-41da-97e4-a667e549e3cd.png" /></a>
       <a href="https://github.com/YoungHaKim7/EdgeDB_my_project">EdgeDB_my_project</a>
       <br><a href="https://www.edgedb.com/easy-edgedb">EdgeDB_tutorial_easy-edgeDB</a>
+      <br><a href="https://docs.edgedb.com/tutorial">https://docs.edgedb.com/tutorial</a>
      </td>
     </tr>
     <tr align="center">
