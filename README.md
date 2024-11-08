@@ -120,13 +120,14 @@ https://rustmagazine.org/
 
 - Rust Version
   - 🚀 Cutting-edge Features with 'Editions'
+    - https://namu.wiki/w/Rust%28%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EC%96%B8%EC%96%B4%29
   - Rust introduces significant changes or new features through ‘Editions’, which are released every 3 years.
-    - Rust Edition 2015
+    - Rust Edition 2015(1.31.0 이전 버전은 Rust 2015 Edition)
       - https://doc.rust-lang.org/edition-guide/rust-2015/index.html
-    - Rust Edition 2018
+    - Rust Edition 2018(1.31.0 버전을 기점으로 Rust 2018 Edition으로 에디션이 변경)
       - (181206) https://blog.rust-lang.org/2018/12/06/Rust-1.31-and-rust-2018.html
         - https://doc.rust-lang.org/edition-guide/rust-2018/index.html
-    - Rust Edition 2021
+    - Rust Edition 2021(1.56.0 이후 버전은 Rust 2021 Edition)
       - https://doc.rust-lang.org/edition-guide/rust-2021/index.html
       - (211021) https://blog.rust-lang.org/2021/10/21/Rust-1.56.0.html
         - https://news.hada.io/topic?id=5240
