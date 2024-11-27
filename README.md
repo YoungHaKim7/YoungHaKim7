@@ -60,11 +60,7 @@ https://rustmagazine.org/
   - <a href="https://github.com/containers/youki/releases/tag/v0.1.0">Youki v0.1.0 has been released for use with Kubernetes and more </a>
     - https://github.com/containers/youki
   
-  - GameEngine( Fyrox, Bevy)
-    - Fyrox
-      - Fyrox Game Engine 0.34 https://fyrox.rs/blog/post/fyrox-game-engine-0-34/
-      - Fyrox Game Engine 0.33 https://fyrox.rs/blog/post/fyrox-game-engine-0-33/
-      
+  - GameEngine(Bevy, Fyrox) 
     - Bevy
       - Bevy최신소식
         - https://thisweekinbevy.com/
@@ -75,7 +71,11 @@ https://rustmagazine.org/
       - https://bevyengine.org/news/bevy-webgpu/
       - This Week in Bevy Engine | chris biscardi
         - https://youtube.com/playlist?list=PLWtPciJ1UMuAyAER9ASVEDRIz0DUspOeZ&si=T-HJLRn39NKK1Hyp
-
+    - Fyrox
+      - https://fyrox.rs/blog/
+      - Fyrox Game Engine 0.34 https://fyrox.rs/blog/post/fyrox-game-engine-0-34/
+      - Fyrox Game Engine 0.33 https://fyrox.rs/blog/post/fyrox-game-engine-0-33/
+     
   - Terminal Multiplexer
     - https://zellij.dev/news/new-plugin-system/
       - 소개영상(Zellij)Aram Drevekenin – Zellij - A terminal workspace with batteries included - Rust Vienna June 2023
