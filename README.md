@@ -131,7 +131,8 @@ https://rustmagazine.org/
       - https://doc.rust-lang.org/edition-guide/rust-2021/index.html
       - (211021) https://blog.rust-lang.org/2021/10/21/Rust-1.56.0.html
         - https://news.hada.io/topic?id=5240
-    - Rust2024 Edition (2024년 하반기 출시 예정)
+    - Rust2024 Edition (2025년 2월 나올 예정 Rust 1.85 on 2025-02-20)
+      - [(241127)Rust 2024 will be released to stable Rust with Rust 1.85 on 2025-02-20.](https://blog.rust-lang.org/2024/11/27/Rust-2024-public-testing.html)
       - (231215) https://blog.rust-lang.org/2023/12/15/2024-Edition-CFP.html
 
 
