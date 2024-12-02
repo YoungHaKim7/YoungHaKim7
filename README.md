@@ -9,6 +9,7 @@
 <!-- - Rust Perseus(WASM(Public) https://port-0-fastapi-dihik2mljdovxnx.sel4.cloudtype.app/
 - Rust_Rocket test Homepage https://rust-rocket1108-86a2df3e48f2.herokuapp.com/ !-->
 - [My Contributions](https://github.com/YoungHaKim7/my_Contributions)
+<!-- - https://app.gitbook.com/o/g1xFEmOsIbIjk1wCqBcJ/home !-->
 - 💞️ The final goal is to create an automatic trading U.S. futures program.
 - 📫 How to reach me ...
 <a href="https://economiceco.tistory.com/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-GlobalYoung-Green"></a>
