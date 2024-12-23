@@ -409,11 +409,10 @@ https://github.com/YoungHaKim7/English_Trainining
 
 # Readme.md에 적용되는 마크다운 문법 정리
 - [Readme기본 문법_Github공식문서Doc(Get-started_Basic wrting & formatting syntax)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- [글씨에 색깔 넣기(stackoverflow에 답이 있군How to add color to GitHub's README.md file)](https://stackoverflow.com/questions/11509830/how-to-add-color-to-githubs-readme-md-file)
 - Readme꾸미기 이미지 가운데 정렬
   - https://gist.github.com/DavidWells/7d2e0e1bc78f4ac59a123ddf8b74932d
-
 - https://sirupe.github.io/first-posting/
-
 - 마크 다운에서 표 만들기 약간 복잡하게 병합하기
   - https://stackoverflow.com/questions/46621765/can-i-merge-table-rows-in-markdown
   - 표 아주 편하게 만들기(|) 이걸로 대박 편하네 ㅋ https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables
