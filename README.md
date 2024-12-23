@@ -408,6 +408,7 @@ https://github.com/YoungHaKim7/English_Trainining
 <hr>
 
 # Readme.md에 적용되는 마크다운 문법 정리
+- [Readme기본 문법_Github공식문서Doc(Get-started_Basic wrting & formatting syntax)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - Readme꾸미기 이미지 가운데 정렬
   - https://gist.github.com/DavidWells/7d2e0e1bc78f4ac59a123ddf8b74932d
 
