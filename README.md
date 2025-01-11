@@ -110,12 +110,12 @@ https://rustmagazine.org/
 
   - https://blog.rust-lang.org/2015/05/15/Rust-1.0.html
 
-- Version 1.83.0 (2024-11-28) https://github.com/rust-lang/rust/blob/1.83.0/RELEASES.md
-  - https://blog.rust-lang.org/2024/11/28/Rust-1.83.0.html
+- Version 1.84.0 (2025-01-09) https://github.com/rust-lang/rust/blob/1.84.0/RELEASES.md
+  - https://blog.rust-lang.org/2025/01/09/Rust-1.84.0.html
 
 - Rust Release https://www.whatrustisit.com/
 
-  - Next release day: Next release day: 2025-01-09
+  - Next release day: Next release day: 2025-02-20(Rust Edition 2024)
   
 - This is the main Rust blog. https://blog.rust-lang.org/
 
