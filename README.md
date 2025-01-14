@@ -168,11 +168,13 @@ https://rustmagazine.org/
      <tr align="center">
         <td>Low<br>Level</td>
         <td><a href="https://www.rust-lang.org/"><img align="space-around" alt="rust" width="26px" src="https://user-images.githubusercontent.com/67513038/146173748-cbfea7c9-3af7-49cb-8a22-1eebebe41ff6.jpg" />   </a>
+          <a href="https://c3-lang.org/"><img align="space-around" alt="c3" width="26px" src="https://github.com/user-attachments/assets/778b6db8-e04e-4548-ba2f-7198c93a8320" /></a>
      <a href="https://ziglang.org/"><img align="space-around" alt="zig" width="26px" src="https://user-images.githubusercontent.com/67513038/178751011-806395c2-c3dc-4094-80da-5a9dc82f0782.png">   </a>
      <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img align="space-around" alt="cpp" width="26px" src="https://user-images.githubusercontent.com/67513038/146173770-368394e9-4ba4-40f3-922d-e534ee73f11b.jpg">   </a>
          <br><a href="https://github.com/YoungHaKim7/my_rust_project">Rust_my_project</a>
          <br><a href="https://github.com/YoungHaKim7/rust_release">Rust_Release</a>
          <br><a href="https://github.com/YoungHaKim7/Rust_Tutorial_Full_course">Rust_tutorial_Full_Course</a>
+          <br><a href="https://github.com/YoungHaKim7/C3_lang_training">C3 my project</a>
          <br><a href="https://github.com/YoungHaKim7/zig_lang_exercises">Zig_my_project</a>
          <br><a href="https://github.com/YoungHaKim7/c_project">C_my_project</a>
          <br><a href="https://github.com/YoungHaKim7/cpp_training2024">C++_Training</a>
