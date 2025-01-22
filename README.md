@@ -104,7 +104,9 @@ https://rustmagazine.org/
     
 <hr>
 
-# Rust Lang https://www.rust-lang.org/
+# <img width=35px src="https://github.com/user-attachments/assets/3489669b-63c0-439e-b507-9b2bfb3fdd5e" />Rust Lang 
+
+- https://www.rust-lang.org/
 
 - Announcing Rust 1.0(Rust Language)
 
