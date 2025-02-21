@@ -74,8 +74,8 @@ https://rustmagazine.org/
         - https://youtube.com/playlist?list=PLWtPciJ1UMuAyAER9ASVEDRIz0DUspOeZ&si=T-HJLRn39NKK1Hyp
     - Fyrox
       - https://fyrox.rs/blog/
+      - Fyrox Game Engine 0.36(Rust) https://fyrox.rs/blog/post/fyrox-game-engine-0-36/
       - Fyrox Game Engine 0.34 https://fyrox.rs/blog/post/fyrox-game-engine-0-34/
-      - Fyrox Game Engine 0.33 https://fyrox.rs/blog/post/fyrox-game-engine-0-33/
      
   - Terminal Multiplexer
     - https://zellij.dev/news/new-plugin-system/
