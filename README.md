@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YoungHaKim
-- 🌱 I’m currently learning The Rust(<a href="https://github.com/nrc/rustaceans.org">I'm Rustacean</a>)
+- 🌱 I’m currently learning The Rust(<a href="https://github.com/nrc/rustaceans.org">I'm Rustacean</a>)<img width=25px src="https://github.com/user-attachments/assets/3489669b-63c0-439e-b507-9b2bfb3fdd5e" />
 - I'm focusing on making the homepage(using WASM) only with Rust Languge.
   <!-- - Rust Perseus(Test) https://port-0-rust-discord-homepage-dihik2mljdovxnx.sel4.cloudtype.app/ !-->
 <!--  - Rust Yew https://younghakim7.github.io/  !-->
