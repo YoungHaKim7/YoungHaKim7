@@ -45,13 +45,13 @@ https://rustmagazine.org/
 - This week in rust
   - https://this-week-in-rust.org/
 
-- The Embedded Rustacean
-  - https://www.theembeddedrustacean.com/
-  
 - https://blog.rust-lang.org/inside-rust/
 
 - https://blog.rust-lang.org/index.html
 
+- The Embedded Rustacean
+  - https://www.theembeddedrustacean.com/
+  
 - Introducing WAGI: The Easiest Way to Build WebAssembly Microservices
   - https://deislabs.io/posts/introducing-wagi-easiest-way-to-build-webassembly-microservices/
 
