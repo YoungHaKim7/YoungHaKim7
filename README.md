@@ -51,6 +51,9 @@ https://rustmagazine.org/
 
 - The Embedded Rustacean
   - https://www.theembeddedrustacean.com/
+
+- Rust OSDev(Operating System Development in Rust)
+  - https://rust-osdev.com/
   
 - Introducing WAGI: The Easiest Way to Build WebAssembly Microservices
   - https://deislabs.io/posts/introducing-wagi-easiest-way-to-build-webassembly-microservices/
