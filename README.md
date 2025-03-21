@@ -49,6 +49,9 @@ https://rustmagazine.org/
 
 - https://blog.rust-lang.org/index.html
 
+- Rust WebAssembly(WASM)
+  - https://rustwasm.github.io/docs/book/
+
 - The Embedded Rustacean
   - https://www.theembeddedrustacean.com/
 
