@@ -44,6 +44,9 @@ https://rustmagazine.org/
 
 - This week in rust
   - https://this-week-in-rust.org/
+
+- The Embedded Rustacean
+  - https://www.theembeddedrustacean.com/
   
 - https://blog.rust-lang.org/inside-rust/
 
