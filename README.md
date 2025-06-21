@@ -151,6 +151,13 @@ https://rustmagazine.org/
       - [(241127)Rust 2024 will be released to stable Rust with Rust 1.85 on 2025-02-20.](https://blog.rust-lang.org/2024/11/27/Rust-2024-public-testing.html)
       - (231215) https://blog.rust-lang.org/2023/12/15/2024-Edition-CFP.html
 
+- toml fmt(toml정렬)
+  - https://github.com/YoungHaKim7/rust_vim_setting?tab=readme-ov-file#toml-fmt
+  ```bash
+  taplo format Cargo.toml
+  ```
+  - See https://taplo.tamasfe.dev/configuration/file.html
+  - https://taplo.tamasfe.dev/configuration/formatter-options.html
 
 <hr>
 
