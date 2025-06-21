@@ -54,6 +54,8 @@ https://rustmagazine.org/
 
 - The Embedded Rustacean
   - https://www.theembeddedrustacean.com/
+    - Blog
+      - https://jslazak.com/are-we-embedded-yet-2/
 
 - Rust OSDev(Operating System Development in Rust)
   - https://rust-osdev.com/
