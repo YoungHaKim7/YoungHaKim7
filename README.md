@@ -159,7 +159,7 @@ https://rustmagazine.org/
   - See https://taplo.tamasfe.dev/configuration/file.html
   - https://taplo.tamasfe.dev/configuration/formatter-options.html
 
-- c/c++(.clang-format) 커멘드라인에서
+- c/c++(.clang-format) 커멘드라인에서 실행하기
   - https://stackoverflow.com/questions/28896909/how-to-call-clang-format-over-a-cpp-project-folder
 
 ```bash
@@ -170,6 +170,23 @@ $ clang-format -i -- src/*.c
 # 여러개 파일
 $ find . -iname '*.h' -o -iname '*.cpp' -o -iname '*.hpp' -o -iname '*.c' | clang-format --style=file -i --files=/dev/stdin
 Clang-formating 2 files
+```
+
+- `.clang-format` 파일 만들기 
+  - 옵션 눈으로 보면서 세팅조절하기 https://zed0.co.uk/clang-format-configurator/
+
+- `.clang-format` 파일 없을때 자동으로 만들어줌 개편함 ~~
+
+```bash
+clang-format -style=WebKit -dump-config > .clang-format
+```
+
+- 방법2
+```bash
+# Then run:
+
+find . -regex '.*\.\(cpp\|hpp\|cc\|cxx\)' -exec clang-format -style=file -i {} \;
+
 ```
 
 <hr>
