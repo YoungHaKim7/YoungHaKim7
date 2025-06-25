@@ -159,6 +159,19 @@ https://rustmagazine.org/
   - See https://taplo.tamasfe.dev/configuration/file.html
   - https://taplo.tamasfe.dev/configuration/formatter-options.html
 
+- c/c++(.clang-format) 커멘드라인에서
+  - https://stackoverflow.com/questions/28896909/how-to-call-clang-format-over-a-cpp-project-folder
+
+```bash
+# 한개 파일
+$ clang-format -i -- src/*.c
+
+
+# 여러개 파일
+$ find . -iname '*.h' -o -iname '*.cpp' -o -iname '*.hpp' -o -iname '*.c' | clang-format --style=file -i --files=/dev/stdin
+Clang-formating 2 files
+```
+
 <hr>
 
 <!-- ### Languages and Tools:  !-->
