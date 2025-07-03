@@ -63,6 +63,8 @@ https://rustmagazine.org/
 - Introducing WAGI: The Easiest Way to Build WebAssembly Microservices
   - https://deislabs.io/posts/introducing-wagi-easiest-way-to-build-webassembly-microservices/
 
+- [러스트와 과학의 만남(영상모아보기)_Scientific Computing in Rust 2025 | Scientific Computing in Rust](https://youtube.com/playlist?list=PLrueqeouhcZNRW7H26DfscFjGSf0Pzd8c&si=SE__v7_yp-n3zvbW)
+
 - Updates from Rust Community
   - Official
     - Improved API tokens for crates.io https://blog.rust-lang.org/2023/06/23/improved-api-tokens-for-crates-io.html
