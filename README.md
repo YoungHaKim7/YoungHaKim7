@@ -183,12 +183,29 @@ Clang-formating 2 files
 clang-format -style=WebKit -dump-config > .clang-format
 ```
 
+
 - 방법2
 ```bash
 # Then run:
 
 find . -regex '.*\.\(cpp\|hpp\|cc\|cxx\)' -exec clang-format -style=file -i {} \;
 
+```
+
+```clang-format
+# BasedOnStyle: WebKit
+# LLVM, Google, Chromium, Mozilla, WebKit
+
+BasedOnStyle: WebKit
+IndentWidth: 4
+ContinuationIndentWidth: 4
+IndentCaseLabels: false
+IndentCaseBlocks: false
+IndentGotoLabels: true
+IndentPPDirectives: None
+IndentExternBlock: NoIndent
+
+ColumnLimit: 80
 ```
 
 <hr>
