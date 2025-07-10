@@ -102,6 +102,7 @@ https://rustmagazine.org/
   - GraphQL https://exograph.dev/blog/hello-exograph/
 
   - Rust GUI https://areweguiyet.com/
+    - [Xilem GUI /_An experimental Rust native UI framework](https://github.com/linebender/xilem)
   - Rust Browser Servo in 2023 - Martin Robinson - RustNL 2023 https://youtu.be/IdHvHoAO5oo
 
 - Observations/Thoughts
