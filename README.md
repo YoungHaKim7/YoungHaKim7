@@ -255,7 +255,7 @@ ColumnLimit: 80
     <tr align="center">
     <td>Rust <br>GUI</td>
      <td>
-       <a href="https://www.rust-lang.org/"><img align="center" alt="rust1" width="26px" src="https://user-images.githubusercontent.com/67513038/213436632-820a1675-98d9-4626-979d-be63c60cdcb7.png" /></a>
+       <a href="https://www.rust-lang.org/"><img align="center" alt="rust1" width="24px" src="https://github.com/user-attachments/assets/3489669b-63c0-439e-b507-9b2bfb3fdd5e" /></a>
         <a href="https://github.com/linebender/xilem"><img align="center" alt="xilem" width="26px" src="https://github.com/user-attachments/assets/38b8bbad-8c2a-459a-b18d-fabaef338e30" /></a>
       <br><a href="https://github.com/YoungHaKim7/rust_gui_app_in_summary">Rust_GUI</a>
      </td>
