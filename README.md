@@ -189,7 +189,7 @@ clang-format -style=WebKit -dump-config > .clang-format
 ```bash
 # Then run:
 
-find . -regex '.*\.\(cpp\|hpp\|cc\|cxx\)' -exec clang-format -style=file -i {} \;
+find . -regex '.*\.\(cpp\|hpp\|cc\|cxx\|c\|h\)' -exec clang-format -style=file -i {} \;
 
 ```
 
