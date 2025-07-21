@@ -500,6 +500,8 @@ https://github.com/YoungHaKim7/English_Trainining
   - [x] [Github Readme에 컬러 넣기](https://www.reddit.com/r/github/comments/1fgpj01/using_color_in_tables_in_github_markdown/)
   - [ ] 표에 컬러 이쁘게 넣기 https://stackoverflow.com/questions/26197579/set-background-color-for-specific-cell-in-markdown-table
 
+- [github profile_설명서(eng.)]https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile
+
 <br>
 
 <hr>
