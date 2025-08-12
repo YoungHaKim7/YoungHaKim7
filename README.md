@@ -78,9 +78,9 @@ https://rustmagazine.org/
     - Bevy
       - Bevy최신소식
         - https://thisweekinbevy.com/
+        - https://bevy.org/news/bevy-0-16/
       - Bevy 0-14-rc.2, Powerglove, and Soup - This Week in Bevy chris biscardi
         - https://youtu.be/5r90Z7Ec3Pw?si=8MLWedGjtK-x1BFS
-      - https://bevyengine.org/news/bevy-0-13/
       - SME Announcements https://bevyengine.org/news/sme-announcements/
       - https://bevyengine.org/news/bevy-webgpu/
       - This Week in Bevy Engine | chris biscardi
