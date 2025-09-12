@@ -236,6 +236,9 @@ ColumnLimit: 80
     <td>Assembly<br>X86_64 & Arm</td>
     <td><a href="https://en.wikipedia.org/wiki/Assembly_language"><img align="left" alt="assembly" width="39px" src="https://user-images.githubusercontent.com/67513038/210325356-f21c646d-6ef1-4736-ac42-53f0b5e149ca.png"></a><a href="https://github.com/YoungHaKim7/Arm64_Assembly_Language">Arm64_Assembly_my_project</a>
   <br><a href="https://github.com/YoungHaKim7/x86_64_Assembly_my_project">x86_64_Assembly_my_project</a></td></tr>
+  <tr align="center">
+    <td>Linux Kernel<br> in Rust</td>
+    <td><a href="https://www.rust-lang.org/"><img align="left" alt="rust1" width="26px" src="https://user-images.githubusercontent.com/67513038/213436632-820a1675-98d9-4626-979d-be63c60cdcb7.png" /></a><a href="https://www.linux.org/pages/download/"><img align="left" alt="linux" width="26px" src="https://user-images.githubusercontent.com/67513038/210177859-6623064c-7344-46ce-a0d3-b6dcf21410e2.png"></a><br /><a href="https://github.com/YoungHaKim7/Kernel_dev_in_Rust">Kernel_dev_in_Rust</a></td></tr>
      <tr align="center">
         <td>Low<br>Level</td>
         <td><a href="https://www.rust-lang.org/"><img align="space-around" alt="rust" width="26px" src="https://user-images.githubusercontent.com/67513038/146173748-cbfea7c9-3af7-49cb-8a22-1eebebe41ff6.jpg" />   </a>
