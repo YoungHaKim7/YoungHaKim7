@@ -241,7 +241,7 @@ ColumnLimit: 80
    <td>
      <a href="https://www.rust-lang.org/"><img align="left" alt="rust1" width="26px" src="https://user-images.githubusercontent.com/67513038/213436632-820a1675-98d9-4626-979d-be63c60cdcb7.png" /></a>
      <a href="https://www.linux.org/pages/download/"><img align="left" alt="linux" width="26px" src="https://user-images.githubusercontent.com/67513038/210177859-6623064c-7344-46ce-a0d3-b6dcf21410e2.png"></a>
-    <br /><a href="https://github.com/YoungHaKim7/Kernel_dev_in_Rust">Kernel_dev_in_Rust</a>
+    <br /><br /><a href="https://github.com/YoungHaKim7/Kernel_dev_in_Rust">Kernel_dev_in_Rust</a>
    </td>
   </tr>
    <tr align="center">
