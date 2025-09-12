@@ -270,13 +270,13 @@ ColumnLimit: 80
     </tr>
      <tr align="center">
         <td>Rust<br>MachineLearning</td>
-        <td><a href="https://github.com/rust-ml/linfa"><img align="left" alt="rustmascot" width="26px" src="https://user-images.githubusercontent.com/67513038/213403213-1b1b3efc-ce53-4825-9dfc-e9bf2956a7f4.svg" /></a>
-        <a href="https://www.rust-lang.org/"><img align="left" alt="rust1" width="26px" src="https://user-images.githubusercontent.com/67513038/213436632-820a1675-98d9-4626-979d-be63c60cdcb7.png" /></a>
+        <td><a href="https://github.com/rust-ml/linfa"><img align="space-around" alt="rustmascot" width="26px" src="https://user-images.githubusercontent.com/67513038/213403213-1b1b3efc-ce53-4825-9dfc-e9bf2956a7f4.svg" /></a>
+        <a href="https://www.rust-lang.org/"><img align="space-around" alt="rust1" width="26px" src="https://user-images.githubusercontent.com/67513038/213436632-820a1675-98d9-4626-979d-be63c60cdcb7.png" /></a>
         <a href="https://github.com/YoungHaKim7/Machine_Learning_Rust">Rust_Machine_Learning<br>my_project</a></td>
     </tr>
      <tr align="center">
         <td>Algoritms<br>BigPictureOfCalculus</td>
-    <td><a href="https://en.wikipedia.org/wiki/Algorithm"><img align="left" alt="assembly" width="39px" src="https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/0dbe2ef1-78c3-458b-9893-4abaed1d8080"></a><a href="https://github.com/YoungHaKim7/Algorithm_Training">algorithm_training</a>
+    <td><a href="https://en.wikipedia.org/wiki/Algorithm"><img align="space-around" alt="assembly" width="39px" src="https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/0dbe2ef1-78c3-458b-9893-4abaed1d8080"></a><a href="https://github.com/YoungHaKim7/Algorithm_Training">algorithm_training</a>
      <tr align="center">
     <tr align="center">
     <td>Rust<br>Frontend<br>& Backend</td>
@@ -308,14 +308,14 @@ ColumnLimit: 80
     </tr>
     <tr align="center">
     <td>Rust<br>SurrealDB</td>
-     <td><a href="https://surrealdb.com/"><img align="left" alt="rustsurrealdb" width="26px" src="https://user-images.githubusercontent.com/67513038/226838520-87c704be-e1a6-4a3b-8d86-6300e3903282.png" /></a>
-      <a href="https://www.rust-lang.org/"><img align="left" alt="rust1" width="26px" src="https://user-images.githubusercontent.com/67513038/213436632-820a1675-98d9-4626-979d-be63c60cdcb7.png" /></a>
+     <td><a href="https://surrealdb.com/"><img align="space-around" alt="rustsurrealdb" width="26px" src="https://user-images.githubusercontent.com/67513038/226838520-87c704be-e1a6-4a3b-8d86-6300e3903282.png" /></a>
+      <a href="https://www.rust-lang.org/"><img align="space-around" alt="rust1" width="26px" src="https://user-images.githubusercontent.com/67513038/213436632-820a1675-98d9-4626-979d-be63c60cdcb7.png" /></a>
       <a href="https://github.com/YoungHaKim7/Rust_SurrealDB_project">Rust_SurrealDB_my_project</a>
      </td>
     </tr>
     <tr align="center">
     <td>EdgeDB</td>
-     <td><a href="https://www.edgedb.com/"><img align="left" alt="rustsurrealdb" width="26px" src="https://user-images.githubusercontent.com/67513038/227748847-2fa16aa4-e855-41da-97e4-a667e549e3cd.png" /></a>
+     <td><a href="https://www.edgedb.com/"><img align="space-around" alt="rustsurrealdb" width="26px" src="https://user-images.githubusercontent.com/67513038/227748847-2fa16aa4-e855-41da-97e4-a667e549e3cd.png" /></a>
       <a href="https://github.com/YoungHaKim7/EdgeDB_my_project">EdgeDB_my_project</a>
       <br><a href="https://www.edgedb.com/easy-edgedb">EdgeDB_tutorial_easy-edgeDB</a>
       <br><a href="https://docs.edgedb.com/tutorial">https://docs.edgedb.com/tutorial</a>
@@ -323,37 +323,37 @@ ColumnLimit: 80
     </tr>
     <tr align="center">
         <td>OS</td>
-        <td><a href="https://www.linux.org/pages/download/"><img align="left" alt="linux" width="26px" src="https://user-images.githubusercontent.com/67513038/210177859-6623064c-7344-46ce-a0d3-b6dcf21410e2.png"></a>
-        <a href="https://developer.apple.com/"><img align="left" alt="apple" width="26px" src="https://user-images.githubusercontent.com/67513038/210920737-91c0c09a-e8b1-4343-92d5-17db686c2373.png"></a>
-        <a href="https://developer.microsoft.com/en-us/windows/"><img align="left" alt="windows" width="26px" src="https://user-images.githubusercontent.com/67513038/210921131-627bcc59-266f-4228-b6ee-37018b5004b7.png"></a>
+        <td><a href="https://www.linux.org/pages/download/"><img align="space-around" alt="linux" width="26px" src="https://user-images.githubusercontent.com/67513038/210177859-6623064c-7344-46ce-a0d3-b6dcf21410e2.png"></a>
+        <a href="https://developer.apple.com/"><img align="space-around" alt="apple" width="26px" src="https://user-images.githubusercontent.com/67513038/210920737-91c0c09a-e8b1-4343-92d5-17db686c2373.png"></a>
+        <a href="https://developer.microsoft.com/en-us/windows/"><img align="space-around" alt="windows" width="26px" src="https://user-images.githubusercontent.com/67513038/210921131-627bcc59-266f-4228-b6ee-37018b5004b7.png"></a>
         <a href="https://github.com/YoungHaKim7/Shell_Script">Shell_Script</a>
          <br><a href="https://github.com/YoungHaKim7/linux_command">Linux_Command</a>
         <br><a href="https://github.com/YoungHaKim7/PowerShell_pwsh_WinOS">PowerShell_pwsh_WinOS</a>
      </td></td></tr>
     <tr align="center">
         <td>Quantum<br>Coding</td>
-        <td><a href="https://silq.ethz.ch/"><img align="left" alt="quantum" width="45px" src="https://user-images.githubusercontent.com/67513038/206940366-acf03b4a-f277-4f8d-aed3-11e3b14ded26.svg"></a><a href="https://github.com/YoungHaKim7/silq_project">Silq_my_project</a></td></tr>
+        <td><a href="https://silq.ethz.ch/"><img align="space-around" alt="quantum" width="45px" src="https://user-images.githubusercontent.com/67513038/206940366-acf03b4a-f277-4f8d-aed3-11e3b14ded26.svg"></a><a href="https://github.com/YoungHaKim7/silq_project">Silq_my_project</a></td></tr>
     <tr align="center">
         <td>cloud</td>
-        <td><a href="https://www.docker.com/"><img align="left" alt="docker" width="32px" src="https://user-images.githubusercontent.com/67513038/152680127-e331659a-db71-41a1-a7d0-77d47f25d55e.png"></a>
+        <td><a href="https://www.docker.com/"><img align="space-around" alt="docker" width="32px" src="https://user-images.githubusercontent.com/67513038/152680127-e331659a-db71-41a1-a7d0-77d47f25d55e.png"></a>
         <a href="https://github.com/YoungHaKim7/docker_project">Docker_my_project</a></td></tr>
     <tr align="center">
         <td>C#, F#, and Visual Basic<br>are supported by Microsoft</td>
-        <td><a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img align="left" alt="csharp" width="30px" src="https://user-images.githubusercontent.com/67513038/206488978-ab94802f-9f34-45b6-a456-876f900e3047.png"></a>
+        <td><a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img align="space-around" alt="csharp" width="30px" src="https://user-images.githubusercontent.com/67513038/206488978-ab94802f-9f34-45b6-a456-876f900e3047.png"></a>
         <a href="https://learn.microsoft.com/en-us/dotnet/fsharp/"><img align="left" alt="fsharp" width="26px" src="https://user-images.githubusercontent.com/67513038/206490935-5bdcfb65-f097-41d3-b35b-0d85f5e115f9.png"></a>
          <a href="https://github.com/YoungHaKim7/C_Sharp_Lang">C#_my_project</a>
          <br><a href="https://github.com/YoungHaKim7/F_Sharp_Lang">F#_my_project</a>
         </td></tr>
      <tr align="center">
         <td>Kotlin = 😎<br>The next generation of Java</td>
-        <td><a href="https://docs.oracle.com/javase/8/docs/technotes/guides/language/index.html"><img align="left" alt="java" width="26px" src="https://user-images.githubusercontent.com/67513038/206882104-49ccf213-46e9-4a1f-ae84-d674f12cebc1.png"></a>
-        <a href="https://kotlinlang.org/"><img align="left" alt="python" width="26px" src="https://user-images.githubusercontent.com/67513038/207230971-6f785c6f-77c7-499d-9e90-16543505ef4d.svg"></a>
+        <td><a href="https://docs.oracle.com/javase/8/docs/technotes/guides/language/index.html"><img align="space-around" alt="java" width="26px" src="https://user-images.githubusercontent.com/67513038/206882104-49ccf213-46e9-4a1f-ae84-d674f12cebc1.png"></a>
+        <a href="https://kotlinlang.org/"><img align="space-around" alt="python" width="26px" src="https://user-images.githubusercontent.com/67513038/207230971-6f785c6f-77c7-499d-9e90-16543505ef4d.svg"></a>
         <a href="https://github.com/YoungHaKim7/Java_Lang">Java_Lang_my_project</a>
         <br><a href="https://github.com/YoungHaKim7/Kotlin_Lang">Kotlin_Lang_my_project</a>
  </td></tr>
     <tr align="center">
         <td>Swift(iOS)</td>
-        <td><a href="https://developer.apple.com/swift/"><img align="left" alt="swift" width="26px" src="https://user-images.githubusercontent.com/67513038/147562713-d5032edd-0595-4825-973c-6aab413d83de.jpg"></a>
+        <td><a href="https://developer.apple.com/swift/"><img align="space-around" alt="swift" width="26px" src="https://user-images.githubusercontent.com/67513038/147562713-d5032edd-0595-4825-973c-6aab413d83de.jpg"></a>
         <a href="https://github.com/YoungHaKim7/Swift_Lang">Swift_Lang_my_project</a>
         <br>
  </td></tr> 
@@ -368,29 +368,29 @@ ColumnLimit: 80
       </td></tr>
      <tr align="center">
         <td>Git</td>
-        <td><a href="https://en.wikipedia.org/wiki/HTML"><img align="left" alt="git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg"></a>
+        <td><a href="https://en.wikipedia.org/wiki/HTML"><img align="space-around" alt="git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg"></a>
          <a href="https://github.com/YoungHaKim7/git_training">Git_Training</a>
       </td></tr>
    <tr align="center">
         <td>Web<br>Dev.__Elixir_API</td>
-        <td><a href="https://elixir-lang.org/"><img align="left" alt="elixir" width="26px" src="https://user-images.githubusercontent.com/67513038/215451916-20c7c6a8-3d11-4260-8f4c-17979d0c5a40.png"></a>
+        <td><a href="https://elixir-lang.org/"><img align="space-around" alt="elixir" width="26px" src="https://user-images.githubusercontent.com/67513038/215451916-20c7c6a8-3d11-4260-8f4c-17979d0c5a40.png"></a>
          <a href="https://github.com/YoungHaKim7/Elixir_my_project">Elixir_my_project</a>
       </td></tr>
      <tr align="center">
         <td>TypeScript = 💪<br>The next generation of JavaScript</td>
         <td>
-         <a href="https://en.wikipedia.org/wiki/JavaScript"><img align="left" alt="javascript" width="26px" src="https://user-images.githubusercontent.com/67513038/215448983-97327d43-4c12-4e83-b529-e994d7614a21.png"></a>
+         <a href="https://en.wikipedia.org/wiki/JavaScript"><img align="space-around" alt="javascript" width="26px" src="https://user-images.githubusercontent.com/67513038/215448983-97327d43-4c12-4e83-b529-e994d7614a21.png"></a>
         <a href="https://www.typescriptlang.org/"><img align="left" alt="typescript" width="26px" src="https://user-images.githubusercontent.com/67513038/212785634-76fbb5ab-6897-46a1-9a32-90c9d10bdf97.svg"></a>
          </a><a href="https://github.com/YoungHaKim7/my_typescript_project">TypeScript_my_project</a></td></tr>
    <tr align="center">
         <td>Diagramming and<br>charting tool📊<br>draw.io</td>
-        <td><a href="https://mermaid.js.org/"><img align="left" alt="mermaid" width="26px" src="https://user-images.githubusercontent.com/67513038/217426277-7a86a400-8749-4e59-a46b-161e25c7bdc3.png"></a>
+        <td><a href="https://mermaid.js.org/"><img align="space-around" alt="mermaid" width="26px" src="https://user-images.githubusercontent.com/67513038/217426277-7a86a400-8749-4e59-a46b-161e25c7bdc3.png"></a>
          <br><a href="https://github.com/YoungHaKim7/mermaid_project">mermaid_project</a>
          <br><a href="https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio">Draw.io Integration(VSCode Extension</a>
       </td></tr>
   <tr align="center">
         <td>🔬 Tools 🧐 <br>to visualize code</td>
-        <td><a href="https://nag763.github.io/doteur/"><img align="left" alt="mermaid" width="26px" src="https://raw.githubusercontent.com/nag763/doteur/main/.github/assets/logo.png"></a>
+        <td><a href="https://nag763.github.io/doteur/"><img align="space-around" alt="mermaid" width="26px" src="https://raw.githubusercontent.com/nag763/doteur/main/.github/assets/logo.png"></a>
          <a href="https://github.com/nag763/doteur">Tool to automate the visualisation<br> of SQL schemas from a SQL file</a><br>https://nag763.github.io/doteur/
       </td></tr>
    <tr align="center">
@@ -403,55 +403,55 @@ ColumnLimit: 80
      <tr align="center">
         <td>Multi-paradigm<br>& long history</td>
         <td>
-         <a href="https://en.wikipedia.org/wiki/Lisp_(programming_language)"><img align="left" alt="lisp" width="26px" src="https://user-images.githubusercontent.com/67513038/211204241-5dc903b7-606e-496c-9898-3cd093204b76.png"></a><a href="https://github.com/YoungHaKim7/lisp_language">Lisp_my_project</a></td></tr>
+         <a href="https://en.wikipedia.org/wiki/Lisp_(programming_language)"><img align="space-around" alt="lisp" width="26px" src="https://user-images.githubusercontent.com/67513038/211204241-5dc903b7-606e-496c-9898-3cd093204b76.png"></a><a href="https://github.com/YoungHaKim7/lisp_language">Lisp_my_project</a></td></tr>
      <tr align="center">
         <td>Fortran<br>Programming</td>
-        <td><a href="https://fortran-lang.org/"><img align="left" alt="fortran" width="26px" src="https://github.com/user-attachments/assets/a5c91166-bca0-4125-8030-ba6f3034891a"></a>
+        <td><a href="https://fortran-lang.org/"><img align="space-around" alt="fortran" width="26px" src="https://github.com/user-attachments/assets/a5c91166-bca0-4125-8030-ba6f3034891a"></a>
         </a><a href="https://github.com/YoungHaKim7/Fortran_lang_training">fortran_my_project</a></td></tr>
      <tr align="center">
         <td>Functional<br>Programming</td>
-        <td><a href="https://www.haskell.org/"><img align="left" alt="haskell" width="26px" src="https://user-images.githubusercontent.com/67513038/204034727-e2a992fc-6392-4dc4-8846-843f0c1a31c9.png"></a>
+        <td><a href="https://www.haskell.org/"><img align="space-around" alt="haskell" width="26px" src="https://user-images.githubusercontent.com/67513038/204034727-e2a992fc-6392-4dc4-8846-843f0c1a31c9.png"></a>
          </a><a href="https://github.com/YoungHaKim7/Haskell_Lang">Haskell_my_project</a></td></tr>
      <tr align="center">
         <td>Classical<br>Concurrency<br>Programming</td>
-        <td><a href="https://www.erlang.org/"><img align="left" alt="erlang" width="26px" src="https://user-images.githubusercontent.com/67513038/211135244-d5435285-1128-4020-98d3-23c63f751e0c.png"></a></td></tr>
+        <td><a href="https://www.erlang.org/"><img align="space-around" alt="erlang" width="26px" src="https://user-images.githubusercontent.com/67513038/211135244-d5435285-1128-4020-98d3-23c63f751e0c.png"></a></td></tr>
     <tr align="center">
         <td>Classical<br>Financial<br>Programming</td>
         <td>CommonBusiness<br>OrientedLanguage<a href="https://en.wikipedia.org/wiki/COBOL"><img align="left" alt="cobol" width="32px" src="https://user-images.githubusercontent.com/67513038/211202750-03343c85-8fdb-4ed7-bd5e-0a50929f48c6.png"></a></td></tr>    
  <tr align="center">
         <td>Ada a ⛑<br>"safety critical"<br>🚀language✈ </td>
-        <td><a href="https://www.adaic.org/"><img align="left" alt="ada" width="26px" src="https://user-images.githubusercontent.com/67513038/204034555-9eee7448-992b-486a-8ad5-d1c7c4701bf6.png"></a><a href="https://stackoverflow.com/questions/7814869/how-is-ada-a-safety-critical-language">Safe reasons</a>
+        <td><a href="https://www.adaic.org/"><img align="space-around" alt="ada" width="26px" src="https://user-images.githubusercontent.com/67513038/204034555-9eee7448-992b-486a-8ad5-d1c7c4701bf6.png"></a><a href="https://stackoverflow.com/questions/7814869/how-is-ada-a-safety-critical-language">Safe reasons</a>
          </a><br><a href="https://github.com/YoungHaKim7/Ada_Lang">Ada_Lang_my_project</a>
          </td>
     </tr>
      <tr align="center">
     <td>AI Dev.</td>
         <td>
-        <a href="https://www.modular.com/"><img align="left" alt="python" width="26px" src="https://user-images.githubusercontent.com/67513038/236720090-fd0d6b3f-5c81-46f4-9df7-94c458a80622.png"></a>
+        <a href="https://www.modular.com/"><img align="space-around" alt="python" width="26px" src="https://user-images.githubusercontent.com/67513038/236720090-fd0d6b3f-5c81-46f4-9df7-94c458a80622.png"></a>
          <a href="https://github.com/YoungHaKim7/Modular_Mojo_AI_Dev">Mojo_AI_Dev.</a>
  </td></tr>
  <tr align="center">
     <td>Etc</td>
         <td>
-        <a href="https://julialang.org/"><img align="left" alt="julia" width="26px" src="https://user-images.githubusercontent.com/67513038/208703412-02258d30-101a-4192-8c12-d387f3c6c163.png"></a>
-        <a href="https://www.python.org/"><img align="left" alt="python" width="26px" src="https://user-images.githubusercontent.com/67513038/146173763-af249b79-1838-4c27-943e-12c59be7eace.jpg"></a>
+        <a href="https://julialang.org/"><img align="space-around" alt="julia" width="26px" src="https://user-images.githubusercontent.com/67513038/208703412-02258d30-101a-4192-8c12-d387f3c6c163.png"></a>
+        <a href="https://www.python.org/"><img align="space-around" alt="python" width="26px" src="https://user-images.githubusercontent.com/67513038/146173763-af249b79-1838-4c27-943e-12c59be7eace.jpg"></a>
          <a href="https://github.com/YoungHaKim7/Machine_learning_py_tensorflow_deep">Python_Machine_Learning</a>
  </td></tr>
      <tr align="center">
     <td>statistical<br>computing and graphics</td>
         <td>
-        <a href="https://www.r-project.org/"><img align="left" alt="rlang" width="26px" src="https://user-images.githubusercontent.com/67513038/220263144-a024b0a0-e9d3-49b9-a512-c4a37e61488a.png"></a>
+        <a href="https://www.r-project.org/"><img align="space-around" alt="rlang" width="26px" src="https://user-images.githubusercontent.com/67513038/220263144-a024b0a0-e9d3-49b9-a512-c4a37e61488a.png"></a>
         <a href="https://github.com/YoungHaKim7/R_Language_my_project">R_Lang_my_project</a>
     </tr>
     <tr align="center">
         <td>Terminal emulator</td>
-        <td><a href="https://www.warp.dev/"><img align="left" alt="warp" width="26px" src="https://user-images.githubusercontent.com/67513038/210915840-5306318c-7564-4deb-b423-c46847b0a286.png"></a>
-        <a href="https://alacritty.org/"><img align="left" alt="alacritty" width="26px" src="https://user-images.githubusercontent.com/67513038/210916659-2bcbc6a5-1d10-4f9d-8541-a567f4ec59f0.png"></a>
-        <a href="https://www.rust-lang.org/"><img align="left" alt="rust1" width="26px" src="https://user-images.githubusercontent.com/67513038/213436632-820a1675-98d9-4626-979d-be63c60cdcb7.png" /></a>Warp & Alacritty<br>The two programs are made in Rust language.</td></tr>
+        <td><a href="https://www.warp.dev/"><img align="space-around" alt="warp" width="26px" src="https://user-images.githubusercontent.com/67513038/210915840-5306318c-7564-4deb-b423-c46847b0a286.png"></a>
+        <a href="https://alacritty.org/"><img align="space-around" alt="alacritty" width="26px" src="https://user-images.githubusercontent.com/67513038/210916659-2bcbc6a5-1d10-4f9d-8541-a567f4ec59f0.png"></a>
+        <a href="https://www.rust-lang.org/"><img align="space-around" alt="rust1" width="26px" src="https://user-images.githubusercontent.com/67513038/213436632-820a1675-98d9-4626-979d-be63c60cdcb7.png" /></a>Warp & Alacritty<br>The two programs are made in Rust language.</td></tr>
    <tr align="center">
         <td>Terminal Multiplexers</td>
-        <td><a href="https://github.com/zellij-org/zellij"><img align="left" alt="zellij" width="26px" src="https://raw.githubusercontent.com/zellij-org/zellij/main/assets/logo.png"></a>
-        <a href="https://www.rust-lang.org/"><img align="left" alt="rust1" width="26px" src="https://user-images.githubusercontent.com/67513038/213436632-820a1675-98d9-4626-979d-be63c60cdcb7.png" /></a>Zellij<br>The programs are made in Rust language.</td></tr>
+        <td><a href="https://github.com/zellij-org/zellij"><img align="space-around" alt="zellij" width="26px" src="https://raw.githubusercontent.com/zellij-org/zellij/main/assets/logo.png"></a>
+        <a href="https://www.rust-lang.org/"><img align="space-around" alt="rust1" width="26px" src="https://user-images.githubusercontent.com/67513038/213436632-820a1675-98d9-4626-979d-be63c60cdcb7.png" /></a>Zellij<br>The programs are made in Rust language.</td></tr>
     <tr align="center">
        <td>Polyglot<br>Programming<br>MachineLearning</td>
        <td><a href="https://github.com/EbookFoundation/free-programming-books">Freely available programming books<br>List of Free Learning Resources In Many Languages</a>
@@ -460,7 +460,7 @@ ColumnLimit: 80
        </tr>
     <tr align="center">
        <td>Polyglot<br>MyYouTubeContents</td>
-       <td><a href="https://alacritty.org/"><img align="left" alt="myyoutubechannel" width="26px" src="https://user-images.githubusercontent.com/67513038/214269633-026239ec-b47e-4743-8556-3e644b0f20b2.png"></a>
+       <td><a href="https://alacritty.org/"><img align="space-around" alt="myyoutubechannel" width="26px" src="https://user-images.githubusercontent.com/67513038/214269633-026239ec-b47e-4743-8556-3e644b0f20b2.png"></a>
        <a href="https://github.com/YoungHaKim7/YouTubeContents_GlobalYoung">My YouTube Contents</a></td>
        </tr>
    <!-- <tr align="center">
