@@ -272,8 +272,8 @@ ColumnLimit: 80
      <tr align="center">
         <td>Rust<br>MachineLearning</td>
         <td><a href="https://github.com/rust-ml/linfa"><img align="space-around" alt="rustmascot" width="26px" src="https://user-images.githubusercontent.com/67513038/213403213-1b1b3efc-ce53-4825-9dfc-e9bf2956a7f4.svg" /></a>
-        <br /><a href="https://www.rust-lang.org/"><img align="space-around" alt="rust1" width="26px" src="https://user-images.githubusercontent.com/67513038/213436632-820a1675-98d9-4626-979d-be63c60cdcb7.png" /></a>
-        <a href="https://github.com/YoungHaKim7/Machine_Learning_Rust">Rust_Machine_Learning<br>my_project</a></td>
+        <a href="https://www.rust-lang.org/"><img align="space-around" alt="rust1" width="26px" src="https://user-images.githubusercontent.com/67513038/213436632-820a1675-98d9-4626-979d-be63c60cdcb7.png" /></a>
+        <br /><a href="https://github.com/YoungHaKim7/Machine_Learning_Rust">Rust_Machine_Learning<br>my_project</a></td>
     </tr>
      <tr align="center">
         <td>Algoritms<br>BigPictureOfCalculus</td>
@@ -419,7 +419,8 @@ ColumnLimit: 80
         <td><a href="https://www.erlang.org/"><img align="space-around" alt="erlang" width="26px" src="https://user-images.githubusercontent.com/67513038/211135244-d5435285-1128-4020-98d3-23c63f751e0c.png"></a></td></tr>
     <tr align="center">
         <td>Classical<br>Financial<br>Programming</td>
-        <td>CommonBusiness<br>OrientedLanguage<a href="https://en.wikipedia.org/wiki/COBOL"><img align="space-around" alt="cobol" width="32px" src="https://user-images.githubusercontent.com/67513038/211202750-03343c85-8fdb-4ed7-bd5e-0a50929f48c6.png"></a></td></tr>    
+        <td><a href="https://en.wikipedia.org/wiki/COBOL"><img align="space-around" alt="cobol" width="32px" src="https://user-images.githubusercontent.com/67513038/211202750-03343c85-8fdb-4ed7-bd5e-0a50929f48c6.png"></a>
+        <br />CommonBusiness<br>OrientedLanguage</td></tr>    
  <tr align="center">
         <td>Ada a ⛑<br>"safety critical"<br>🚀language✈ </td>
         <td><a href="https://www.adaic.org/"><img align="space-around" alt="ada" width="26px" src="https://user-images.githubusercontent.com/67513038/204034555-9eee7448-992b-486a-8ad5-d1c7c4701bf6.png"></a><a href="https://stackoverflow.com/questions/7814869/how-is-ada-a-safety-critical-language">Safe reasons</a>
@@ -449,11 +450,11 @@ ColumnLimit: 80
         <td>Terminal emulator</td>
         <td><a href="https://www.warp.dev/"><img align="space-around" alt="warp" width="26px" src="https://user-images.githubusercontent.com/67513038/210915840-5306318c-7564-4deb-b423-c46847b0a286.png"></a>
         <a href="https://alacritty.org/"><img align="space-around" alt="alacritty" width="26px" src="https://user-images.githubusercontent.com/67513038/210916659-2bcbc6a5-1d10-4f9d-8541-a567f4ec59f0.png"></a>
-        <a href="https://www.rust-lang.org/"><img align="space-around" alt="rust1" width="26px" src="https://user-images.githubusercontent.com/67513038/213436632-820a1675-98d9-4626-979d-be63c60cdcb7.png" /></a>Warp & Alacritty<br>The two programs are made in Rust language.</td></tr>
+        <a href="https://www.rust-lang.org/"><img align="space-around" alt="rust1" width="26px" src="https://user-images.githubusercontent.com/67513038/213436632-820a1675-98d9-4626-979d-be63c60cdcb7.png" /></a><br />Warp & Alacritty<br>The two programs are made in Rust language.</td></tr>
    <tr align="center">
         <td>Terminal Multiplexers</td>
         <td><a href="https://github.com/zellij-org/zellij"><img align="space-around" alt="zellij" width="26px" src="https://raw.githubusercontent.com/zellij-org/zellij/main/assets/logo.png"></a>
-        <a href="https://www.rust-lang.org/"><img align="space-around" alt="rust1" width="26px" src="https://user-images.githubusercontent.com/67513038/213436632-820a1675-98d9-4626-979d-be63c60cdcb7.png" /></a>Zellij<br>The programs are made in Rust language.</td></tr>
+        <a href="https://www.rust-lang.org/"><img align="space-around" alt="rust1" width="26px" src="https://user-images.githubusercontent.com/67513038/213436632-820a1675-98d9-4626-979d-be63c60cdcb7.png" /></a><br />Zellij<br>The programs are made in Rust language.</td></tr>
     <tr align="center">
        <td>Polyglot<br>Programming<br>MachineLearning</td>
        <td><a href="https://github.com/EbookFoundation/free-programming-books">Freely available programming books<br>List of Free Learning Resources In Many Languages</a>
