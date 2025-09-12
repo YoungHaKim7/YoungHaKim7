@@ -393,7 +393,7 @@ ColumnLimit: 80
   <tr align="center">
         <td>🔬 Tools 🧐 <br>to visualize code</td>
         <td><a href="https://nag763.github.io/doteur/"><img align="space-around" alt="mermaid" width="26px" src="https://raw.githubusercontent.com/nag763/doteur/main/.github/assets/logo.png"></a>
-         <a href="https://github.com/nag763/doteur">Tool to automate the visualisation<br> of SQL schemas from a SQL file</a><br>https://nag763.github.io/doteur/
+         <br /><a href="https://github.com/nag763/doteur">Tool to automate the visualisation<br> of SQL schemas from a SQL file</a><br>https://nag763.github.io/doteur/
       </td></tr>
    <tr align="center">
         <td>Markdown slide deck<br> framework📽️PPT</td>
