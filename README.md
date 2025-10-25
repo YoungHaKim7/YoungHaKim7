@@ -53,6 +53,7 @@ https://rustmagazine.org/
   - https://rustwasm.github.io/docs/book/
 
 - The Embedded Rustacean
+  - https://docs.rust-embedded.org/book/
   - https://www.theembeddedrustacean.com/
     - Blog
       - https://jslazak.com/are-we-embedded-yet-2/
