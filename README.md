@@ -84,17 +84,15 @@ https://rustmagazine.org/
         - https://youtu.be/5r90Z7Ec3Pw?si=8MLWedGjtK-x1BFS
       - SME Announcements https://bevyengine.org/news/sme-announcements/
       - https://bevyengine.org/news/bevy-webgpu/
-      - This Week in Bevy Engine | chris biscardi
-        - https://youtube.com/playlist?list=PLWtPciJ1UMuAyAER9ASVEDRIz0DUspOeZ&si=T-HJLRn39NKK1Hyp
+      - [(유튜브 영상 모아보기)This Week in Bevy Engine | chris biscardi](https://youtube.com/playlist?list=PLWtPciJ1UMuAyAER9ASVEDRIz0DUspOeZ&si=T-HJLRn39NKK1Hyp)
     - Fyrox
       - https://fyrox.rs/blog/
-      - Fyrox Game Engine 0.36(Rust) https://fyrox.rs/blog/post/fyrox-game-engine-0-36/
-      - Fyrox Game Engine 0.34 https://fyrox.rs/blog/post/fyrox-game-engine-0-34/
+      - [Fyrox Game Engine 0.36(Rust)](https://fyrox.rs/blog/post/fyrox-game-engine-0-36/)
+      - [Fyrox Game Engine 0.34](https://fyrox.rs/blog/post/fyrox-game-engine-0-34/)
      
   - Terminal Multiplexer
     - https://zellij.dev/news/new-plugin-system/
-      - 소개영상(Zellij)Aram Drevekenin – Zellij - A terminal workspace with batteries included - Rust Vienna June 2023
-        - https://youtu.be/nBL_8KsTA5g
+      - [소개영상(Zellij)Aram Drevekenin – Zellij - A terminal workspace with batteries included - Rust Vienna June 2023](https://youtu.be/nBL_8KsTA5g)
   - Text Editor
     - Helix https://helix-editor.com/
     - Zed(Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.)
