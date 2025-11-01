@@ -152,6 +152,7 @@ https://rustmagazine.org/
       - Rust2024 Edition Rust 1.85 https://blog.rust-lang.org/2025/02/20/Rust-1.85.0.html
       - [(241127)Rust 2024 will be released to stable Rust with Rust 1.85 on 2025-02-20.](https://blog.rust-lang.org/2024/11/27/Rust-2024-public-testing.html)
       - (231215) https://blog.rust-lang.org/2023/12/15/2024-Edition-CFP.html
+      - [(251028) Project goals for 2025H2 · Niko Matsakis on behalf of the Goals team](https://blog.rust-lang.org/2025/10/28/project-goals-2025h2/)
 
 - toml fmt(toml정렬)
   - https://github.com/YoungHaKim7/rust_vim_setting?tab=readme-ov-file#toml-fmt
