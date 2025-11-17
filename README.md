@@ -113,9 +113,9 @@ https://rustmagazine.org/
 
 - linux
   - [sudo-rs(sudo에 문제점을 해결하기 위한 러스트sudo blog글)](https://www.memorysafety.org/blog/reducing-dependencies-in-sudo/)
-    -[깃허브Github sudo-rs](https://github.com/trifectatechfoundation/sudo-rs)
+    - [깃허브Github sudo-rs](https://github.com/trifectatechfoundation/sudo-rs)
   - [rip2 - 더 안전한 Rust 기반 rm GeekNews에 올라온글](https://news.hada.io/topic?id=17741)
-    -[깃허브Github_rip2)](https://github.com/MilesCranmer/rip2)
+    - [깃허브Github_rip2)](https://github.com/MilesCranmer/rip2)
     
 <hr>
 
