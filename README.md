@@ -12,7 +12,7 @@
 <!-- - https://app.gitbook.com/o/g1xFEmOsIbIjk1wCqBcJ/home !-->
 - 💞️ The final goal is to create an automatic trading U.S. futures program.
 - 📫 How to reach me ...
-<a href="https://velog.io/@global_young/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-GlobalYoung-Green"></a>
+<a href="https://younghakim7.github.io/blog/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-GlobalYoung-Green"></a>
 <a href="https://www.youtube.com/c/GlobalYoung7" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/YouTube-GlobalYoung-red"></a>
 <!-- - my discord(Rust러스트코딩) https://discord.gg/fjNAQ4Jn  !--?
  
