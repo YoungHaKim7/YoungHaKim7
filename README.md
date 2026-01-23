@@ -127,13 +127,13 @@ https://rustmagazine.org/
 
   - https://blog.rust-lang.org/2015/05/15/Rust-1.0.html
 
-- <img width=25px src="https://github.com/user-attachments/assets/3489669b-63c0-439e-b507-9b2bfb3fdd5e" />Version 1.92.0(Rust Edition 2024) (2025-12-11)
+- <img width=25px src="https://github.com/user-attachments/assets/3489669b-63c0-439e-b507-9b2bfb3fdd5e" />Version 1.93.0(Rust Edition 2024) (2026-01-22)
   - https://github.com/rust-lang/rust/blob/master/RELEASES.md
-  - https://blog.rust-lang.org/2025/12/11/Rust-1.92.0/
+  - https://blog.rust-lang.org/2026/01/22/Rust-1.93.0/
 
 - Rust Release https://www.whatrustisit.com/
 
-  - Next release day: 2026-01-22
+  - Next release day: 2026-03-05
   
 - This is the main Rust blog. https://blog.rust-lang.org/
 
