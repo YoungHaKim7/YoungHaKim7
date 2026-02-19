@@ -74,12 +74,16 @@ https://rustmagazine.org/
 
   - <a href="https://github.com/containers/youki/releases/tag/v0.1.0">Youki v0.1.0 has been released for use with Kubernetes and more </a>
     - https://github.com/containers/youki
+
+  - DB
+    - [SurrealDB 3.0 is here!](https://surrealdb.com/3.0)
+      - [유튜브 영상 260218 Introducing SurrealDB 3.0](https://youtu.be/USg8ZQC5mQc?si=s5F_7PgOdjoJwxQC)
   
   - GameEngine(Bevy, Fyrox) 
     - Bevy
       - Bevy최신소식
         - https://thisweekinbevy.com/
-        - https://bevy.org/news/bevy-0-16/
+        - [(260113)https://bevy.org/news/bevy-0-18/](https://bevy.org/news/bevy-0-18/)
       - Bevy 0-14-rc.2, Powerglove, and Soup - This Week in Bevy chris biscardi
         - https://youtu.be/5r90Z7Ec3Pw?si=8MLWedGjtK-x1BFS
       - SME Announcements https://bevyengine.org/news/sme-announcements/
@@ -87,6 +91,7 @@ https://rustmagazine.org/
       - [(유튜브 영상 모아보기)This Week in Bevy Engine | chris biscardi](https://youtube.com/playlist?list=PLWtPciJ1UMuAyAER9ASVEDRIz0DUspOeZ&si=T-HJLRn39NKK1Hyp)
     - Fyrox
       - https://fyrox.rs/blog/
+      - [(Rust게임엔진)260219) Fyrox Game Engine 1.0 Release Candidate 2](https://fyrox.rs/blog/post/fyrox-game-engine-1-0-0-rc-2/)
       - [Fyrox Game Engine 0.36(Rust)](https://fyrox.rs/blog/post/fyrox-game-engine-0-36/)
       - [Fyrox Game Engine 0.34](https://fyrox.rs/blog/post/fyrox-game-engine-0-34/)
      
