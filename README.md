@@ -4,6 +4,7 @@
   - [▲260226) 웹에서 WebAssembly를 1급 언어로 만들기 (hacks.mozilla.org)](https://news.hada.io/topic?id=27429)
     - WebAssembly는 2017년 첫 출시 이후 C/C++ 등 저수준 언어 실행을 지원하며 발전해 왔지만, 여전히 웹 플랫폼에서 2급 언어로 취급되고 있음
     - https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/
+      - [260804지금 유일한 대한책(Topcoat is a modular, batteries-included Rust framework for building full-stack apps.)](https://github.com/tokio-rs/topcoat)
   <!-- - Rust Perseus(Test) https://port-0-rust-discord-homepage-dihik2mljdovxnx.sel4.cloudtype.app/ !-->
 <!--  - Rust Yew https://younghakim7.github.io/  !-->
 <!--  - Plain HTML Homepage  !-->
