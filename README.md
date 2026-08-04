@@ -316,8 +316,8 @@ ColumnLimit: 80
       <a href="https://www.rust-lang.org/"><img align="space-around" alt="rust1" width="26px" src="https://user-images.githubusercontent.com/67513038/213436632-820a1675-98d9-4626-979d-be63c60cdcb7.png" /></a>
       <a href="https://webassembly.org/"><img align="space-around" alt="wasm" width="26px"  src="https://upload.wikimedia.org/wikipedia/commons/1/1f/WebAssembly_Logo.svg" /></a>
       <br><a href="https://github.com/YoungHaKim7/Rust_WASM">Rust_WASM</a>
-      <br><a href="https://port-0-rusthomepage-dihik2mljdovxnx.sel4.cloudtype.app/"> Rust Perseus(WASM)</a>
-      <br><a href="https://younghakim7.github.io/"> Rust yew(WASM)</a>
+        <!-- <br><a href="https://port-0-rusthomepage-dihik2mljdovxnx.sel4.cloudtype.app/"> Rust Perseus(WASM)</a> !-->
+      <!--<br><a href="https://younghakim7.github.io/"> Rust yew(WASM)</a>  !-->
      </td>
     </tr>
     <tr align="center">
