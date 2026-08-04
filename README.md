@@ -209,7 +209,7 @@ find . -regex '.*\.\(cpp\|hpp\|cc\|cxx\|c\|h\)' -exec clang-format -style=file -
 # BasedOnStyle: WebKit
 # LLVM, Google, Chromium, Mozilla, WebKit
 
-BasedOnStyle: WebKit
+BasedOnStyle: LLVM
 IndentWidth: 4
 ContinuationIndentWidth: 4
 IndentCaseLabels: false
