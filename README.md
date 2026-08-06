@@ -269,9 +269,11 @@ ColumnLimit: 80
           <br><a href="https://github.com/YoungHaKim7/C3_lang_training">C3 my project</a>
          <br><a href="https://github.com/YoungHaKim7/zig_lang_exercises">Zig_my_project</a>
          <br><a href="https://github.com/YoungHaKim7/c_project">C_my_project</a>
+         <br><a href="https://github.com/YoungHaKim7/c23_pthread_cmake_just_sample">C23_Training</a> 
          <br><a href="https://github.com/YoungHaKim7/cpp_training2024">C++_Training</a>
-         <br><a href="https://github.com/YoungHaKim7/cpp23_project">C++23 & C++26 _Training</a>
-         <br><a href="https://github.com/YoungHaKim7/cppfront_training">C++front_Training</td>
+         <br><a href="https://github.com/YoungHaKim7/cpp23_project">C++23_Training</a>
+         <br><a href="https://github.com/YoungHaKim7/cpp23_26_project">C++23 & 26 _Training</a>
+         <br><a href="https://github.com/YoungHaKim7/cppfront_training">C++front_Training</a></td>
     </tr>
     <tr align="center">
     <td>Rust <br>GUI</td>
