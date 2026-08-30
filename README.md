@@ -189,6 +189,12 @@ $ find . -iname '*.h' -o -iname '*.cpp' -o -iname '*.hpp' -o -iname '*.c' | clan
 Clang-formating 2 files
 ```
 
+- `.clang-format` 파일이 존재한다면 (clang-format & c23 컴파일 동시에)
+
+```bash
+clang-format --style=file -i src/main.c && clang -std=c23 -pedantic -pthread -pedantic-errors -Wall -Wextra -Werror -ggdb -o target/stack_impl_c23ver src/main.c
+```
+
 - `.clang-format` 파일 만들기 
   - 옵션 눈으로 보면서 세팅조절하기 https://zed0.co.uk/clang-format-configurator/
 
