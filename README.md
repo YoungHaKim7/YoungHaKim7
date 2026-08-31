@@ -97,9 +97,8 @@ https://rustmagazine.org/
       - [(유튜브 영상 모아보기)This Week in Bevy Engine | chris biscardi](https://youtube.com/playlist?list=PLWtPciJ1UMuAyAER9ASVEDRIz0DUspOeZ&si=T-HJLRn39NKK1Hyp)
     - Fyrox
       - https://fyrox.rs/blog/
-      - [(Rust게임엔진)260219) Fyrox Game Engine 1.0 Release Candidate 2](https://fyrox.rs/blog/post/fyrox-game-engine-1-0-0-rc-2/)
+      - [(Rust게임엔진)260324) Fyrox Game Engine 1.0.0](https://fyrox.rs/blog/post/fyrox-game-engine-1-0-0/)
       - [Fyrox Game Engine 0.36(Rust)](https://fyrox.rs/blog/post/fyrox-game-engine-0-36/)
-      - [Fyrox Game Engine 0.34](https://fyrox.rs/blog/post/fyrox-game-engine-0-34/)
      
   - Terminal Multiplexer
     - https://zellij.dev/news/new-plugin-system/
