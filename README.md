@@ -89,7 +89,7 @@ https://rustmagazine.org/
     - Bevy
       - Bevy최신소식
         - https://thisweekinbevy.com/
-        - [(260113)https://bevy.org/news/bevy-0-18/](https://bevy.org/news/bevy-0-18/)
+        - [(260619)Bevy 0.19 | Posted on June 19, 2026 by Bevy Contributors](https://bevy.org/news/bevy-0-19/)
       - Bevy 0-14-rc.2, Powerglove, and Soup - This Week in Bevy chris biscardi
         - https://youtu.be/5r90Z7Ec3Pw?si=8MLWedGjtK-x1BFS
       - SME Announcements https://bevyengine.org/news/sme-announcements/
