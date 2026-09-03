@@ -71,6 +71,7 @@ https://rustmagazine.org/
   - https://deislabs.io/posts/introducing-wagi-easiest-way-to-build-webassembly-microservices/
 
 - [러스트와 과학의 만남(영상모아보기)_Scientific Computing in Rust 2025 | Scientific Computing in Rust](https://youtube.com/playlist?list=PLrueqeouhcZNRW7H26DfscFjGSf0Pzd8c&si=SE__v7_yp-n3zvbW)
+  - https://scientificcomputing.rs/
 
 - Updates from Rust Community
   - Official
