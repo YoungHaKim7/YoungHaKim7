@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @YoungHaKim
 - 🌱 I’m currently learning The Rust(<a href="https://github.com/nrc/rustaceans.org">I'm Rustacean</a>)<img width=20px src="https://github.com/user-attachments/assets/3489669b-63c0-439e-b507-9b2bfb3fdd5e" />
 - I'm focusing on making the homepage(using WASM) only with Rust Languge.
+  - [Wasmi 2.0 - Engineering of the Fastest Wasm Interpreters The optimizations behind Wasmi 2.0, and how they compare to Wasm3 and Stitch. | September 1, 2026 Robin Freyler](https://wasmi-labs.github.io/blog/posts/wasmi-v2.0/)
   - [▲260226) 웹에서 WebAssembly를 1급 언어로 만들기 (hacks.mozilla.org)](https://news.hada.io/topic?id=27429)
     - WebAssembly는 2017년 첫 출시 이후 C/C++ 등 저수준 언어 실행을 지원하며 발전해 왔지만, 여전히 웹 플랫폼에서 2급 언어로 취급되고 있음
     - https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/
