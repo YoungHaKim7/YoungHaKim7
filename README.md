@@ -140,9 +140,9 @@ https://rustmagazine.org/
 
   - https://blog.rust-lang.org/2015/05/15/Rust-1.0.html
 
-- <img width=25px src="https://github.com/user-attachments/assets/3489669b-63c0-439e-b507-9b2bfb3fdd5e" />Version 1.98.0(Rust Edition 2024) (2026-08-20)
+- <img width=25px src="https://github.com/user-attachments/assets/3489669b-63c0-439e-b507-9b2bfb3fdd5e" />Version 1.99.0(Rust Edition 2024) (2026-10-01)
   - https://github.com/rust-lang/rust/blob/master/RELEASES.md
-  - https://blog.rust-lang.org/2026/08/20/Rust-1.98.0/
+  - https://blog.rust-lang.org/2026/10/01/Rust-1.99.0/
 
 - Rust Release https://www.whatrustisit.com/
 
