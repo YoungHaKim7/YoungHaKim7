@@ -146,7 +146,7 @@ https://rustmagazine.org/
 
 - Rust Release https://www.whatrustisit.com/
 
-  - Next release day: 2026-10-01
+  - Next release day: 2026-11-12
   
 - This is the main Rust blog. https://blog.rust-lang.org/
 
