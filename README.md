@@ -352,9 +352,11 @@ ColumnLimit: 80
         <td><a href="https://www.linux.org/pages/download/"><img align="space-around" alt="linux" width="26px" src="https://user-images.githubusercontent.com/67513038/210177859-6623064c-7344-46ce-a0d3-b6dcf21410e2.png"></a>
         <a href="https://developer.apple.com/"><img align="space-around" alt="apple" width="26px" src="https://user-images.githubusercontent.com/67513038/210920737-91c0c09a-e8b1-4343-92d5-17db686c2373.png"></a>
         <a href="https://developer.microsoft.com/en-us/windows/"><img align="space-around" alt="windows" width="26px" src="https://user-images.githubusercontent.com/67513038/210921131-627bcc59-266f-4228-b6ee-37018b5004b7.png"></a>
+        <br /><a href="https://github.com/YoungHaKim7/rust_os_x86_64">Rust OSdev. (x86_64)</a>
+        <br /><a href="https://github.com/YoungHaKim7/rust_os_arm_macos">Rust OSdev. (Arm)</a>
         <br /><a href="https://github.com/YoungHaKim7/Shell_Script">Shell_Script</a>
-        <br><a href="https://github.com/YoungHaKim7/linux_command">Linux_Command</a>
-        <br><a href="https://github.com/YoungHaKim7/PowerShell_pwsh_WinOS">PowerShell_pwsh_WinOS</a>
+        <br /><a href="https://github.com/YoungHaKim7/linux_command">Linux_Command</a>
+        <br /><a href="https://github.com/YoungHaKim7/PowerShell_pwsh_WinOS">PowerShell_pwsh_WinOS</a>
      </td></td></tr>
     <tr align="center">
         <td>Quantum<br>Coding</td>
