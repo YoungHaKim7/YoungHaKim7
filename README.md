@@ -9,10 +9,10 @@
         - [260804지금 유일한 대안책(Topcoat is a modular, batteries-included Rust framework for building full-stack apps.)](https://github.com/tokio-rs/topcoat)
   - [2026년과 이후 JavaScript의 동향 - WebAssembly | 2026.11.05 | 표 1 2019년 이후 주요 사건(WASM탄생과 요약 역사) | 표 3 wasm 3.0에 포함된 기능](https://d2.naver.com/helloworld/7770448)
     - 이번 연재는 다음 네 편으로 구성됩니다.
-      - 1편: JavaScript(ECMAScript)
-      - 2편: 브라우저 밖의 JavaScript
+      - [1편: JavaScript(ECMAScript)](https://d2.naver.com/helloworld/2675915)
+      - [2편: 브라우저 밖의 JavaScript](https://d2.naver.com/helloworld/1443473)
       - 3편: WebAssembly
-      - 4편: 라이브러리와 프레임워크
+      - [4편: 라이브러리와 프레임워크](https://d2.naver.com/helloworld/0627744)
   - 추적하기260826) perseus ( fork해서 누가 업데이트 하는듯
     - https://github.com/afidegnum/perseus
   <!-- - Rust Perseus(Test) https://port-0-rust-discord-homepage-dihik2mljdovxnx.sel4.cloudtype.app/ !-->
