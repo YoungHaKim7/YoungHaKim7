@@ -7,6 +7,12 @@
     - https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/
       - [260907) Anubis에 WebAssembly를 넣는 데 왜 1년이나 걸렸을까 (anubis.techaro](https://news.hada.io/topic?id=33323)
         - [260804지금 유일한 대안책(Topcoat is a modular, batteries-included Rust framework for building full-stack apps.)](https://github.com/tokio-rs/topcoat)
+  - [2026년과 이후 JavaScript의 동향 - WebAssembly | 2026.11.05 | 표 1 2019년 이후 주요 사건(WASM탄생과 요약 역사) | 표 3 wasm 3.0에 포함된 기능](https://d2.naver.com/helloworld/7770448)
+    - 이번 연재는 다음 네 편으로 구성됩니다.
+      - 1편: JavaScript(ECMAScript)
+      - 2편: 브라우저 밖의 JavaScript
+      - 3편: WebAssembly
+      - 4편: 라이브러리와 프레임워크
   - 추적하기260826) perseus ( fork해서 누가 업데이트 하는듯
     - https://github.com/afidegnum/perseus
   <!-- - Rust Perseus(Test) https://port-0-rust-discord-homepage-dihik2mljdovxnx.sel4.cloudtype.app/ !-->
