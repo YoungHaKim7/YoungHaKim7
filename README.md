@@ -23,6 +23,7 @@
 <!-- - Rust Perseus(WASM(Public) https://port-0-fastapi-dihik2mljdovxnx.sel4.cloudtype.app/
 - Rust_Rocket test Homepage https://rust-rocket1108-86a2df3e48f2.herokuapp.com/ !-->
 - [My Contributions](https://github.com/YoungHaKim7/my_Contributions)
+  - [261125첫출시) ABI-faithful Rust conversion of Apple's metal-cpp: raw Objective-C runtime FFI for Metal, Foundation and QuartzCore (macOS 27 / iOS 27 SDK era)](https://crates.io/crates/metal-cpp-rs)
 <!-- - https://app.gitbook.com/o/g1xFEmOsIbIjk1wCqBcJ/home !-->
 - 💞️ The final goal is to create an automatic trading U.S. futures program.
 - 📫 How to reach me ...
